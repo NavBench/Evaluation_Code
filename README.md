@@ -1,6 +1,6 @@
 # 🧭 NavBench: Probing Multimodal Large Language Models for Embodied Navigation
 
-[🌐 Project Website](https://navbench.github.io) | [📄 arXiv (coming soon)](#) | [🤖 Hugging Face (coming soon)](#)
+[🌐 Project Website](https://navbench.github.io) | [📄 arXiv](https://arxiv.org/abs/2506.01031) | [🤖 Hugging Face (coming soon)](#)
 
 **NavBench** is a benchmark designed to evaluate the **embodied navigation abilities** of Multimodal Large Language Models (MLLMs) in **zero-shot settings**. It focuses on both **comprehension** (understanding instructions and visual context) and **execution** (making navigation decisions), providing a fine-grained assessment of MLLM capabilities in realistic indoor environments.
 
