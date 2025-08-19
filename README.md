@@ -38,6 +38,17 @@ We demonstrate the integration of MLLMs into an **MLLM-to-Robot** pipeline, show
 
 ---
 
+## 🚧 TODO / Planned Releases
+
+We are actively preparing the following components for public release:
+
+- [ ] Full dataset 
+- [ ] Image processing scripts
+- [ ] Evaluation code 
+- [ ] Add licensing statement for Matterport3D compliance
+
+---
+
 ## 🧪 Evaluation & Resources
 
 - **Evaluation Code** – [Coming soon](#)  
