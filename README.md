@@ -1,4 +1,4 @@
-# 🧭 NavBench: Probing Multimodal Large Language Models for Embodied Navigation
+# [NeurIPS 2025] NavBench: Probing Multimodal Large Language Models for Embodied Navigation
 
 [🌐 Project Website](https://navbench.github.io) | [📄 arXiv](https://arxiv.org/abs/2506.01031) | [🤖 Hugging Face (coming soon)](#)
 
@@ -58,4 +58,12 @@ We are actively preparing the following components for public release:
 
 ## 📎 Citation
 
-Coming soon.
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{qiao2025navbench,
+  author = {Yanyuan Qiao and Haodong Hong and Wenqi Lyu and Dong An and Siqi Zhang and Yutong Xie and Xinyu Wang and Qi Wu},
+  title = {NavBench: Probing Multimodal Large Language Models for Embodied Navigation},
+  booktitle = {NeurIPS},
+  year      = {2025}
+}
