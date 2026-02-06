@@ -47,7 +47,7 @@ This repository contains the official evaluation code for **NavBench**, includin
 - **Execution evaluation** (actually navigating in Matterport3D via MatterSim).
 
 The code is currently written for **OpenAI GPT‑4o / ChatGPT‑style APIs**.  
-Support for other models (Qwen, InternVL, LLaMA, etc.) requires some manual adaptation (see Section 4).
+Support for other models (QwenVL, InternVL, LLaMA, etc.) requires some manual adaptation (see Section 4).
 
 ---
 
@@ -297,7 +297,7 @@ Comprehension code also uses `gpt-4o` by default, but you can change `OPENAI_MOD
 
 ### 4.2 Using your own model (advanced)
 
-Different models (Qwen, InternVL, LLaMA, etc.) often have **different APIs and prompt formats**.  
+Different models (QwenVL, InternVL, LLaMA, etc.) often have **different APIs and prompt formats**.  
 To use your own model for Execution, you will need to adapt the following two components:
 
 - **`Exec_code/GPT/api.py`**  
@@ -319,7 +319,7 @@ To use your own model for Execution, you will need to adapt the following two co
     - Call your own `infer` function from `api.py`.
     - Parse the model output into actions using `parse_action` or your own parsing logic.
 
-We will consider adding more built‑in backends (e.g., Qwen, InternVL, etc.) in future updates.  
+We will consider adding more built‑in backends (e.g., QwenVL, InternVL, etc.) in future updates.  
 For now, custom model integration is **not plug‑and‑play** and requires some coding.
 
 ---
@@ -353,7 +353,7 @@ Top‑level helper scripts:
 
 
 - **Future extensions**
-  - More built‑in backends (Qwen, InternVL, LLaMA, etc.) for Execution.
+  - More built‑in backends (QwenVL, InternVL, LLaMA, etc.) for Execution.
   - Better utilities and examples for custom model integration.
 
 ---
