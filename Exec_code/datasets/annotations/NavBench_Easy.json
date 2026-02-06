@@ -1,0 +1,2153 @@
+[
+    {
+        "distance": 5.03,
+        "scan": "GdvgFV5R1Z5",
+        "path_id": 6327,
+        "path": [
+            "1db1c0a09ecf40d188197efc05ced3bb",
+            "97ed68de989e44fdaf2d9b949898fab6",
+            "0b02e18654324edd8d74c078b66bfb20",
+            "aebb1de49d21485e8bef7633dfb58761"
+        ],
+        "heading": 2.029,
+        "instruction": "Follow the hall to the living area and turn left. Wait near the refrigerator. ",
+        "instr_id": 0
+    },
+    {
+        "distance": 5.36,
+        "scan": "YmJkqBEsHnH",
+        "path_id": 884,
+        "path": [
+            "d841f7b710f9470796d55561f8f524db",
+            "01c80b5f8fbd4c969ee0bc03f1ec7a6c",
+            "82ea5baa30f945fe98f6cad3064af847",
+            "d471e89e00be49f49a7ecace814d60bf"
+        ],
+        "heading": 4.986,
+        "instruction": "Walk past pews and wait in front of potted flowers. ",
+        "instr_id": 1
+    },
+    {
+        "distance": 5.32,
+        "scan": "gZ6f7yhEvPG",
+        "path_id": 1304,
+        "path": [
+            "80929af5cf234ae38ac3a2a4e60e4342",
+            "ba27da20782d4e1a825f0a133ad84da9",
+            "47d8a8282c1c4a7fb3eeeacc45e9d959",
+            "46cecea0b30e4786b673f5e951bf82d4"
+        ],
+        "heading": 6.101,
+        "instruction": "Walk around the pews and towards the front of the room with the paintings of religious figures and a stage area. ",
+        "instr_id": 2
+    },
+    {
+        "distance": 6.21,
+        "scan": "8194nk5LbLH",
+        "path_id": 1141,
+        "path": [
+            "6c49579a5cd34df8acb7f790b74e9eae",
+            "ae91518ed77047b3bdeeca864cd04029",
+            "f33c718aaf2c41469389a87944442c62",
+            "be8a2edacab34ec8887ba6a7b1e4945f"
+        ],
+        "heading": 3.435,
+        "instruction": "Exit the kitchen, enter the living room, wait between the pink couch and kitchen island. ",
+        "instr_id": 3
+    },
+    {
+        "distance": 5.0,
+        "scan": "aayBHfsNo7d",
+        "path_id": 1362,
+        "path": [
+            "7b1606930f824359bac6c90077c694e7",
+            "fb81d03848c24f9a89220e899fa32b8d",
+            "9d691cb5fdfc46d995836e1ea82465d7",
+            "c396a23da8b240d2a0bfcb1cd909abfc",
+            "cb0762e9b6af4891b7be36942549586f"
+        ],
+        "heading": 1.427,
+        "instruction": "Enter the building, and the first left, stopping in the doorway. ",
+        "instr_id": 4
+    },
+    {
+        "distance": 5.26,
+        "scan": "ULsKaCPVFJR",
+        "path_id": 5756,
+        "path": [
+            "10f096d877cc45f79f47f82bcc3e7ffe",
+            "990f7ecd608442cfac24fa3e0db8e612",
+            "ad4a92079e654de79e28c6cb45d6c2a4",
+            "bd5ad4194bb44a6794529278f17e1185",
+            "b5d9540ef7f44a1cb325bead8debfc33"
+        ],
+        "heading": 4.008,
+        "instruction": "Go straight until you get to the stairs. Go down three steps then stop. ",
+        "instr_id": 5
+    },
+    {
+        "distance": 5.53,
+        "scan": "29hnd4uzFmX",
+        "path_id": 4175,
+        "path": [
+            "3c05cbcf2b30493592c04628faa3a0d7",
+            "b95ef00660ea4ea89162e31370ba6558",
+            "15b25adcf9bb4a0f8c751138a651dd8b",
+            "0fc2263dc29f4a9183320eddd33edb58",
+            "c9030e71fc29447599a5c21d90261ca5"
+        ],
+        "heading": 0.381,
+        "instruction": "Exit the bathroom, turn left at the potted plant and wait in the bedroom doorway. ",
+        "instr_id": 6
+    },
+    {
+        "distance": 5.54,
+        "scan": "2n8kARJN3HM",
+        "path_id": 1059,
+        "path": [
+            "43b671b4b56b48b99d3e058409efa424",
+            "3054e23f49704ff294fd83d920b15fda",
+            "cfcc491fc7f541cd81c2e6c47bae5c91",
+            "62204f2373344f5ba3b61768afe7ebf0",
+            "7cbf8c7b17d542dbb76bb9951fffddfe"
+        ],
+        "heading": 5.15,
+        "instruction": "Go up three stairs\r\nGo to the mat\r\nGo up two stairs\r\nGo up three stairs. ",
+        "instr_id": 7
+    },
+    {
+        "distance": 5.17,
+        "scan": "HxpKQynjfin",
+        "path_id": 5721,
+        "path": [
+            "71f79f342cde467ba037a196c4e04f6a",
+            "e1d49f9c53bf45ae98d0dd8fb613161a",
+            "efe359ee05ea46c587196354c2d1cc96",
+            "8b41e8798d78402f9f36b242972d729b",
+            "11ec36e3d78c43a389366c5159069b0c"
+        ],
+        "heading": 4.102,
+        "instruction": "From bar walk left across bedroom. Stop at closet with robes. ",
+        "instr_id": 8
+    },
+    {
+        "distance": 5.12,
+        "scan": "rPc6DW4iMge",
+        "path_id": 1972,
+        "path": [
+            "d51bc78ddd6b4e7ba616f70584cafd95",
+            "01b11b701b5240a48be2a86171daa245",
+            "cc15fb105d86466faafdd633f89148de",
+            "2c16cbd610cf4e1b92b2830f51c07e32",
+            "d7044641458e49b0803e186bd1856994"
+        ],
+        "heading": 4.586,
+        "instruction": "Exit the bathroom, turn left, stop on the white rug. ",
+        "instr_id": 9
+    },
+    {
+        "distance": 5.14,
+        "scan": "JmbYfDe2QKZ",
+        "path_id": 3028,
+        "path": [
+            "d89bee33427d45a5bd0cd5e1b4f8dd34",
+            "164618f724c64b43934cb95b11c89593",
+            "96facd619dc5415b836948e39487ebb2",
+            "1416ceed767d46a9beba0aede50504ed",
+            "a358b83b1c6f4ee3bbabb66ac93be11b"
+        ],
+        "heading": 0.955,
+        "instruction": "Enter the bedroom on the left and stop in the bathroom doorway. ",
+        "instr_id": 10
+    },
+    {
+        "distance": 5.36,
+        "scan": "Z6MFQCViBuw",
+        "path_id": 2375,
+        "path": [
+            "22fff6c74efb476592569c18718feb41",
+            "087236543c9a4043a0a3d824b7eef95f",
+            "a38fc71b78d24fd2b80cfaaa8140a0de",
+            "7fd32fb4686b47a29b435aa6564245d3",
+            "c8cff87761fa4a038cfb26a87369ecd4"
+        ],
+        "heading": 6.256,
+        "instruction": "Turn around. Go Straight through the doorway,. ",
+        "instr_id": 11
+    },
+    {
+        "distance": 5.43,
+        "scan": "cV4RVeZvu5T",
+        "path_id": 5655,
+        "path": [
+            "c2dcba0e507748e0b4eb18690058666e",
+            "3e51eeaac8404b31ad8a950bb2bb953d",
+            "3f432ddd169d4433979e004d1237d029",
+            "5bc41a6e3b7748149e0e8592c5b4d142",
+            "618f8c158d8743ce9078464a7e990933"
+        ],
+        "heading": 1.054,
+        "instruction": "Exit room and head past the kitchen.  Wait at the dining table. ",
+        "instr_id": 12
+    },
+    {
+        "distance": 5.63,
+        "scan": "S9hNv5qa7GM",
+        "path_id": 6172,
+        "path": [
+            "947f02de64db4ccbbe220a9f9124a815",
+            "1e597325e01d4a9aa332e92abc455414",
+            "46631317e8684d3f98f0b9c7d3c51417",
+            "d3ccd0cf1696423694339822a7eb52b0",
+            "bfd18e7fa8894c26a00f0cad55b31f76"
+        ],
+        "heading": 4.234,
+        "instruction": "Go through the laundry room and exit the room, make a right and step into the dining room and stop. ",
+        "instr_id": 13
+    },
+    {
+        "distance": 5.07,
+        "scan": "r47D5H71a5s",
+        "path_id": 7242,
+        "path": [
+            "b889bb15538844beb074db42bd8d9ed4",
+            "7798eee8ae4a4fc483da87e8e04b659c",
+            "869e52d579cc4c9a85979d3e20eb2455",
+            "04dba6ce40274f9b80f8e18eb201d33b",
+            "95903e1adf7e4ce9a87b9df4e9ec63e6"
+        ],
+        "heading": 4.44,
+        "instruction": "Go through the doorway and then go across the hall and stop. ",
+        "instr_id": 14
+    },
+    {
+        "distance": 5.07,
+        "scan": "zsNo4HB9uLZ",
+        "path_id": 5971,
+        "path": [
+            "65eefaf93e6249908e6389eb4eabf0f5",
+            "7d1391357299496cbb82840960d05a66",
+            "b5f873817a0b4b60b8447e96b0b4e955",
+            "38e0c09ac7a748dbadea6471861b30c3",
+            "61c98135870e449a846737f610d0e969"
+        ],
+        "heading": 4.53,
+        "instruction": "Exit the room. Turn left and go straight into the room. Wait near the entrance. ",
+        "instr_id": 15
+    },
+    {
+        "distance": 5.08,
+        "scan": "SN83YJsR3w2",
+        "path_id": 1040,
+        "path": [
+            "601b90857afe424abcfb6291cbb534ff",
+            "ef1bed677e2545629b7b68cf4d181d18",
+            "96ba4272d14444f7a40b1f7c633f2024",
+            "74be0bce40ab4a599a7172c8bef59304",
+            "09be981423a3442998bd724cbbdf9b2b"
+        ],
+        "heading": 3.626,
+        "instruction": "Go through the glass doors on the left, past the bed. Stop in the hallway. ",
+        "instr_id": 16
+    },
+    {
+        "distance": 5.09,
+        "scan": "VLzqgDo317F",
+        "path_id": 4185,
+        "path": [
+            "385019f5d018430fa233d483b253076c",
+            "1c91ed40af2246f2b126dd0f661970df",
+            "79aedad1206b4eea9c4b639ea2182eb7",
+            "dd6b2993f882400ab51f9e8c38148b7a",
+            "fd433ad8502149ec849c4c51bb989e4a"
+        ],
+        "heading": 3.349,
+        "instruction": "Go up the stairs. Wait near the chandelier. ",
+        "instr_id": 17
+    },
+    {
+        "distance": 5.11,
+        "scan": "pLe4wQe7qrG",
+        "path_id": 1654,
+        "path": [
+            "87407bb6ed614926b91fc3e27eab766e",
+            "8a65d3586fed4c5f9e0f28fc184b3ff2",
+            "47a69295198f4265958b9b1d497c328d",
+            "df0b69b34d04453691b72a6c16923756",
+            "eb464984cc4847d2a61eab27e3e31e51"
+        ],
+        "heading": 4.944,
+        "instruction": "Walk past altar book stands. Wait under wooden rafter. ",
+        "instr_id": 18
+    },
+    {
+        "distance": 5.1,
+        "scan": "8WUmhLawc2A",
+        "path_id": 4792,
+        "path": [
+            "f472684bf3aa4ef39f59c217f09117e4",
+            "cbf8e6014d7143efadae4b1c6fdd962e",
+            "54fd5c128cbe4b2599804db60290ea4a",
+            "aaab09df2ec34ea584e93e42ad0cf8e4",
+            "c6221b7f72c04623a8396e3f3bb14bfa"
+        ],
+        "heading": 3.109,
+        "instruction": "Exit the shower and turn left. Walk past the bathtub and wait in front of the bedroom doorway. ",
+        "instr_id": 19
+    },
+    {
+        "distance": 5.3,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2571,
+        "path": [
+            "d65b6505904448d1940e679c9a098047",
+            "701f7128272a4bb2acd9dbd89b5cdf6f",
+            "c429b363fd3145fe8a7631bbe9644066",
+            "1a41339ece1846eda6a924cdb4c417dd",
+            "08c774f20c984008882da2b8547850eb"
+        ],
+        "heading": 1.616,
+        "instruction": "Go stand behind the middle kitchen island chair. ",
+        "instr_id": 20
+    },
+    {
+        "distance": 5.5,
+        "scan": "mJXqzFtmKg4",
+        "path_id": 2404,
+        "path": [
+            "0387739d97b34c12bb30593672a0b4ef",
+            "2d65aebdc4064e2baaef30bc6cee9568",
+            "303468f25f254a04ba109f567acb4340",
+            "ef1d1f1bcbb84b0b8242a4c7cef97909",
+            "7478c47d6145458d80f89cee31d70fdf"
+        ],
+        "heading": 4.185,
+        "instruction": "Leave the closet and stop in the archway on the left. ",
+        "instr_id": 21
+    },
+    {
+        "distance": 5.31,
+        "scan": "VzqfbhrpDEA",
+        "path_id": 3307,
+        "path": [
+            "fe8cd80fdfd14aefb885e48408384db6",
+            "6e2a63a762af433ba81e3eb6dfe0c73f",
+            "fccf31238735441097bb9b462aac34f7",
+            "81259373b5f748a18863513b926d2c0a",
+            "1cb182460525496b96afe41e8bb4815a"
+        ],
+        "heading": 1.231,
+        "instruction": "Walk out of the closet and turn right. Stop in front of the tub. ",
+        "instr_id": 22
+    },
+    {
+        "distance": 5.11,
+        "scan": "X7HyMhZNoso",
+        "path_id": 2787,
+        "path": [
+            "3c90780cab6b4495a89cbf1dac752255",
+            "273d144230a740888de22539802509ad",
+            "029cf65713c547dfab71506002ace32c",
+            "2dad5eddc1bd4907904a10824257f994",
+            "a7c831fa80564fd9bf75d2147e123cbe"
+        ],
+        "heading": 2.7,
+        "instruction": "Turn right at  stairs and go down them. Stop between the bathroom and laundry rooms. ",
+        "instr_id": 23
+    },
+    {
+        "distance": 5.41,
+        "scan": "JeFG25nYj2p",
+        "path_id": 429,
+        "path": [
+            "667ff0920b9e411fadec2d197fb1b212",
+            "4a8e3e54dff24b6d823116967b9394e1",
+            "c3252976460541b2b3f3f0e120a3e999",
+            "addfea9928174ac1803f8f46cce98c7f",
+            "5e03e25da5354169b69a22d1e83a9396"
+        ],
+        "heading": 6.018,
+        "instruction": "Go right around the table and wait by the black drawer. ",
+        "instr_id": 24
+    },
+    {
+        "distance": 5.14,
+        "scan": "V2XKFyX4ASd",
+        "path_id": 6683,
+        "path": [
+            "2112dc2d19404cbdbc41dae916377e19",
+            "c06443aebf13409da70a8184e17663dd",
+            "b1eaadc1fb0b4bb7b5f4e7afeb0fc9da",
+            "73bf0888b74542d5bea2da959773ae09",
+            "0c77699c304d4126a7553456bda9da91"
+        ],
+        "heading": 0.249,
+        "instruction": "Go up the stairs and wait at the top. ",
+        "instr_id": 25
+    },
+    {
+        "distance": 5.41,
+        "scan": "i5noydFURQK",
+        "path_id": 7043,
+        "path": [
+            "3560fdb7b97c462ab565c8946b77ecef",
+            "5f1b89f0e0f341849fcdab381165cd26",
+            "1e61d22315c945378096f3055645d9e1",
+            "4385dfc7f81c413b86bb06658c1ff5c7",
+            "0e45c1af5098415c9bbd3a6ce537c7cb"
+        ],
+        "heading": 6.225,
+        "instruction": "Go into the bedroom and then into the right path. Take the first left then the first right, into the bathroom. ",
+        "instr_id": 26
+    },
+    {
+        "distance": 5.58,
+        "scan": "sKLMLpTHeUy",
+        "path_id": 6906,
+        "path": [
+            "5765d6052b6548df9e831b7a89993e1d",
+            "c71d38bbdb8a4cc594990e5810a40c5f",
+            "3c2de69b2f6248588dd1f95fad024d65",
+            "b04c9ee3c157489e9d50a399cece8b6d",
+            "573a0b01e18a484bb55f1162a32db4a1"
+        ],
+        "heading": 4.345,
+        "instruction": "Enter the building and wait in the en suite bathroom. ",
+        "instr_id": 27
+    },
+    {
+        "distance": 5.16,
+        "scan": "82sE5b5pLXE",
+        "path_id": 3349,
+        "path": [
+            "89eeae92b2fe4b68abb274970a931608",
+            "18e3c05b91774b1b9200fa4b1966bf74",
+            "1226e70df8e44d6596ea46945a62f689",
+            "49913376d9ab471a8fce92a8edc786b9",
+            "43b8e298f5c6479d8f839c7cc7ff3fe2"
+        ],
+        "heading": 3.858,
+        "instruction": "Exit the room and go up the stairs on your right.  Stop inside the doorway that is on your left. ",
+        "instr_id": 28
+    },
+    {
+        "distance": 5.43,
+        "scan": "uNb9QFRL6hY",
+        "path_id": 5156,
+        "path": [
+            "3e424a8daca148c28e6a83d1e39a1419",
+            "6c4fa6dfddc1499db228854454bfc61d",
+            "780f24f51de04a70bd30129c8ab9913e",
+            "14f2a8bc76f24d2ea495369bfde2f653",
+            "23ed105b1f0f48bbb6ec025df9d313e7"
+        ],
+        "heading": 5.555,
+        "instruction": "Turn left and go forward down the stairs. Turn left and enter the room. Wait in front of the table. ",
+        "instr_id": 29
+    },
+    {
+        "distance": 5.63,
+        "scan": "2azQ1b91cZZ",
+        "path_id": 4391,
+        "path": [
+            "28d28649c3254cf09cc03eddd96bc31a",
+            "2429542ef17c46bf937227318022ebcc",
+            "6f688288116a4a0e96fc29854073d91e",
+            "beb2435723194e93bd6dca4b31e0bb19",
+            "77725f5a065e4959b03f6155773581a1"
+        ],
+        "heading": 3.317,
+        "instruction": "Face the indoor grill and turn right. Walk straight through the door way.  Walk passed the microwave on the left. Walk through the doorway and stop beside the door. ",
+        "instr_id": 30
+    },
+    {
+        "distance": 5.2,
+        "scan": "ZMojNkEp431",
+        "path_id": 203,
+        "path": [
+            "44e14ff2fcd34fa9a93265e53dc53b52",
+            "3d409564a59c44ea84fd79ddc8aa4fc9",
+            "7b99836e3e0045f2b5cc212e8181914b",
+            "8ae0426af8824849ba75a6147325c30c",
+            "d179f4cb2d2d40b0b4fdf3d37da78f48"
+        ],
+        "heading": 1.235,
+        "instruction": "Turn around and walk past the easel with the sign on it. Walk up to the second step. ",
+        "instr_id": 31
+    },
+    {
+        "distance": 5.21,
+        "scan": "1LXtFkjw3qL",
+        "path_id": 1448,
+        "path": [
+            "87f68627d919449995ed93f6ae72e6ab",
+            "95e9e714db234174b904782f1256c3f9",
+            "75bea3b92c924203951655b393e92979",
+            "425e120b2d7742b1a8f0902355908761",
+            "571d716b0cdd430d99c63474c34f0c9c"
+        ],
+        "heading": 3.773,
+        "instruction": "Exit the sauna, exit the waiting room, wait at the top of the stairs. ",
+        "instr_id": 32
+    },
+    {
+        "distance": 5.22,
+        "scan": "VFuaQ6m2Qom",
+        "path_id": 614,
+        "path": [
+            "bfa1a9e0fc4a4fe7b493a3f8e94ba39a",
+            "ece8adfc0c1f40c4a55d2404f0130396",
+            "661de8ab47bc46d89c2424fdec1ab9c6",
+            "490cdc47322b4907810cb18194de7469",
+            "54d172eea1274b8aabd7f625254f7dcd"
+        ],
+        "heading": 5.756,
+        "instruction": "Walk up the stairs. Stop at the top of the stairs. ",
+        "instr_id": 33
+    },
+    {
+        "distance": 5.23,
+        "scan": "jh4fc5c5qoQ",
+        "path_id": 718,
+        "path": [
+            "755d110c2ed84d76be11ad56ae00b53f",
+            "d6d4416592a0483691a1ed7d3b336a1a",
+            "77e6cfabf32d46fc9398ce824843adaa",
+            "ba19aada2e9a47839c0355085f70f7c5",
+            "48a2541fc50b4a57a609698e2375e9b1"
+        ],
+        "heading": 3.937,
+        "instruction": "Walk out of the bedroom and into the laundry room, make a right out of the room and into a living room area. Make a left and stand in the front doorway. ",
+        "instr_id": 34
+    },
+    {
+        "distance": 5.58,
+        "scan": "qoiz87JEwZ2",
+        "path_id": 6698,
+        "path": [
+            "1e3222b860eb47c8b1bd1f019048fb91",
+            "caa2ac2476b04534a2e738ab44825493",
+            "d6eb5e0d9fad4df5a2ec9b04606e8053",
+            "4531a8cd59c7423e8f938bcd905f7b62",
+            "bec7a60657d6483996aa2f0d03b9d691"
+        ],
+        "heading": 5.478,
+        "instruction": "Walk out of the bathroom and turn right. Walk out of the bedroom and turn left. Stop at the top of the stairs. ",
+        "instr_id": 35
+    },
+    {
+        "distance": 5.34,
+        "scan": "EDJbREhghzL",
+        "path_id": 2106,
+        "path": [
+            "80c8894d436e45148577bcb0ebb45889",
+            "fde766aee33345558610cbd26833607d",
+            "0e51c17b16974fe3ac943e17686c4842",
+            "731e0bf988274e6080d0d90a2bd211e4",
+            "66d32e6e1f5847bab89af0d5c61c120d"
+        ],
+        "heading": 1.464,
+        "instruction": "Facing into the bedroom, go around to the right into the bathroom and stop in front of the shower. ",
+        "instr_id": 36
+    },
+    {
+        "distance": 5.51,
+        "scan": "EU6Fwq7SyZv",
+        "path_id": 1223,
+        "path": [
+            "b27d4ced7d2047a6bd6305660fbfa727",
+            "089b249af5e644e786ebce2fafd07373",
+            "64e28fe52a2d4dbaa29a4c20fa527e6d",
+            "908969cb96524db88345634daf6ff85f",
+            "b02200ddb1c44876acc8983e572f53c4"
+        ],
+        "heading": 6.176,
+        "instruction": "GO straight, take a left once you enter the bedroom. Stop in the bathroom. ",
+        "instr_id": 37
+    },
+    {
+        "distance": 5.26,
+        "scan": "1pXnuDYAj8r",
+        "path_id": 6372,
+        "path": [
+            "aff833f86ff847a7bcf24bea207c91ad",
+            "55e5280eea474acfb993bf68a193bb25",
+            "463e439a4e974a00b23bfe7c684a2607",
+            "8919ba4762914e899c88536f11c7bb92",
+            "c3b8b8e1f0994859869b42fb760fce9f"
+        ],
+        "heading": 4.929,
+        "instruction": "Go straight until you go into the room. Wait near the dresser. ",
+        "instr_id": 38
+    },
+    {
+        "distance": 5.51,
+        "scan": "5LpN3gDmAk7",
+        "path_id": 6391,
+        "path": [
+            "0f5c56e60cbf429eb30903125c3035b6",
+            "401c33266eca4b04be4f4f3cc3b1cfe6",
+            "35a21f771ab04beb822d7262329d194e",
+            "5588d14480e84a6d9b0cc3db4dac8f50",
+            "c637b66b6f804617962f0f9e2f2c0341"
+        ],
+        "heading": 0.659,
+        "instruction": "Walk around the bed and stand on the other side. ",
+        "instr_id": 39
+    },
+    {
+        "distance": 5.61,
+        "scan": "pRbA3pwrgk9",
+        "path_id": 3044,
+        "path": [
+            "8b07a4b08cf447abb246769d8dce8494",
+            "f923d8ec1f32400c864837ba572fe199",
+            "4df525c1410447848d24dedb3c31a7be",
+            "2238391e894144e9aaf38aaa16433153",
+            "f5a52ba78b2e4772a7315af44e0439e0"
+        ],
+        "heading": 4.686,
+        "instruction": "Go out the doorway to the right of the bed and head up the stairs, stopping at the top. ",
+        "instr_id": 40
+    },
+    {
+        "distance": 5.31,
+        "scan": "x8F5xyUWy9e",
+        "path_id": 6550,
+        "path": [
+            "9926b38bd87e44e292d9c375050dd17d",
+            "61dabfb7fecf4f328ad300a6f4b96037",
+            "c9b5c7e60e7c42b48598171d960ec6c4",
+            "b7e0b8b0d65b439382afa4c79db018a7",
+            "a51a0e2811f342a599ae4cdb9b84ff23"
+        ],
+        "heading": 5.682,
+        "instruction": "Exit the room. Turn left into the room next door and wait there. ",
+        "instr_id": 41
+    },
+    {
+        "distance": 5.32,
+        "scan": "B6ByNegPMKs",
+        "path_id": 5888,
+        "path": [
+            "6c50bf7573324bc7916c9fffe9dfa5e8",
+            "752a99e21990412498c7a151cbf6c14b",
+            "dd1319e5f88a4dd88ccceee489e790cd",
+            "9a11dae14ce9444287b881b54c6f6b6e",
+            "5252c175323b4df68d458d98ed00b9bc"
+        ],
+        "heading": 3.162,
+        "instruction": "walk straight then turn left at the door. ",
+        "instr_id": 42
+    },
+    {
+        "distance": 5.4,
+        "scan": "XcA2TqTSSAj",
+        "path_id": 3663,
+        "path": [
+            "9940d688fe8f4fb784cd7d64908fdf4d",
+            "fa065de5315940abb64684e68f6d686a",
+            "02253cded39e4f26a34c483d645ebcb7",
+            "ec0421cc61c64f6f8692d327d6838fd5",
+            "3510eb416b7d4d779881abc5b5cf2cec"
+        ],
+        "heading": 4.52,
+        "instruction": "Finish going up the stairs then turn left. Walk straight until you go into a bedroom then stop at the entrance. ",
+        "instr_id": 43
+    },
+    {
+        "distance": 5.61,
+        "scan": "D7N2EKCX4Sj",
+        "path_id": 181,
+        "path": [
+            "e9784db75b934f59aa5ba67102b2b872",
+            "8d1f61d5e90e43deb38eb12af08ebf1b",
+            "777f43a3702841698d8da94900ba8a2d",
+            "2e061585204b4ba686fd66f746243127",
+            "de49de6069de407195ab646f74a4d796"
+        ],
+        "heading": 2.235,
+        "instruction": "Face the fireplace and walk through the door to the left of the fireplace to enter the \"Great Room.\"  Stop when you get through the doors before you get to the first circular dining table. ",
+        "instr_id": 44
+    },
+    {
+        "distance": 5.34,
+        "scan": "5q7pvUzZiYa",
+        "path_id": 6291,
+        "path": [
+            "521886391b7849c9b1e458e8e65760de",
+            "2fdd7ac33e4e4e5ab38353ba6ab6cc7d",
+            "69fad7dd177847dbabf69e8fb7c00ddf",
+            "c629c7f1cf6f47a78c45a8ae9ff82247",
+            "21fca0d6192940e580587fe317440f56"
+        ],
+        "heading": 4.848,
+        "instruction": "Walk down the hall and turn right by the stairs. Stop in the doorway of the bedroom. ",
+        "instr_id": 45
+    },
+    {
+        "distance": 5.62,
+        "scan": "oLBMNvg9in8",
+        "path_id": 6992,
+        "path": [
+            "d994801b7bc84e2fb32d1bfd81bf1941",
+            "b0b19f3f07b5406b990c704f6c5103a4",
+            "3ff975d7827d476db96e07ab050e8ede",
+            "eb11300f27264e5298069dfecc3d94b6",
+            "934d88f8109b4024b8d9408e66c04f36"
+        ],
+        "heading": 1.136,
+        "instruction": "Turn around and exit the room. Turn left and enter the bedroom. Wait there. ",
+        "instr_id": 46
+    },
+    {
+        "distance": 5.59,
+        "scan": "e9zR4mvMWw7",
+        "path_id": 74,
+        "path": [
+            "f8d915e2d06a4ff8ab6f4cdaf3e42295",
+            "733be20bb009430f9624ab2b791b3a06",
+            "86c7e095a5bd46cf8d2e286ab67d7ded",
+            "8293a0cff5f145ecbd9741176799291e",
+            "6deafeb981834c9a88eaf3c033fc89c9"
+        ],
+        "heading": 4.052,
+        "instruction": "Turn left, walk outside. ",
+        "instr_id": 47
+    },
+    {
+        "distance": 5.42,
+        "scan": "vyrNrziPKCB",
+        "path_id": 2784,
+        "path": [
+            "ea4e40a346ce4542978c7df62e3080da",
+            "ceae9606b23d4b31a157923b09655baa",
+            "e5440b494f3d483d91d857f8eb126b1d",
+            "9186192bc71b4e868af5b35244643ca4",
+            "5791a80c086b44a7a4e868d22fc374cc"
+        ],
+        "heading": 4.752,
+        "instruction": "Leave the laundry room, turn right, and walk into the kitchen. ",
+        "instr_id": 48
+    },
+    {
+        "distance": 5.44,
+        "scan": "PX4nDJXEHrG",
+        "path_id": 2970,
+        "path": [
+            "e1ff49c1e5114971af1f3f6df0c155b2",
+            "5260f113c5f542a8b6b115cbdfc9fef5",
+            "95c9fb86dcb14fcabab35769b14beb1e",
+            "2f782cbda7884257a49e9c7538e1d87b",
+            "e8f67d7392804d5e9284c74c2a5d926b"
+        ],
+        "heading": 3.117,
+        "instruction": "Turn around and walk down the mini stairs. Stop near the chair. ",
+        "instr_id": 49
+    },
+    {
+        "distance": 5.44,
+        "scan": "sT4fr6TAbpF",
+        "path_id": 3778,
+        "path": [
+            "12eaf8b2b7b64622b330bd58d275f02a",
+            "6e690e23af17426092fe6553e7cc069e",
+            "ba63547adb5643acbeaa36513d8b4e6b",
+            "34d06442d74d4ccd94c988016006e073",
+            "86231c45c6ac4672bd9c478bd0341335"
+        ],
+        "heading": 6.138,
+        "instruction": "Go straight down the hallway until you get to the door on the end. Wait there. ",
+        "instr_id": 50
+    },
+    {
+        "distance": 5.5,
+        "scan": "Pm6F8kyY3z2",
+        "path_id": 575,
+        "path": [
+            "e775ea81e83c45719de5a1577f8f7e39",
+            "9b2b12257e9a4c5d9f99f141769e9301",
+            "7e094a308dec4987a5185a0426f4ec3c",
+            "ff2dd63ad83245c3b4831b4f8a6911ac",
+            "2596868500734b1496d479e6936cceb3"
+        ],
+        "heading": 6.028,
+        "instruction": "Walk straight past the first two lounge chairs, then turn right. Wait by the steps. ",
+        "instr_id": 51
+    },
+    {
+        "distance": 5.48,
+        "scan": "Uxmj2M2itWa",
+        "path_id": 783,
+        "path": [
+            "e1acc1e4419f42e6ba0e51c42e76aab4",
+            "a59a14272e1f421a906faffad3120256",
+            "50e05f90fba84801ae904739ec28b0d6",
+            "8ccfcffe78904507a0c10bbd59ed9c74",
+            "bf4746fe3c274394b7313edd982ce141"
+        ],
+        "heading": 2.033,
+        "instruction": "Walk down the walkway and wait by the entrance. ",
+        "instr_id": 52
+    },
+    {
+        "distance": 5.59,
+        "scan": "D7G3Y4RVNrH",
+        "path_id": 219,
+        "path": [
+            "cf726b6c0144425282245b34fc4efdca",
+            "84291807bc3a4c9ea9f5d7f7ef53704c",
+            "c4e9e99398d84df5bf0150c484ebcd01",
+            "7515999894aa42ffa9ce63c8cabe246c",
+            "4c793e5198034f3eb52a199745373fb8"
+        ],
+        "heading": 0.261,
+        "instruction": "Turn around and walk towards the leftmost and farthest red chair in the room and wait there. ",
+        "instr_id": 53
+    },
+    {
+        "distance": 5.6,
+        "scan": "b8cTxDM8gDG",
+        "path_id": 5204,
+        "path": [
+            "b15db460058c41e8aa0c0720344daa30",
+            "298a2386166a43c8a04e1c24433f7d15",
+            "9fed9031c0ea482f914d07abfb59970b",
+            "d38c4ae95f5b4640a2696b923b80d1f4",
+            "9c19aeb19e6e4ad98b2a31cc44b9aa7a"
+        ],
+        "heading": 1.749,
+        "instruction": "walk straight the landing then stop at the front of the glass door. ",
+        "instr_id": 54
+    },
+    {
+        "distance": 5.6,
+        "scan": "VVfe2KiqLaN",
+        "path_id": 7189,
+        "path": [
+            "c6ade0195d9e4ca0abbb20fb0eb2fb66",
+            "6cece5e7a4074cf19c83b3c213b498d8",
+            "3e3839eafbd8467993527dffed63a8f7",
+            "35b41dcbfcf84f96878f6ca28c70e5af",
+            "6b0783db762e4593ab5ff5fa7caf57ce"
+        ],
+        "heading": 1.586,
+        "instruction": "Go down the hallway to the left, and take a right into the doorway on the right and stop. ",
+        "instr_id": 55
+    },
+    {
+        "distance": 5.6,
+        "scan": "gTV8FGcVJC9",
+        "path_id": 6925,
+        "path": [
+            "1f62887b128e4ca1a3d3baed3c2ca8f3",
+            "0d493d8230c74476b0e9814c92c3f8fd",
+            "b38e9e97724e46d2b6f32df47079052d",
+            "7c306bc08109458da00158fcc8fccb10",
+            "2612f8c6f7de4ebd98fb388af629cbff"
+        ],
+        "heading": 6.144,
+        "instruction": "Exit sauna and go up two flights of stairs.  Turn left at the iron door and stop in the middle of the stairs. ",
+        "instr_id": 56
+    },
+    {
+        "distance": 5.51,
+        "scan": "mJXqzFtmKg4",
+        "path_id": 2339,
+        "path": [
+            "07893000ccca4adbbb2f6b11368d8454",
+            "5e17651ac58247ed9654db04c9187c77",
+            "85257e0d1f834f3ea8c699b78c80776a",
+            "3808d8eb951a48de9766994286c4b6e8",
+            "7bfd840693034959a2dffb2625026980"
+        ],
+        "heading": 5.15,
+        "instruction": "Head straight until you pass the couches and wait by the right candle in the wall. ",
+        "instr_id": 57
+    },
+    {
+        "distance": 5.53,
+        "scan": "JeFG25nYj2p",
+        "path_id": 2108,
+        "path": [
+            "4262bd54789f4caf839be008248e4d90",
+            "b2f31140a9d0482096da4ac481fb8a56",
+            "b09e4d4c48154b58914cf98dc3d8983a",
+            "cffa1c807d2c4a708aa1e5f42aeba106",
+            "39136812de7e41b3a5e9fd431feca2c3"
+        ],
+        "heading": 1.729,
+        "instruction": "Head toward the zebra painting.  Turn left and stop on the rug by the sword. ",
+        "instr_id": 58
+    },
+    {
+        "distance": 5.58,
+        "scan": "JeFG25nYj2p",
+        "path_id": 5451,
+        "path": [
+            "23fb860d05574aa2b5ee29ffff796065",
+            "f29cfc331fc44746a060813f1e9ef52c",
+            "fa2cbbb20350430bb00b7039031111a7",
+            "3a0f734a7b4e46c4bcee77b78c5e3f6a",
+            "cffa1c807d2c4a708aa1e5f42aeba106"
+        ],
+        "heading": 6.175,
+        "instruction": "Go to the right, and continue down the hall. Go into the sitting room straight ahead. Stop in the doorway. ",
+        "instr_id": 59
+    },
+    {
+        "distance": 5.63,
+        "scan": "8WUmhLawc2A",
+        "path_id": 3504,
+        "path": [
+            "b192bc595e9b4d61963030b9f8e01f4b",
+            "c6221b7f72c04623a8396e3f3bb14bfa",
+            "aaab09df2ec34ea584e93e42ad0cf8e4",
+            "54fd5c128cbe4b2599804db60290ea4a",
+            "48c8e8de5830459aa06ebaa4ae2b91ad"
+        ],
+        "heading": 1.566,
+        "instruction": "Head straight until you get to the closet and wait inside. ",
+        "instr_id": 60
+    },
+    {
+        "distance": 5.62,
+        "scan": "B6ByNegPMKs",
+        "path_id": 4150,
+        "path": [
+            "59cbdf96b19c4cc4a576e6658c5f67d6",
+            "75327de9719945aa8b893a6404667884",
+            "8a830452b3b449d08625f3d70bdd07b8",
+            "02e18ec4d4f94d2eb4407346c822dee2",
+            "fa6d662db40c4335b899082f62b51111"
+        ],
+        "heading": 3.18,
+        "instruction": "Turn around and take a right into the second door. ",
+        "instr_id": 61
+    },
+    {
+        "distance": 5.34,
+        "scan": "29hnd4uzFmX",
+        "path_id": 2013,
+        "path": [
+            "e5b8baa3c6474af1a2bc739d92c480e5",
+            "f9ea869fc8a04b05bef902bed791696d",
+            "5c4627e7805347bc8c09ba17aa248696",
+            "efcb9e4c410841ca8665f6cab94e943b",
+            "ef12b1ecc3be4693b327e30468697a9b"
+        ],
+        "heading": 2.068,
+        "instruction": "Walk past the guitars on the wall and enter the middle door. Wait there. ",
+        "instr_id": 62
+    },
+    {
+        "distance": 5.6,
+        "scan": "29hnd4uzFmX",
+        "path_id": 6652,
+        "path": [
+            "ab0f99b210bb4556b7fc18190126480b",
+            "85849923dc9e46eda0168f62c0fb43f3",
+            "42135c66aa4d464aa8a91630c187ed99",
+            "5c4627e7805347bc8c09ba17aa248696",
+            "1430dc4987e248a7a9ec03ca89714127"
+        ],
+        "heading": 6.119,
+        "instruction": "Go straight up the stairs and enter the door of the bathroom straight ahead. ",
+        "instr_id": 63
+    },
+    {
+        "distance": 5.03,
+        "scan": "rPc6DW4iMge",
+        "path_id": 1823,
+        "path": [
+            "d54b2df8cb2d434b8406099fb5533b1c",
+            "4133e50e81004f32847478a9cb5b3654",
+            "6756942471174e5c937e15a8f8c0a6c7",
+            "1f14c32cbfcb4683a2dc565ebc2332e2",
+            "4bf813e46da7449b99d2dd21ea351d9a"
+        ],
+        "heading": 5.251,
+        "instruction": "Walk past stairs. Walk through open door. Make hard right. Wait at open door on right. ",
+        "instr_id": 64
+    },
+    {
+        "distance": 5.53,
+        "scan": "qoiz87JEwZ2",
+        "path_id": 2671,
+        "path": [
+            "b411496c1f7b403981f0c2f24995309c",
+            "9f68b19f50d14f5d8371447f73c3a2e3",
+            "c407e34577aa4724b7e5d447a5d859d1",
+            "a6ba3f53b7964464b23341896d3c75fa",
+            "79a8fc21a50f44eea6b47b77771f6d6a"
+        ],
+        "heading": 4.75,
+        "instruction": "Walk past table, into kitchen and wait by counter. ",
+        "instr_id": 65
+    },
+    {
+        "distance": 5.1,
+        "scan": "pLe4wQe7qrG",
+        "path_id": 2690,
+        "path": [
+            "ffe0e6835287419c9cfe343e9d613d87",
+            "a924a5855b954d68b26ebe82ab61c71d",
+            "5d4349e09ada47b0aa8b20a0d22c54ca",
+            "f8e13e216dd6477ea05e694e2f1478d9",
+            "df0b69b34d04453691b72a6c16923756"
+        ],
+        "heading": 3.781,
+        "instruction": "Go to exit of writing room. Stop between pillars. ",
+        "instr_id": 66
+    },
+    {
+        "distance": 5.22,
+        "scan": "8WUmhLawc2A",
+        "path_id": 3049,
+        "path": [
+            "5186e9da9b4248318f4a7ae68d11da15",
+            "f032c9ee981a4462914468785f0a4abe",
+            "62e602fc5b85463dbd8f48ba625d05ef",
+            "1e951fdbfd9d45bbaf935da945f5425c",
+            "814d9aba371640e5a70bcb7833bfe08f"
+        ],
+        "heading": 6.26,
+        "instruction": "Stand in front of the silver refrigerator. ",
+        "instr_id": 67
+    },
+    {
+        "distance": 5.54,
+        "scan": "2azQ1b91cZZ",
+        "path_id": 2068,
+        "path": [
+            "90769276290547eaabfde2cc89a6cf59",
+            "831ed5e809af47ab97492490a5ecb0a5",
+            "13b9ae157ad44e408018b0d1e5d7a4a5",
+            "d17568bcd7cd4cd3bb0f4af2c63a3ef9",
+            "b2dce1643d6e4dfa9448b3520ebd48e4"
+        ],
+        "heading": 6.016,
+        "instruction": "Go into the living area with the fireplace. Stop in the area between the two white sofas, next to the entrance to the dining room. ",
+        "instr_id": 68
+    },
+    {
+        "distance": 5.18,
+        "scan": "rPc6DW4iMge",
+        "path_id": 3657,
+        "path": [
+            "1b4824ffdfc44d08aa648e90241289e4",
+            "79595c05fd25478a9907f6a11bcfced4",
+            "7316bf706e0d46368334c0c989210e09",
+            "0226db0c3fd24410bbf3db5e6d4b24fe",
+            "bad24c9d90de493eb70e9af8383ee598"
+        ],
+        "heading": 2.789,
+        "instruction": "Go straight to exit the bathroom then exit the bedroom and wait there. ",
+        "instr_id": 69
+    },
+    {
+        "distance": 5.48,
+        "scan": "2azQ1b91cZZ",
+        "path_id": 1070,
+        "path": [
+            "c42af8391c5447a9ac6c296604c038bd",
+            "8fca205ff4f740c8ad4e01e2796db860",
+            "9f0079fa767e402cb515c7751a13e265",
+            "c59b85476c9d4423b98e1cbfd010f4c5",
+            "b244d47e223c4650af7577f24936d6c3"
+        ],
+        "heading": 5.082,
+        "instruction": "Go down the stairs and take a right and stop in the hallway before you are under the star chandelier. ",
+        "instr_id": 70
+    },
+    {
+        "distance": 5.49,
+        "scan": "uNb9QFRL6hY",
+        "path_id": 1107,
+        "path": [
+            "1535c13966f046a6b91b1ee948d3080c",
+            "fcaf3b3dc15748f4b64f237de2c972ea",
+            "afb429082cb0421ab1924a1eb314624a",
+            "97cf79c77dfc45b2ba2f79ead489f21b",
+            "75f912cc662f46c6884c3dc3a30fd6d3"
+        ],
+        "heading": 1.62,
+        "instruction": "Walk through the kitchen to the stairs.  Go up three steps and then stop. ",
+        "instr_id": 71
+    },
+    {
+        "distance": 5.22,
+        "scan": "JeFG25nYj2p",
+        "path_id": 6752,
+        "path": [
+            "1892385477bd4362b8a1d03861169db0",
+            "f29cfc331fc44746a060813f1e9ef52c",
+            "fa2cbbb20350430bb00b7039031111a7",
+            "3a0f734a7b4e46c4bcee77b78c5e3f6a",
+            "cffa1c807d2c4a708aa1e5f42aeba106"
+        ],
+        "heading": 3.082,
+        "instruction": "Step out of the laundry room and turn left. walk down the hallway and stop in the double door entryway. ",
+        "instr_id": 72
+    },
+    {
+        "distance": 5.16,
+        "scan": "SN83YJsR3w2",
+        "path_id": 4900,
+        "path": [
+            "451849fe19af47fe96647487d4920f12",
+            "e3c92cec84f04dbf8ae0cc50a8337ec5",
+            "c0135caf88524d0fb627c924385fa080",
+            "cd43826f78d94fa68b604c2e61dac751",
+            "fa25e2c6a14e42ab8d9743e15c91374c"
+        ],
+        "heading": 0.769,
+        "instruction": "Exit room and take the steps directly on the left down.  Wait on the stairway right before it turns. ",
+        "instr_id": 73
+    },
+    {
+        "distance": 5.26,
+        "scan": "X7HyMhZNoso",
+        "path_id": 6612,
+        "path": [
+            "b1e740fa45384144b55ef6675440756b",
+            "a7c831fa80564fd9bf75d2147e123cbe",
+            "2dad5eddc1bd4907904a10824257f994",
+            "5d2f4dddae3f4c06b69ae136bd76cafd",
+            "6207c0c642ec4cdf95a41a9cc0b7fb38"
+        ],
+        "heading": 3.399,
+        "instruction": "Turn around and go through the door. Turn left and go up the stairs. Then turn left and continue up those stairs. ",
+        "instr_id": 74
+    },
+    {
+        "distance": 5.42,
+        "scan": "8WUmhLawc2A",
+        "path_id": 3461,
+        "path": [
+            "cbf8e6014d7143efadae4b1c6fdd962e",
+            "54fd5c128cbe4b2599804db60290ea4a",
+            "aaab09df2ec34ea584e93e42ad0cf8e4",
+            "c6221b7f72c04623a8396e3f3bb14bfa",
+            "b192bc595e9b4d61963030b9f8e01f4b"
+        ],
+        "heading": 3.162,
+        "instruction": "Exit the shower and then turn left and exit the bathroom toward the bedroom. Stand near the bed. ",
+        "instr_id": 75
+    },
+    {
+        "distance": 5.36,
+        "scan": "cV4RVeZvu5T",
+        "path_id": 6255,
+        "path": [
+            "1b321779a4374c2b952c51820daa9e6c",
+            "d70997cce0464616a65afcf28d32b41e",
+            "5f8485232eeb4d74af9fdf2894ba058c",
+            "7fb6b56858c14239a79f65ef01e8691b",
+            "1edaa01e4a684f99b080cffdd684e9aa"
+        ],
+        "heading": 6.266,
+        "instruction": "Go up the stairs, make a left into the archway, step into the second archway and then stop. ",
+        "instr_id": 76
+    },
+    {
+        "distance": 5.34,
+        "scan": "D7N2EKCX4Sj",
+        "path_id": 134,
+        "path": [
+            "5932ea805ae44802a1d412d5d4ab61af",
+            "0c2d645fd3b64fee95d8f447e8efdeaf",
+            "d166ebf97d1b4e1bae5234cb40ad4a50",
+            "54f83ce9bf4543ff8219bd1c450ada78",
+            "f72782f4282e476ca82a8d09ad226e01"
+        ],
+        "heading": 4.573,
+        "instruction": "Turn towards bathroom door. Exit. Go through doorway. ",
+        "instr_id": 77
+    },
+    {
+        "distance": 5.46,
+        "scan": "qoiz87JEwZ2",
+        "path_id": 1243,
+        "path": [
+            "eb2c8a7d6d044e9e9d2326cbe48e437f",
+            "0acbbb92572f437faef8da9b991412f6",
+            "35aade4482c04c1385cbb19c25bd1d7e",
+            "091c189689a74ae3908ba76361e0cae0",
+            "7a489c31ceb14eca8783e4f1d8dc1c41"
+        ],
+        "heading": 2.971,
+        "instruction": "Walk past coat rack. Walk through closed door. Wait at fireplace. ",
+        "instr_id": 78
+    },
+    {
+        "distance": 5.3,
+        "scan": "JeFG25nYj2p",
+        "path_id": 1406,
+        "path": [
+            "2c0845231d7c4724814fa306bc2516c8",
+            "ebadf34fd24c4a60a826fe790e7a5595",
+            "3d35341d910242d7b39d06bb160c46cb",
+            "4a8e3e54dff24b6d823116967b9394e1",
+            "fbc1012c2b25436ab340d33c7113c98b"
+        ],
+        "heading": 1.842,
+        "instruction": "Go to the mirror\r\nGo to the light switch\r\nGo to the leopard settee\r\nGo to the pillow. ",
+        "instr_id": 79
+    },
+    {
+        "distance": 5.36,
+        "scan": "mJXqzFtmKg4",
+        "path_id": 3381,
+        "path": [
+            "929158cc8c424c099a601a36e0fc2270",
+            "b18be3157a6f4b9c8df154f8f310099d",
+            "7478c47d6145458d80f89cee31d70fdf",
+            "ef1d1f1bcbb84b0b8242a4c7cef97909",
+            "303468f25f254a04ba109f567acb4340"
+        ],
+        "heading": 4.941,
+        "instruction": "Head into the bedroom, make a left through the doorway into the circle room and then make a right into the first doorway, step into the closet and wait. ",
+        "instr_id": 80
+    },
+    {
+        "distance": 5.54,
+        "scan": "i5noydFURQK",
+        "path_id": 2545,
+        "path": [
+            "dd4e4342c9d849c6881d1e4ba1b816da",
+            "5062afb29ed34159a1e05c60e6cf6585",
+            "1e61d22315c945378096f3055645d9e1",
+            "4385dfc7f81c413b86bb06658c1ff5c7",
+            "533a4cd1505a486fa8801bb3aa38f2e3"
+        ],
+        "heading": 4.975,
+        "instruction": "Walk down the hall to the short hallway on the right. Wait at the end, outside the bedroom door. ",
+        "instr_id": 81
+    },
+    {
+        "distance": 5.04,
+        "scan": "HxpKQynjfin",
+        "path_id": 3912,
+        "path": [
+            "435549d3ad0a4e44b93f2e2d4970f762",
+            "e1d49f9c53bf45ae98d0dd8fb613161a",
+            "71f79f342cde467ba037a196c4e04f6a",
+            "6ca411a8612d4a569362c6231dcf1b68",
+            "4c6a95e53a7f4f959d32d281d06b086b"
+        ],
+        "heading": 6.08,
+        "instruction": "Walk through the sitting area and wait in the bathroom. ",
+        "instr_id": 82
+    },
+    {
+        "distance": 5.53,
+        "scan": "X7HyMhZNoso",
+        "path_id": 956,
+        "path": [
+            "3c90780cab6b4495a89cbf1dac752255",
+            "32a001fd02e24ca88268228786d22bef",
+            "29a55ded3f094585a9bf7c8d2bf312be",
+            "321dba26c17b464f9623c86917babfeb",
+            "d0468b580cd146778bae5e486bf3e50e"
+        ],
+        "heading": 2.7,
+        "instruction": "walk by stairway at enter living room, stop at tv. ",
+        "instr_id": 83
+    },
+    {
+        "distance": 5.19,
+        "scan": "uNb9QFRL6hY",
+        "path_id": 3645,
+        "path": [
+            "58cdf4425f984bc8bec9ed57b96feff4",
+            "14f2a8bc76f24d2ea495369bfde2f653",
+            "780f24f51de04a70bd30129c8ab9913e",
+            "6c4fa6dfddc1499db228854454bfc61d",
+            "3e424a8daca148c28e6a83d1e39a1419"
+        ],
+        "heading": 1.975,
+        "instruction": "Go up the stairs. Stop at first doorway on the right. ",
+        "instr_id": 84
+    },
+    {
+        "distance": 5.63,
+        "scan": "YmJkqBEsHnH",
+        "path_id": 4260,
+        "path": [
+            "006933a75f764c5485cf284bea0ded0b",
+            "d841f7b710f9470796d55561f8f524db",
+            "01c80b5f8fbd4c969ee0bc03f1ec7a6c",
+            "82ea5baa30f945fe98f6cad3064af847"
+        ],
+        "heading": 4.925,
+        "instruction": "Walk down the aisle toward the front.  Wait at the second row of pews. ",
+        "instr_id": 85
+    },
+    {
+        "distance": 5.5,
+        "scan": "e9zR4mvMWw7",
+        "path_id": 2467,
+        "path": [
+            "d794889c5d384f8ca3219678963031c8",
+            "10157b7114c445ed86f982a6c215adb3",
+            "dc570c7a04ff47cca69c3514fe87983e",
+            "605435c04d564e878cc6fad8e5ff5a12",
+            "f8d915e2d06a4ff8ab6f4cdaf3e42295"
+        ],
+        "heading": 0.51,
+        "instruction": "Go up the stairs then stop. ",
+        "instr_id": 86
+    },
+    {
+        "distance": 5.37,
+        "scan": "VzqfbhrpDEA",
+        "path_id": 6922,
+        "path": [
+            "ea12dd63895345369d80a91aacb6e137",
+            "905ce9bd3b84466b9da061b4cb46e629",
+            "4e978c08440c4b12b4d989f80b22225b",
+            "a3e8df8c66f14855815c39cb50282e07",
+            "8fab97869cf5427d94ea2bc3c04d2856"
+        ],
+        "heading": 2.341,
+        "instruction": "Go to the doorway beside the sink on the right side. ",
+        "instr_id": 87
+    },
+    {
+        "distance": 5.04,
+        "scan": "JmbYfDe2QKZ",
+        "path_id": 515,
+        "path": [
+            "63333423642f49caac4871521e93cc45",
+            "5965958b0a55454d88d45f21d97bc3fc",
+            "51328414aea04771890766f436b40021",
+            "d9b5196ff58c494d8bebdeb3b6ccd061",
+            "444a5cc79a15455d96cfd41bc1f67e57"
+        ],
+        "heading": 6.139,
+        "instruction": "Go down the stairs and stop when you reach the bottom. ",
+        "instr_id": 88
+    },
+    {
+        "distance": 5.37,
+        "scan": "29hnd4uzFmX",
+        "path_id": 2625,
+        "path": [
+            "9ddd0d8326b44a038d3985d96ffbb2a1",
+            "0836acc78091475dbba186b98e05792a",
+            "ab0f99b210bb4556b7fc18190126480b",
+            "85849923dc9e46eda0168f62c0fb43f3",
+            "7e23cbe5e28047d49ab4641f530c9f00"
+        ],
+        "heading": 3.109,
+        "instruction": "Walk up the stairs. Wait at the potted plant on the landing. ",
+        "instr_id": 89
+    },
+    {
+        "distance": 5.18,
+        "scan": "ULsKaCPVFJR",
+        "path_id": 1559,
+        "path": [
+            "bd5ad4194bb44a6794529278f17e1185",
+            "ad4a92079e654de79e28c6cb45d6c2a4",
+            "990f7ecd608442cfac24fa3e0db8e612",
+            "10f096d877cc45f79f47f82bcc3e7ffe",
+            "a085b1aee4be45b6982a1f7b601654eb"
+        ],
+        "heading": 3.963,
+        "instruction": "go down hall with living room to right, go through door and stop in study. ",
+        "instr_id": 90
+    },
+    {
+        "distance": 5.56,
+        "scan": "S9hNv5qa7GM",
+        "path_id": 1418,
+        "path": [
+            "8f25ebb1c23d4fddb035eb336426d5fa",
+            "7cae5e5f8adf444d829c95b4a4412ffd",
+            "2754e6a14cea44e9acbd495a1da9cf5d",
+            "53672af2c15047818f2ead24a2370930",
+            "3532b1e7ea1646848b710936d4696a5d"
+        ],
+        "heading": 3.159,
+        "instruction": "Walk past floor runner. Wait at top of stairs. ",
+        "instr_id": 91
+    },
+    {
+        "distance": 5.22,
+        "scan": "17DRP5sb8fy",
+        "path_id": 1165,
+        "path": [
+            "0e92a69a50414253a23043758f111cec",
+            "b2e9278f9b8f4661abcb0446d2cbb98e",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "08c774f20c984008882da2b8547850eb",
+            "5e9f4f8654574e699480e90ecdd150c8"
+        ],
+        "heading": 1.542,
+        "instruction": "Walk through the door. Turn left. Walk past the table. Turn left. Stop next to the bar stools. ",
+        "instr_id": 92
+    },
+    {
+        "distance": 5.03,
+        "scan": "29hnd4uzFmX",
+        "path_id": 7074,
+        "path": [
+            "16bd2ace3edc47449caca63e656bce1b",
+            "ef12b1ecc3be4693b327e30468697a9b",
+            "efcb9e4c410841ca8665f6cab94e943b",
+            "5c4627e7805347bc8c09ba17aa248696",
+            "1430dc4987e248a7a9ec03ca89714127"
+        ],
+        "heading": 4.147,
+        "instruction": "Exit the room and turn right into the bathroom. Wait by the toilet. ",
+        "instr_id": 93
+    },
+    {
+        "distance": 5.04,
+        "scan": "Z6MFQCViBuw",
+        "path_id": 6129,
+        "path": [
+            "77149dc9cc4b4f9e9e1da3bd1c5925d5",
+            "d17d01dffc6a4f5e821580a1f5d9b346",
+            "9ba1bda76e7f4ee680326cbbc8ab147d",
+            "bc9bd723cae547c290bb24692fd1b8ce",
+            "8eda0abb2e714080a7a5d15c9d606c25"
+        ],
+        "heading": 4.789,
+        "instruction": "Walk through the doorway to your left, and stop as you pass through the door. ",
+        "instr_id": 94
+    },
+    {
+        "distance": 5.38,
+        "scan": "XcA2TqTSSAj",
+        "path_id": 2103,
+        "path": [
+            "871249bea9924fdba9937759ff5a22f4",
+            "00e1ca9383af4c7ba86241fdeeb73819",
+            "dc24c0e57e874e40a3ece84d23c012e2",
+            "8e9f6d822fb04edd9c2217d223af3f9d",
+            "1ec7b02628964cedb052c29579e6d404"
+        ],
+        "heading": 5.25,
+        "instruction": "go down the stairs and stop. ",
+        "instr_id": 95
+    },
+    {
+        "distance": 5.61,
+        "scan": "2azQ1b91cZZ",
+        "path_id": 6954,
+        "path": [
+            "04dbf54474354ec099ca16cf0d7f1686",
+            "29d286b3af0a4a49a162b1481b5c8127",
+            "77f6c7bb773441c8becf542b828dfc64",
+            "274c722ed45e4400b519611e2ca9c200",
+            "a0ee6f0d6b5545f6a17cb7385b56ca0d"
+        ],
+        "heading": 1.068,
+        "instruction": "Enter the room. Stop on the left of the standing mirror. ",
+        "instr_id": 96
+    },
+    {
+        "distance": 5.53,
+        "scan": "rPc6DW4iMge",
+        "path_id": 58,
+        "path": [
+            "edf3c245e1fa4fd9a44bca6a8c07f57e",
+            "d7044641458e49b0803e186bd1856994",
+            "2c16cbd610cf4e1b92b2830f51c07e32",
+            "cc15fb105d86466faafdd633f89148de",
+            "4350d36797324601adba7351d09602d2"
+        ],
+        "heading": 5.235,
+        "instruction": "Turn right and go to the door\r\nGo to the next door\r\nGo through the door on the left. ",
+        "instr_id": 97
+    },
+    {
+        "distance": 5.07,
+        "scan": "S9hNv5qa7GM",
+        "path_id": 4296,
+        "path": [
+            "fea7a9db41944d76b258036b046d13aa",
+            "32fb55017460457cbe0b8d1790a54786",
+            "dde66ea80aca47968d3ec9c6e6ef3c0a",
+            "3c5c466d4f64452a9e87c545d918c4eb",
+            "d73741360a1341a5b6bd420c11b70105"
+        ],
+        "heading": 3.044,
+        "instruction": "From stairs turn sharp right and stop at the hallway. ",
+        "instr_id": 98
+    },
+    {
+        "distance": 5.16,
+        "scan": "sKLMLpTHeUy",
+        "path_id": 6800,
+        "path": [
+            "76df66b4815b44abb28ecdc7bdd95a29",
+            "da05ae0817dd456b9180e7f75f78224e",
+            "5c092cee3b7c4684955a2827c06b87e1",
+            "0e5f1cd9a1cf46ecb2280d75dbb0a819",
+            "21d840b73bd84f65a97d2577b9a7cc6c"
+        ],
+        "heading": 3.124,
+        "instruction": "Leave the office, and enter the hallway. Stop once you are in the hallway. ",
+        "instr_id": 99
+    },
+    {
+        "distance": 5.53,
+        "scan": "JeFG25nYj2p",
+        "path_id": 784,
+        "path": [
+            "4bc28cee06d54af9aef263db6f9f2016",
+            "64f15fc5001f42a58ad17839e7dc6c8c",
+            "050b14f85a974966b61edcf8f965660a",
+            "3a0f734a7b4e46c4bcee77b78c5e3f6a",
+            "ac4729349d8643c28a5b7ff8e7857a32"
+        ],
+        "heading": 1.418,
+        "instruction": "pass through hallway, stop at door at end of hall. ",
+        "instr_id": 100
+    },
+    {
+        "distance": 5.29,
+        "scan": "qoiz87JEwZ2",
+        "path_id": 5313,
+        "path": [
+            "58a3dfc91650493d833577f818fccd37",
+            "024edcc6db70425aaa54f5596b0ebda8",
+            "80befc44c6d14348a3f9bda8ba719d70",
+            "bec7a60657d6483996aa2f0d03b9d691",
+            "4531a8cd59c7423e8f938bcd905f7b62"
+        ],
+        "heading": 1.533,
+        "instruction": "Go up the stairs. Wait at the top. ",
+        "instr_id": 101
+    },
+    {
+        "distance": 5.07,
+        "scan": "S9hNv5qa7GM",
+        "path_id": 6905,
+        "path": [
+            "d73741360a1341a5b6bd420c11b70105",
+            "3c5c466d4f64452a9e87c545d918c4eb",
+            "dde66ea80aca47968d3ec9c6e6ef3c0a",
+            "32fb55017460457cbe0b8d1790a54786",
+            "fea7a9db41944d76b258036b046d13aa"
+        ],
+        "heading": 6.176,
+        "instruction": "Walk past the staircase and make a sharp turn left. Walk up to the second step and stop. ",
+        "instr_id": 102
+    },
+    {
+        "distance": 5.43,
+        "scan": "mJXqzFtmKg4",
+        "path_id": 596,
+        "path": [
+            "20247bd5061d41838566259f995f9808",
+            "487edda074544e32a01a0f8d1fbbff02",
+            "c32b70bb02ec4f35ad1c76599ad6178e",
+            "f719c2037d3e4b70b30aa2f9e4f87320",
+            "7a0c00e7d0854088a292c38eb9c46ff6"
+        ],
+        "heading": 0.874,
+        "instruction": "Walk straight to the edge of the open door. Walk through the open door. Make a left at the open door frame. ",
+        "instr_id": 103
+    },
+    {
+        "distance": 5.58,
+        "scan": "JmbYfDe2QKZ",
+        "path_id": 4210,
+        "path": [
+            "63333423642f49caac4871521e93cc45",
+            "448d573c3160494c8715d3e7314f4afb",
+            "32c98b5cfe804dd185a8cb6ecb91a63f",
+            "949a6c58781d4e80bff19ca32493efcd",
+            "9ccf363f5cee403b91fd038d8e3a78dc"
+        ],
+        "heading": 6.139,
+        "instruction": "Head to the left doorway and enter the room. Stop near the bed. ",
+        "instr_id": 104
+    },
+    {
+        "distance": 5.52,
+        "scan": "V2XKFyX4ASd",
+        "path_id": 4085,
+        "path": [
+            "76dd8d8a97814d16b3f5401888e7c1e1",
+            "f2bd01837bb04271a6ec99c31ea850ba",
+            "c1b940bb38ca42ffbe2b2b94c05fa9ea",
+            "1555956dd65d45b4a7969e4d151d1116",
+            "0c17fd1d27164de4ad2274e6e0d64a89"
+        ],
+        "heading": 4.652,
+        "instruction": "Turn around and ascend the stairs. Go through the bathroom door. ",
+        "instr_id": 105
+    },
+    {
+        "distance": 9.15,
+        "scan": "8194nk5LbLH",
+        "path_id": 3785,
+        "path": [
+            "c9e8dc09263e4d0da77d16de0ecddd39",
+            "71bf74df73cd4e24a191ef4f2338ca22",
+            "fcd90a404061413385286bef9662630e",
+            "2393bffb53fe4205bcc67796c6fb76e3"
+        ],
+        "heading": 4.055,
+        "instruction": "Walk across the room and stop next to the door going outside, near the stairs. ",
+        "instr_id": 106
+    },
+    {
+        "distance": 5.5,
+        "scan": "JmbYfDe2QKZ",
+        "path_id": 5281,
+        "path": [
+            "4fca698177d14f40a2008174193dcfb5",
+            "3b0c7d0596fd45b69261b73e6b669d7c",
+            "444a5cc79a15455d96cfd41bc1f67e57",
+            "d9b5196ff58c494d8bebdeb3b6ccd061",
+            "51328414aea04771890766f436b40021"
+        ],
+        "heading": 3.94,
+        "instruction": "Go straight up the stairs. Go up five steps then stop. ",
+        "instr_id": 107
+    },
+    {
+        "distance": 5.22,
+        "scan": "8WUmhLawc2A",
+        "path_id": 3451,
+        "path": [
+            "814d9aba371640e5a70bcb7833bfe08f",
+            "1e951fdbfd9d45bbaf935da945f5425c",
+            "62e602fc5b85463dbd8f48ba625d05ef",
+            "f032c9ee981a4462914468785f0a4abe",
+            "5186e9da9b4248318f4a7ae68d11da15"
+        ],
+        "heading": 4.763,
+        "instruction": "Walk through the kitchen. Turn right around the kitchen island. Exit the kitchen toward the couches. Wait there. ",
+        "instr_id": 108
+    },
+    {
+        "distance": 5.58,
+        "scan": "17DRP5sb8fy",
+        "path_id": 6967,
+        "path": [
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "da5fa65c13e643719a20cbb818c9a85d",
+            "c429b363fd3145fe8a7631bbe9644066"
+        ],
+        "heading": 2.552,
+        "instruction": "Leave the theater, and take a right. Stop next to the first dining room chair. ",
+        "instr_id": 109
+    },
+    {
+        "distance": 5.02,
+        "scan": "29hnd4uzFmX",
+        "path_id": 216,
+        "path": [
+            "b6beaaff9e014de8b04eb79045739b49",
+            "4d574a196c884caa93b2da69dd36f201",
+            "ac56847024014b05bcc718f73ccde0b2",
+            "0fc2263dc29f4a9183320eddd33edb58",
+            "15b25adcf9bb4a0f8c751138a651dd8b"
+        ],
+        "heading": 4.159,
+        "instruction": "go through door, turn left, enter bathroom,. ",
+        "instr_id": 110
+    },
+    {
+        "distance": 5.26,
+        "scan": "EDJbREhghzL",
+        "path_id": 6395,
+        "path": [
+            "731e0bf988274e6080d0d90a2bd211e4",
+            "0e51c17b16974fe3ac943e17686c4842",
+            "fde766aee33345558610cbd26833607d",
+            "80c8894d436e45148577bcb0ebb45889",
+            "cc1617446c6c4db9800195d4249b5ff2"
+        ],
+        "heading": 0.848,
+        "instruction": "walk forward then turn left and wait near the door. ",
+        "instr_id": 111
+    },
+    {
+        "distance": 5.3,
+        "scan": "cV4RVeZvu5T",
+        "path_id": 2752,
+        "path": [
+            "abc8f6c9abf44c2cb2509ddc331f948f",
+            "faa7088781e647d09df1d5b470609aa3",
+            "7d708a5b80ee45979870bae83b2bdd44",
+            "b2af08ee382d4746b235a45d0a7032bb",
+            "28e5a4e93559430aa2cefb654bc3a442"
+        ],
+        "heading": 0.923,
+        "instruction": "Exit bedroom turn right before steps and stop right behind the couch. ",
+        "instr_id": 112
+    },
+    {
+        "distance": 5.11,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2464,
+        "path": [
+            "f4d03f729dfc49068db327584455e975",
+            "85c23efeaecd4d43a7dcd5b90137179e",
+            "5efaa5e4a30e481f9dadc1bac5e56a21",
+            "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+            "558ba0761bf24428b9cf91e60333ea25"
+        ],
+        "heading": 2.573,
+        "instruction": "Exit the room and turn left into the bathroom. ",
+        "instr_id": 113
+    },
+    {
+        "distance": 5.63,
+        "scan": "29hnd4uzFmX",
+        "path_id": 1298,
+        "path": [
+            "90f5e6e359b949fdaabf8ac3ee50a82d",
+            "ef12b1ecc3be4693b327e30468697a9b",
+            "efcb9e4c410841ca8665f6cab94e943b",
+            "5c4627e7805347bc8c09ba17aa248696",
+            "f9ea869fc8a04b05bef902bed791696d"
+        ],
+        "heading": 3.603,
+        "instruction": "Walk out of the door on the right. Make a slight right turn and stand by the banister. ",
+        "instr_id": 114
+    },
+    {
+        "distance": 5.26,
+        "scan": "29hnd4uzFmX",
+        "path_id": 3622,
+        "path": [
+            "22c29c9d052f4439a66194f3f8d8a6e1",
+            "6cff8d4e873a4dbc8db352872e706bb8",
+            "09f015ea8ca94df8841bcea7030bca99",
+            "beaaf39947ee40f7822ed8a383bf6472",
+            "e47436300f4f4b90a2415ea87eee0903"
+        ],
+        "heading": 2.752,
+        "instruction": "Go down the hall and turn right then stop next to the kitchen sink. ",
+        "instr_id": 115
+    },
+    {
+        "distance": 5.02,
+        "scan": "HxpKQynjfin",
+        "path_id": 3502,
+        "path": [
+            "c446ef907a7e473fa3950db0e3d116f0",
+            "e1d49f9c53bf45ae98d0dd8fb613161a",
+            "7a920bf869fd41099e44a0829f818361",
+            "0a709d588fcd4ae5badd921366074d7a",
+            "156af10f63d84956ba5dc4b9fe3b2140"
+        ],
+        "heading": 2.613,
+        "instruction": "Walk left past the coffee table. Walk past the bed and stop by the sliding glass door. ",
+        "instr_id": 116
+    },
+    {
+        "distance": 5.48,
+        "scan": "sT4fr6TAbpF",
+        "path_id": 1455,
+        "path": [
+            "06f99bb8fc5a439f80df2c7ec9b74ee8",
+            "65a868262eb74921b6a6792baa995ddd",
+            "7cb6009fdb57404ba1fcd02165db6deb",
+            "eed2f80b1b7c4900bdf96f39bee92c8f",
+            "ff07f2a04de04dac84e8ed51039c87ca"
+        ],
+        "heading": 6.26,
+        "instruction": "Walk down the hallway and go into the bedroom and wait. ",
+        "instr_id": 117
+    },
+    {
+        "distance": 5.42,
+        "scan": "e9zR4mvMWw7",
+        "path_id": 5263,
+        "path": [
+            "e85f9caa15a64aebb9e9138395a457d9",
+            "d2875e02333d4dd991e866786a87c1be",
+            "9a477352c0364b76839862c7298bfb8e",
+            "8fd980702db14e348e93943d61fdfb9a",
+            "15db0029a9844a5c8f8aadefe7178d10"
+        ],
+        "heading": 3.044,
+        "instruction": "Walk up stairs. Wait at the top landing. ",
+        "instr_id": 118
+    },
+    {
+        "distance": 5.35,
+        "scan": "gZ6f7yhEvPG",
+        "path_id": 318,
+        "path": [
+            "29b20fa80dcd4771974303c1ccd8953f",
+            "ba27da20782d4e1a825f0a133ad84da9",
+            "47d8a8282c1c4a7fb3eeeacc45e9d959",
+            "0ee20663dfa34b438d48750ddcd7366c"
+        ],
+        "heading": 5.01,
+        "instruction": "Walk up the aisle and wait to the left of the altar. ",
+        "instr_id": 119
+    },
+    {
+        "distance": 5.63,
+        "scan": "EU6Fwq7SyZv",
+        "path_id": 3263,
+        "path": [
+            "39f0b7fef1e547fb82a1b93f893df2e9",
+            "297a4e9f03774963b489bc2f19e6ba1a",
+            "4f5b6a8caa3f4e8d8d6c2eeb30068b54",
+            "5c24acbd5ece43b88e435ee56ab80990",
+            "1e034f23e0b547dc98f803712788d4b5"
+        ],
+        "heading": 2.518,
+        "instruction": "Move ahead in between bar and table to the chair. ",
+        "instr_id": 120
+    },
+    {
+        "distance": 5.61,
+        "scan": "8WUmhLawc2A",
+        "path_id": 3247,
+        "path": [
+            "e271a58ef80545adbb89d25ec15d0045",
+            "54fd5c128cbe4b2599804db60290ea4a",
+            "48c8e8de5830459aa06ebaa4ae2b91ad",
+            "44121bda3e5548c19b595e16c8e59c59",
+            "cc356636fdbf45769882f5912bc6d009"
+        ],
+        "heading": 6.164,
+        "instruction": "Exit the toilet, turn left into the closet, turn left through the closet a little passed the doorway, then wait. ",
+        "instr_id": 121
+    },
+    {
+        "distance": 5.59,
+        "scan": "XcA2TqTSSAj",
+        "path_id": 3106,
+        "path": [
+            "76a3c21bd39346938d4b78a7b0370f17",
+            "8e9f6d822fb04edd9c2217d223af3f9d",
+            "dc24c0e57e874e40a3ece84d23c012e2",
+            "00e1ca9383af4c7ba86241fdeeb73819",
+            "ba5d70e6143e45c3a8281157ea9ed905"
+        ],
+        "heading": 5.795,
+        "instruction": "Go up the stairs, stop at last stair. ",
+        "instr_id": 122
+    },
+    {
+        "distance": 5.0,
+        "scan": "ULsKaCPVFJR",
+        "path_id": 3223,
+        "path": [
+            "508a0c321b2341fb89271997435f6842",
+            "1a681f5111a94b0b8892b2f2f41ba9f9",
+            "ac4d3c6c11e4434fbf9cd56412176bd7",
+            "e7fc1269102148e3a59552c5123bbcb4",
+            "10f096d877cc45f79f47f82bcc3e7ffe"
+        ],
+        "heading": 2.761,
+        "instruction": "Go through the bathroom and through the doorway on your left then make a right and stop at the nearest doorway. ",
+        "instr_id": 123
+    },
+    {
+        "distance": 5.31,
+        "scan": "pRbA3pwrgk9",
+        "path_id": 1064,
+        "path": [
+            "e3c840907dd04cf7b991823c664a2ee6",
+            "b2726280b7314fe29ee9ddebd7060a2c",
+            "77d87c2eae1845e693d164b1a7845eed",
+            "d2c0d74f544446a893d33bf053de2046",
+            "fb6686350a574fc5ad854b3fc87c1bcb"
+        ],
+        "heading": 3.861,
+        "instruction": "Go down the stairway and take a right, stopping at the couch. ",
+        "instr_id": 124
+    },
+    {
+        "distance": 5.48,
+        "scan": "jh4fc5c5qoQ",
+        "path_id": 5702,
+        "path": [
+            "45b6596b2c8f4336b7293cfd6d910492",
+            "77e6cfabf32d46fc9398ce824843adaa",
+            "ba19aada2e9a47839c0355085f70f7c5",
+            "48a2541fc50b4a57a609698e2375e9b1",
+            "792bca2f015c482a82fae650dd5607f5"
+        ],
+        "heading": 3.543,
+        "instruction": "Exit the bedroom. Go into the living room. Go outside and stop. ",
+        "instr_id": 125
+    },
+    {
+        "distance": 5.22,
+        "scan": "qoiz87JEwZ2",
+        "path_id": 1554,
+        "path": [
+            "e2b769bf54424aadafe4be1ecd0d7776",
+            "aec041555da74f3783f941d4e2e24244",
+            "4f1ecaca2cc744b0beb75e146bc8ecc7",
+            "c20f8e6497d14696b2cecf24ed288470",
+            "1e05b7a24e664d3f98f3498d911bc48a"
+        ],
+        "heading": 6.232,
+        "instruction": "Walk through door to the right of the double door closest, walk through doorway and stop. ",
+        "instr_id": 126
+    },
+    {
+        "distance": 5.11,
+        "scan": "mJXqzFtmKg4",
+        "path_id": 1699,
+        "path": [
+            "399143f7459a4976a621eef31ac69961",
+            "acc58a31d0f14934a0bfd2a518e0f298",
+            "b18be3157a6f4b9c8df154f8f310099d",
+            "7478c47d6145458d80f89cee31d70fdf",
+            "05c5f3286f8a433ba542fa13ab0a8c7b"
+        ],
+        "heading": 3.673,
+        "instruction": "Go into the room next to the dresser with the lamp on it. ",
+        "instr_id": 127
+    },
+    {
+        "distance": 5.63,
+        "scan": "ULsKaCPVFJR",
+        "path_id": 4161,
+        "path": [
+            "525eea07ff0b45f49f6a47eb55b6d75e",
+            "7c213023b8a14cf9a77272791de04b9a",
+            "c73a6f3769bc471588158d99186b80e6",
+            "f7664517a79b4e2ba69635bffa525d68",
+            "78d6e1d2e0d042af9f1c96b180d449d6"
+        ],
+        "heading": 4.384,
+        "instruction": "Head straight, stopping at the dresser and take a left turn, stopping near the door. ",
+        "instr_id": 128
+    },
+    {
+        "distance": 5.51,
+        "scan": "29hnd4uzFmX",
+        "path_id": 6112,
+        "path": [
+            "51b17bc333674eb48d81ea7624118783",
+            "15b25adcf9bb4a0f8c751138a651dd8b",
+            "0fc2263dc29f4a9183320eddd33edb58",
+            "c9030e71fc29447599a5c21d90261ca5",
+            "4b82c138b8b743479d535513aabfabf4"
+        ],
+        "heading": 5.1,
+        "instruction": "Walk out the door, and into the doorway on your left. Stop right before the bed. ",
+        "instr_id": 129
+    },
+    {
+        "distance": 5.19,
+        "scan": "Z6MFQCViBuw",
+        "path_id": 3964,
+        "path": [
+            "f1c1b472600941529db03b728464bcd5",
+            "22fff6c74efb476592569c18718feb41",
+            "087236543c9a4043a0a3d824b7eef95f",
+            "a38fc71b78d24fd2b80cfaaa8140a0de",
+            "7fd32fb4686b47a29b435aa6564245d3"
+        ],
+        "heading": 0.001,
+        "instruction": "Walk to the far side of the room and stop in the doorway. ",
+        "instr_id": 130
+    },
+    {
+        "distance": 5.46,
+        "scan": "jh4fc5c5qoQ",
+        "path_id": 4855,
+        "path": [
+            "abbdc7ac89204f23a935fcb9ccae887c",
+            "97739a403b984dcd8253741a073b18dd",
+            "3182b6eba9ce405f9e1c0af86cc6b862",
+            "39791f422b0244aa84b3d41d9b218f7e",
+            "c91341f14a4f499e8b45d128091ed087"
+        ],
+        "heading": 6.107,
+        "instruction": "walk forward and stop a few steps out the doorway. ",
+        "instr_id": 131
+    },
+    {
+        "distance": 5.45,
+        "scan": "VzqfbhrpDEA",
+        "path_id": 5102,
+        "path": [
+            "7998913bccf443c5812520c2e24b76bc",
+            "b01bbddd12ee462abc14ce13d62be35b",
+            "f4054160a6f445239913e0d2e20a8448",
+            "44258be9bf664fccb0e728d319ce2638",
+            "e57c3ad712794b6f84b64925df90afae"
+        ],
+        "heading": 2.218,
+        "instruction": "Exit the bathroom. Go straight until you enter a bedroom. Wait near the entrance. ",
+        "instr_id": 132
+    },
+    {
+        "distance": 5.44,
+        "scan": "29hnd4uzFmX",
+        "path_id": 2697,
+        "path": [
+            "1c0715389b644f578961d420672e3613",
+            "1430dc4987e248a7a9ec03ca89714127",
+            "5c4627e7805347bc8c09ba17aa248696",
+            "f9ea869fc8a04b05bef902bed791696d",
+            "a102630f0cb84c32abc75f27b7712424"
+        ],
+        "heading": 1.612,
+        "instruction": "Leave the bathroom, turn right, turn right again, and wait by the drums. ",
+        "instr_id": 133
+    },
+    {
+        "distance": 5.38,
+        "scan": "5LpN3gDmAk7",
+        "path_id": 2429,
+        "path": [
+            "d3ed1b6f834c4951a939a14efb6eb3f4",
+            "49888a3fad204e94a546db3b697a364b",
+            "5f5b895c833b41afb1db0ba29afce147",
+            "fd23ee9232f54604bda2e7cb0d4055d1",
+            "9231543c6c484c939a501338ad8c1db4"
+        ],
+        "heading": 3.036,
+        "instruction": "Enter the bedroom and wait by the fireplace. ",
+        "instr_id": 134
+    },
+    {
+        "distance": 5.42,
+        "scan": "jh4fc5c5qoQ",
+        "path_id": 6032,
+        "path": [
+            "97739a403b984dcd8253741a073b18dd",
+            "3182b6eba9ce405f9e1c0af86cc6b862",
+            "39791f422b0244aa84b3d41d9b218f7e",
+            "9096013c3596463b9c0500520d12fef1",
+            "e4b0794b87994a7699ad7f6ee501d404"
+        ],
+        "heading": 6.183,
+        "instruction": "Exit the kitchen and wait on the lower deck, outside the screen patio. ",
+        "instr_id": 135
+    },
+    {
+        "distance": 5.14,
+        "scan": "JeFG25nYj2p",
+        "path_id": 5503,
+        "path": [
+            "e0e80a2e7596460983ac0d281a2963dc",
+            "2fb3e5986a7b45ceb6d83f975a5ae6c3",
+            "f1cc26867dcb44fda5f2e70555fe7856",
+            "8a88310071c24284b0c1da7c7a37f77a",
+            "13f2aa8423ca4c5588d50631355707c0"
+        ],
+        "heading": 3.16,
+        "instruction": "Walk straight. Turn right and go into the bathroom. Wait near the sink. ",
+        "instr_id": 136
+    },
+    {
+        "distance": 5.61,
+        "scan": "17DRP5sb8fy",
+        "path_id": 2223,
+        "path": [
+            "e0ce09f0178c48e2bbe649d2bf659702",
+            "1e86968849944444b66d9537efb5da9e",
+            "51857544c192476faebf212acb1b3d90",
+            "e34dcf54d26a4a95869cc8a0c01cd2be",
+            "0f37bd0737e349de9d536263a4bdd60d"
+        ],
+        "heading": 5.865,
+        "instruction": "Exit shower to bedroom. turn right and enter living room. Stop at arching couch. ",
+        "instr_id": 137
+    },
+    {
+        "distance": 5.16,
+        "scan": "i5noydFURQK",
+        "path_id": 5170,
+        "path": [
+            "902b0496eeb94742995708a15c69bb26",
+            "d20808518c8d4844bb76a2e0a7b98ba4",
+            "b2157583eedf426383de6e6e9753a4da",
+            "27e1974cf8af461e90d0f5124a665654",
+            "075307518bc2495498609ee2ff6dd003"
+        ],
+        "heading": 2.015,
+        "instruction": "walk forward and stop near the table. ",
+        "instr_id": 138
+    },
+    {
+        "distance": 5.57,
+        "scan": "SN83YJsR3w2",
+        "path_id": 7089,
+        "path": [
+            "a4d724f38115423284de93129331fdc7",
+            "9297f6e3bbf646c19c811b380f5fbc55",
+            "18940ca3b21745a8bd52557dc4b8abb3",
+            "7b708eb6eca54256976220baf01508de",
+            "050910e36ac9414c91bb44d962153689"
+        ],
+        "heading": 0.943,
+        "instruction": "Exit the balcony. Wait inside the next doorway. ",
+        "instr_id": 139
+    },
+    {
+        "distance": 6.92,
+        "scan": "8194nk5LbLH",
+        "path_id": 6712,
+        "path": [
+            "aeed67040d744240b188f66f17d87d43",
+            "9bdde31adaa1443bb206b09bfa3c474c",
+            "8c7e8da7d4a44ab695e6b3195eac0cf1",
+            "aae01016bb354f78bd6db86e9d71af2b"
+        ],
+        "heading": 1.438,
+        "instruction": "Continue up the stairs and wait inside the gym. ",
+        "instr_id": 140
+    },
+    {
+        "distance": 5.37,
+        "scan": "EU6Fwq7SyZv",
+        "path_id": 1851,
+        "path": [
+            "089b249af5e644e786ebce2fafd07373",
+            "b27d4ced7d2047a6bd6305660fbfa727",
+            "db5597417c5347f2863be10b9df20cc6",
+            "1bccb9088318447bb8ff07cff1254795",
+            "a60475b960cf4e65891374928d0bc5c0"
+        ],
+        "heading": 6.174,
+        "instruction": "Walk down the walkway to the bedroom, take a right, then stop in the doorway of the bathroom. ",
+        "instr_id": 141
+    },
+    {
+        "distance": 5.98,
+        "scan": "8194nk5LbLH",
+        "path_id": 1622,
+        "path": [
+            "9bdde31adaa1443bb206b09bfa3c474c",
+            "aeed67040d744240b188f66f17d87d43",
+            "423efb97f77f4e7995f19c66fe82afbc",
+            "2393bffb53fe4205bcc67796c6fb76e3"
+        ],
+        "heading": 0.644,
+        "instruction": "continue down stairs, walk straight into lobby stop at tree. ",
+        "instr_id": 142
+    },
+    {
+        "distance": 5.22,
+        "scan": "JeFG25nYj2p",
+        "path_id": 4818,
+        "path": [
+            "cffa1c807d2c4a708aa1e5f42aeba106",
+            "3a0f734a7b4e46c4bcee77b78c5e3f6a",
+            "fa2cbbb20350430bb00b7039031111a7",
+            "f29cfc331fc44746a060813f1e9ef52c",
+            "1892385477bd4362b8a1d03861169db0"
+        ],
+        "heading": 5.047,
+        "instruction": "walk forward then make a right turn and stop at the doorway. ",
+        "instr_id": 143
+    }
+]

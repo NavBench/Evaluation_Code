@@ -1,0 +1,2684 @@
+[
+  {
+    "scan": "S9hNv5qa7GM",
+    "path_id": 11378,
+    "path": [
+      "dde66ea80aca47968d3ec9c6e6ef3c0a",
+      "8f5a767771964a56b3708d5415c446b2",
+      "fea7a9db41944d76b258036b046d13aa",
+      "673ae67937804c42b3c22e93efb5d069",
+      "e0c61a2e0f9244cd8534e9ed8be96322",
+      "c4fc538718cc4918884d2040ce523a5f",
+      "5f4fd3bd58144211a8617caa5570e40c",
+      "5b821a3b87cd4ed3a7c4414199a0a740",
+      "f1b5f89d2b0a46449f374351c1579c80",
+      "6a876090f6f34eb59bc03a68df7137b5"
+    ],
+    "instr_id": 0,
+    "heading": 3.5107166227055506,
+    "instruction": "You're starting in a living room, facing  a staircase. Go up the stairs. At the top of the stairs, you'll see a door that goes into a bedroom. It has a bed with a blue bedspread on it. Go into that room. Go to the other side of the bed, between the bed and the window with diamond bars that overlooks the street. Stand next to the bedside table with the purple flower, and you're done.",
+    "distance": 16.054720163345337
+  },
+  {
+    "scan": "SN83YJsR3w2",
+    "path_id": 12677,
+    "path": [
+      "fc33b92b60314ffbb24075747bcb857c",
+      "c64896cf014748d7a31f7b496bd76e95",
+      "7d9e8e6508884b1c8c9fedf59d70729e",
+      "81a50ecde0ab42cd81e0cf23a2529675"
+    ],
+    "instr_id": 1,
+    "heading": 1.429426597117776,
+    "instruction": "You're facing towards a wooden wall. Turn right and get down the stairs move a step forward. Here is your destination.",
+    "distance": 3.692920207977295
+  },
+  {
+    "scan": "uNb9QFRL6hY",
+    "path_id": 11940,
+    "path": [
+      "76e669edcd7c4daa9f694c6b1c66b8a2",
+      "428c018c4df34717bf9685c5f71e6f93",
+      "0a3e9c68488347459f3aaba328bae563",
+      "f8acfc899a4c49ddad71fdfcfd899b2f",
+      "15a194390fdd47f9a0afd6753a0ba588",
+      "a291fdaca3f84e8c9895bb9bca1af07b",
+      "9ae0313ede6e4c14880dc0bdcdca3bb9",
+      "d3cf1aa039f241cba7d9859cd23ec3e1"
+    ],
+    "instr_id": 2,
+    "heading": 0.11007100311948004,
+    "instruction": "Okay, now you are facing towards the glass door partition, turn left and move towards the folding table, which is on the right side. Now move forward towards the white cupboard, which is in front of you. Now turn right and in front of you there are few stairs, get down the stairs. Now slightly turn to your left and move towards the open entrance, which is in front of you. Now you are facing towards a chair, slightly turn to your right and move towards the open entrance, which is in front of you. Slightly turn to your left and go straight towards the teapoy, which is in front of you. Now turn right and go straight towards the closed door. Now you are standing in front of the closed door with a mirror on your left side and this is the end point.",
+    "distance": 17.88526487350464
+  },
+  {
+    "scan": "ac26ZMwG7aT",
+    "path_id": 12686,
+    "path": [
+      "fd7ac20630e24aff97bb73f292d0da12",
+      "f4939bf6f00a4864832a358f1ea8394e",
+      "41e8be0d514945b1a74adb3308597196",
+      "e8527069c00e4d929f5eece0d766ebd8",
+      "a9ec9760708f4771b657e254d9ab916e"
+    ],
+    "instr_id": 3,
+    "heading": 2.4765459518642445,
+    "instruction": "you're in a washroom, get out, then go straight, you'll enter in to bedroom, near the bed, at the left side you'll find white color pillar, there you'll find your destination.",
+    "distance": 3.815908372402191
+  },
+  {
+    "scan": "gTV8FGcVJC9",
+    "path_id": 1765,
+    "path": [
+      "e3e6f76ac99c4714aeed085b2a8c95f8",
+      "3c34ee3ecea342c4b552c7eb5b4ee762",
+      "e8cc714adfb048a2b197a64c1ee17bbd",
+      "7b4ab60d14a345dd913de4b54796f145",
+      "3c06ad3810dc4078a111201589abf5e1",
+      "86d4b0bdb2304121aafe821042262f27",
+      "58cdef27c7d74befb1a6c8048a182ee6",
+      "74fab598f7d94d878f9d6fbe6a6e8eff",
+      "494d1e9dd7d24db78ecbf6b455ac7817",
+      "377abab23e7f4e7f8f357496577ea5e8",
+      "c0c06b1d56614f24afd65e83f3abe691",
+      "a70ec724684a431f9465d00e8d310f14",
+      "4f4bb16ea1724ba9b485e6068aececbd"
+    ],
+    "instr_id": 4,
+    "heading": 0.09006777514358388,
+    "instruction": "You are facing an open door.  You are going to leave this room and you are going to make a right and go out the door in front of you.  You will see a bed to your right, you are going to go around the bed and head out of the bedroom.  Once out the door you are going to veer to your right and you will pass a black staircase on your left.  Head towards the wall with the picture on it passing the dining room table on your right.  You will then see a open door and a back of couch  in front of you.  You are going to go towards that open door passing the keyboard on your left you are going to enter this door.  You have now entered a bedroom.  You are going to make a left in the bedroom and head towards the table under the window at the end of the room. Once you are standing in front of a suitcase and the window you are done.  ",
+    "distance": 28.594608545303345
+  },
+  {
+    "scan": "i5noydFURQK",
+    "path_id": 10778,
+    "path": [
+      "57bdea1f5113402d9b4a65450e030424",
+      "5f1b89f0e0f341849fcdab381165cd26",
+      "1e61d22315c945378096f3055645d9e1",
+      "4385dfc7f81c413b86bb06658c1ff5c7",
+      "91c5afdf381d439380d3ca8d6eb27b03",
+      "433a39089bf94c7994e39d5e7115cd02",
+      "c51b92525949496b94fdde3b4be91ede"
+    ],
+    "instr_id": 5,
+    "heading": 6.042894827088532,
+    "instruction": "You'll start by facing the bed and turn to your left. You're gonna exit through the door that's open to the far left. You'll see a wall hanging on your right side and another opening on the left. You're gonna enter that direction. This will lead you into another hall, hallway sorry. There's gonna be some pictures on the left side and a bathroom on the right. There will also be a room right after the bathroom on the right. So you're gonna go straight ahead. In this room is gonna be a giant wall hanging with birds flying, some of them are black and red. So you're gonna go just to the left of that dining table with, actually it's more of an office table with 2 green chairs and a black chair. And head towards the black rack with more pictures on it and just to the right of that rack is your stop.",
+    "distance": 12.452457547187805
+  },
+  {
+    "scan": "17DRP5sb8fy",
+    "path_id": 10787,
+    "path": [
+      "28db29e8c72c4a68bfdf5bb2b454443d",
+      "558ba0761bf24428b9cf91e60333ea25",
+      "7ad0b4e15c4f4cf38f56efbbcadfbf6a",
+      "da5fa65c13e643719a20cbb818c9a85d",
+      "c429b363fd3145fe8a7631bbe9644066",
+      "701f7128272a4bb2acd9dbd89b5cdf6f"
+    ],
+    "instr_id": 6,
+    "heading": 2.052121710444144,
+    "instruction": "You will start by facing the toilet. Turn around and exit the bathroom. Take one step on the doorway to your right. Now turn back around you will see a double door in front of you on the right side of that there's another opening. Take a step towards that opening. Turn right you will see the dining table. Take two steps towards the right side of the dining table. Once you're standing in between the painting on your right and the dining table on your left then you're done.",
+    "distance": 7.5597087144851685
+  },
+  {
+    "scan": "29hnd4uzFmX",
+    "path_id": 5754,
+    "path": [
+      "44055efcd82c49daae1cb67e4fc79ebe",
+      "1576d62e7bbb45e8a5ef9e7bb37b1839",
+      "e47436300f4f4b90a2415ea87eee0903",
+      "beaaf39947ee40f7822ed8a383bf6472",
+      "09f015ea8ca94df8841bcea7030bca99",
+      "6cff8d4e873a4dbc8db352872e706bb8",
+      "f7dfad43a3a6462cb96145242bd8bdd0"
+    ],
+    "instr_id": 7,
+    "heading": 4.201342549090034,
+    "instruction": "Right now, you're facing towards the kitchen platform. Slightly turn right and move forward towards the sink, which is on the left side. Now, take a few steps and turn left. Enter into the room and move towards the window and that is the end point. ",
+    "distance": 9.421114325523376
+  },
+  {
+    "scan": "2n8kARJN3HM",
+    "path_id": 369,
+    "path": [
+      "1c598b0601734b5da0ae03b359079dca",
+      "3611ca6eb11f4a32a7cd3c073862860d",
+      "1f8182156ccd41f39c552ac05ab24877",
+      "dac4509f882848258838272f16d18302",
+      "4460e0586719490095d7ac389f302500",
+      "a62a0607fae3496d9018dc74a561be64",
+      "2b4b62ead49b4f14a013f85816012a12",
+      "ed2d5dadd1994487a5815fb8126bf80f",
+      "44f54890c8bf4cb8aa0046f782333e12",
+      "4d4cb9fda3164b6f8b74e99489d40b4b",
+      "6dd909f1a0e74851b2e3a0a1baba65dd",
+      "6991b64d63e44b288e6f6bf4691a8158",
+      "bec236792d90495f8d6dfc93bb5447c3",
+      "fbf93de6547a4ee7921c53ba348f9acf",
+      "bf887dbe935e40c5a2f04ab91b987106",
+      "852b5475114441b387c8dca0e8cea3cc",
+      "709e5322dcc9466b92d2da48ad93b2b2"
+    ],
+    "instr_id": 8,
+    "heading": 2.4677814777216303,
+    "instruction": "Right now your facing towards the door exit the room through the door then turn slightly left and keep moving in a forward direction. Now turn slightly left and move forward towards the door which is closed. Then turn left and climb down the stairs completely by moving forward. Then you can see now to ways now turn right and move forward towards the opened door. At the right side you can see another opened door enter through it and turn right move forward. Then turn slightly left and move one step forward towards the white curtain, and that will be your final destination point.",
+    "distance": 26.838657915592194
+  },
+  {
+    "scan": "82sE5b5pLXE",
+    "path_id": 11171,
+    "path": [
+      "db42868ee24c45dcb7cd4f5ae61f47fe",
+      "ad3a2912de974a5690af5050e6ade942",
+      "8ce00b6bb78348f08464752ecf264a87",
+      "03b95e03d2724a4fad746c4716c38fe8",
+      "91e9df140eed4de79b2350a13880ac85",
+      "49693be7929a42b0978bdcb6b0862073",
+      "239a6c22079a4668bd1df0fb3720c962",
+      "5718221ad03f453b957caddfa136a2f9",
+      "9023e810675e4d209d14bbae08584441",
+      "eec9cd2d844a420ab80e267ca56bea81",
+      "662330a779bc48eea0e0ab7c6eed8cf3",
+      "aea0f7739ecc4d859bcca9bd19f8023f"
+    ],
+    "instr_id": 9,
+    "heading": 1.741546981660906,
+    "instruction": "Okay,taking left from there door there is a path which will lead you outside the room and on the left side you will find the bedroom with a bed and a lamp with a small sofa and at a distance there is a glass window which is covered half and there is also a door,a kind of a balcony on the very corner of the left where you can see the complete view outside and at the right corner there is cupboard and a washroom inside where you can find a bathing tub with a washbasin.          ",
+    "distance": 19.51384872198105
+  },
+  {
+    "scan": "1pXnuDYAj8r",
+    "path_id": 12263,
+    "path": [
+      "2f3e7d98347047829630f0114694a532",
+      "7e1850bf73f24a7f9ab824a82143e1b6",
+      "463e439a4e974a00b23bfe7c684a2607",
+      "55e5280eea474acfb993bf68a193bb25",
+      "aff833f86ff847a7bcf24bea207c91ad",
+      "f6af6b4247ea4353b90f8bce6e05f58a",
+      "810702d87ddc4964a583f8b7a3b9c43c",
+      "5e102e6df0e544578c407d3b4373f737",
+      "18ea875fed1b4dc99363420c08cb4300",
+      "efa99d80f5024c999633851f5875c6c7",
+      "29f8bc9c86e94a3692ec50fbad2e7204",
+      "31ae672c4fda4ce29add4798d07ce3b1",
+      "0f42320ef887416fb8ed9b91b6641cfc",
+      "834865d0e74042d38b796ded2488d64c",
+      "fec0a4503f7d4cee8f491934eff0d498"
+    ],
+    "instr_id": 10,
+    "heading": 4.066402546387671,
+    "instruction": "Right now you are standing near the bed. Make a slight left turn and go closer near to the open door of the bed room . From there make a slight right turn and walk through the corridor and again make a slight left turn and walk through the corridor up to where you can see a horse painted frame on the wall and make a slight right turn near the horse painted frame and just step into that room and go straight where you can see a curtain from the curtain make a slight right turn. In front you can see a opened door. Just get into that room it is an empty cupboards. Here we reached our destination in front of the opened door of the room.",
+    "distance": 26.36617875099182
+  },
+  {
+    "scan": "8WUmhLawc2A",
+    "path_id": 1812,
+    "path": [
+      "ebb4d6a92d504053bc2420ce1b269c54",
+      "adc00d8eaf1448b8b57fa552779ced79",
+      "e33610a744554c9d9202fa95100304ff",
+      "c3f75cb415554a919dbc49eaaebc702e",
+      "276586d2d2e14dde82b112c03ccf2188",
+      "491b9b2d5e63400f9b448e5603dd05ae",
+      "814d9aba371640e5a70bcb7833bfe08f",
+      "1e951fdbfd9d45bbaf935da945f5425c",
+      "62e602fc5b85463dbd8f48ba625d05ef",
+      "e0d2a4e22abe44d7810d7e448fff6704",
+      "f553a3287fb2438b979f09b09448c7c0",
+      "9871b1fb068b495fa3e2ddac2f54cc16",
+      "5848b29e18924f5594fbec08340fb7a9",
+      "ffaf24e85435430ea07c697b9332cfde"
+    ],
+    "instr_id": 11,
+    "heading": 5.877645244208959,
+    "instruction": "Okay right now you are facing towards the black sofa. Turn slightly to your left and walk straight towards the glass window. Now turn to your right and walk straight towards the refrigerator. Once you reach near the refrigerator, turn to your right and walk straight. Exit the kitchen. Once you exit the kitchen, you see a door which is open in front of you with wast basin. Enter into that room. Now you are facing towards the wall. Turn around. Walk straight towards the wall in front of you with paintings and turn left. You see a small table with vase on it. Walk straight into that room and stop. This is the end point.",
+    "distance": 25.649852514266968
+  },
+  {
+    "scan": "p5wJjkQkbXX",
+    "path_id": 7611,
+    "path": [
+      "a819af38ac3f4e54b7cdc834c04a1d05",
+      "a36d93ad718a4c18ae37b5b7e8b393ff",
+      "e61a450ffbe3472795b6559f3f36c211",
+      "2c25ceddf2aa4f6182a84f2668b6635b",
+      "6f5ab0712f694551a26278f5ace7a68c",
+      "5da6b235e84743968b6f0b1bd75e250d",
+      "ba4dee4c0dd9410480e5ddeb625cdc88",
+      "1bbb3bf17efd4fbea301b8f2194d15ab",
+      "5ea05ade19e4462eae79d583f3656cca",
+      "a605b7adeebf49c580e5ba30e5ca025e",
+      "7e7f11d08e64429ca7c0be69573f061b",
+      "b522428ca9694b10a0d44bb8ccae53ea"
+    ],
+    "instr_id": 12,
+    "heading": 3.0675299738193638,
+    "instruction": "You are facing towards the wall. Turn right and exit the washroom. Turn right. Walk straight and exit the bedroom through the open door. Walk a few steps ahead and turn left. Walk straight till you reach an open brown door towards your left side. Turn left and enter inside the bedroom. Turn right and walk straight till you reach the stool in the front. Turn right and enter into the washroom. Walk towards the commode. Turn right. Enter into the room and stand beside the door. You have reached your point.",
+    "distance": 18.74790334701538
+  },
+  {
+    "scan": "sT4fr6TAbpF",
+    "path_id": 8104,
+    "path": [
+      "cf20a83d4f5a490f8b07ddd43d0abc72",
+      "ff07f2a04de04dac84e8ed51039c87ca",
+      "eed2f80b1b7c4900bdf96f39bee92c8f",
+      "7cb6009fdb57404ba1fcd02165db6deb",
+      "65a868262eb74921b6a6792baa995ddd",
+      "05869550e06a407a8dedf24f887c9b26",
+      "00f205a65f374c5299b67176c0852e91",
+      "f75d8b1b682c4fee965dd7c5c2dfae74",
+      "c06aae190b804b759496db0b88fe4820",
+      "c3c5e202b9a04a63ae33742fe9095936",
+      "859a7c9c12c847d9a6860bd6d6bd635a"
+    ],
+    "instr_id": 13,
+    "heading": 4.76176360505698,
+    "instruction": "Okay, now you are in a room facing towards the wide open entrance. Turn behind and in front of you there is a narrow open entrance, walk straight through the narrow open entrance passing the bed lamp on the left side and a close door on the right side. Now you are facing towards an open door, slightly turn to your left and move forward. Now you are at the entrance of a room facing towards the door, slightly turn to your left and move forward, and stand next to the white bench, which is on the left side. Slightly turn to your right and move forward, now you are standing next to a white chair, which is on the left side and in front of you there is an open entrance. Walk straight through the open entrance and stand next to the switch board, which is on the left side on the wall, and this is the end point.",
+    "distance": 16.544202268123627
+  },
+  {
+    "scan": "VFuaQ6m2Qom",
+    "path_id": 14330,
+    "path": [
+      "300ca404034e48a88225b26c787dced9",
+      "5890217739a04f0fb9779de94835deb6",
+      "b6ab88125f984cda94011fef788e23d0",
+      "70fe6e3a6efc4b71b835cdd4c29d4a68",
+      "4592c86e6f7a467aaddcf03cdff7a2ad"
+    ],
+    "instr_id": 14,
+    "heading": 2.342894013872819,
+    "instruction": "You are in a room facing towards the pillar, move slightly left and walk straight few steps, turn right towards the glass door which is open and exit the room, towards your left there are steps, go near it and get down on the sixth steps, now your on the sixth step, this is your end point.",
+    "distance": 9.90798795223236
+  },
+  {
+    "scan": "B6ByNegPMKs",
+    "path_id": 2024,
+    "path": [
+      "5f316f408d4644baa49d6a64a123bb88",
+      "772987c5182047be8aed36730aa1d6e0",
+      "b22d5420f0b54692b01da8e91ba2d92f",
+      "61b8ed10e81d46e09e19515659eada92"
+    ],
+    "instr_id": 15,
+    "heading": 5.645680341470377,
+    "instruction": "You are in a corridor, facing towards the cupboard. Turn towards your left and keep moving forward. In front, you can find a glass cabin, walk towards that cabin and turn towards your left again. You can find a corridor in front of you. Keep moving forward in the corridor and stand near to the pillar, which is on your right and a brown door, which is on your left. Stand between them and you reached your destination.",
+    "distance": 5.385633707046509
+  },
+  {
+    "scan": "ZMojNkEp431",
+    "path_id": 12183,
+    "path": [
+      "deb30eecfa4e49198ba8473ee803622b",
+      "4967e9252dec465db94b791223a67a2e",
+      "8ae0426af8824849ba75a6147325c30c",
+      "718e7b8d4f63458d951d734b777c4562",
+      "5bef72c3da8d49e4b62a50234fe97cb3",
+      "cd504d23d03944a8bef4e4d8c4975cdc",
+      "6c86f8dd156142a1972e3c17310b6376",
+      "1f701e524a6d48abbfdf40cd288cf1dd"
+    ],
+    "instr_id": 16,
+    "heading": 4.790213082389321,
+    "instruction": "You are facing towards the umbrella, turn slightly left and move towards the steps, now climb up the stairs, now turn right and move little forward, from here turn slightly right and stand on the second step, now turn slightly left and move towards the orange colored small seat, now you are in the small space which has two green sofas, this is your end point. \n",
+    "distance": 14.355228006839752
+  },
+  {
+    "scan": "vyrNrziPKCB",
+    "path_id": 9070,
+    "path": [
+      "4c1d3b09540c4d088963100a6a86846c",
+      "cfa7edd3cdea4c428cd1b2e2bdb4aa31",
+      "a7c413edfeba4661930406b501a30131"
+    ],
+    "instr_id": 17,
+    "heading": 3.269844538010771,
+    "instruction": "Right now you are beside the door. Go straight from the place you are standing. You will enter into the bathroom with bathtub. Go straight and then you will reach the point near the bathtub. That is your final destination and stop.",
+    "distance": 2.2535876035690308
+  },
+  {
+    "scan": "XcA2TqTSSAj",
+    "path_id": 5810,
+    "path": [
+      "eb7c8095d2514ab7a84732fa41ed3594",
+      "bf22e389bd754181924923b4f5e0fe02",
+      "c43ed5913b6d45e5aa3b782bfa860805",
+      "ec0421cc61c64f6f8692d327d6838fd5",
+      "02253cded39e4f26a34c483d645ebcb7",
+      "fa065de5315940abb64684e68f6d686a",
+      "1e2d321dc574469288c88e5ae2afb370",
+      "8fcf0b6f46b8465ab762e45a0060f6f0",
+      "ece4791464684b42ae24dd216c84dcf7"
+    ],
+    "instr_id": 18,
+    "heading": 0.805707876849934,
+    "instruction": "You begin in a bathroom, exit into the bedroom, look to your left and exit the bedroom, through the main door, go forward through the hallway, and then look to your left, you will see a staircase going down, go down the staircase and when you make it to the first landing, you are done.",
+    "distance": 13.712091863155365
+  },
+  {
+    "scan": "pRbA3pwrgk9",
+    "path_id": 9861,
+    "path": [
+      "3b165e9f2f0a4317be49995470e65e02",
+      "35b1214591eb4a43a3f85d63973d43a5",
+      "ae8b1eb9dcd444688117d22839834a20",
+      "fdd1efb5300a4a57b6537c492c27abe8",
+      "fd774468f1614fb59f0b9542f683d358",
+      "3bf877d5a12d4aeb93bb36ce67c7ea2f"
+    ],
+    "instr_id": 19,
+    "heading": 2.1983720187208107,
+    "instruction": "Now you find yourself facing towards the open door and a bookshelf on your left. Turn left and enter the room which is next to the staircase. Now you find yourself in a bedroom at the entrance immediately take a right. Now you are facing a wall which has a guitar placed on it, go near them and take an immediate right which leads you into the room. Now you are facing to edge of the wall with a shoe rack on your right. This is your final point.",
+    "distance": 6.971749186515808
+  },
+  {
+    "scan": "JF19kD82Mey",
+    "path_id": 10256,
+    "path": [
+      "96490c4da78240058d1f76a07ed95c9d",
+      "a33fe858085149e8908942d0bf98767f",
+      "c7b357a72c3d4ce2aa16f8d5c41a54ba"
+    ],
+    "instr_id": 20,
+    "heading": 4.629118279170999,
+    "instruction": "You are standing on the fourth step of the stairs, get down the steps, go forward where there will be a portrait on the wall on to your left and a sculpture on to your right, here you have reached the destination.",
+    "distance": 4.21556544303894
+  },
+  {
+    "scan": "JeFG25nYj2p",
+    "path_id": 6297,
+    "path": [
+      "fbfcbd0fbb5f48eda74641a19eda8db6",
+      "1892385477bd4362b8a1d03861169db0",
+      "f29cfc331fc44746a060813f1e9ef52c",
+      "fa2cbbb20350430bb00b7039031111a7"
+    ],
+    "instr_id": 21,
+    "heading": 5.720634558668931,
+    "instruction": "Our starting point is in a laundry room, we're facing towards a door, turn slightly to your left, and exit the laundry room. We're facing towards a console in a hallway turn left and walk until the end of the console and that's your destination.",
+    "distance": 3.019992172718048
+  },
+  {
+    "scan": "EDJbREhghzL",
+    "path_id": 7064,
+    "path": [
+      "fdb41a7ee3f1452d8083fb0996760139",
+      "80d0c5f35b044888aa698481d04d3bf9",
+      "4fb707bafaca4534904f698e89a3e55b",
+      "f2e7d33780ae42e087a760e7db92128b",
+      "1b59ac5113344d2fb27e6274c9b728f5",
+      "2c4f0c57f3b3499c9a4f13d2d0b20d0b",
+      "c1be688e07c845d194fa8c32d6327968",
+      "e94cd6b986b5456990723fa8d9612759"
+    ],
+    "instr_id": 22,
+    "heading": 4.378301098546237,
+    "instruction": "Okay now, you are in the living room facing towards the red flowers. Turn slightly right, and move forward, you can see the dining table in front of you. Now slightly turn left, and move forward until, you reach the small round table in front of you. Now turn right, and move forward, you can see the washbasin on the left side. Now turn right, and move forward, you can see the stair case in front of you. Now slightly move forward now, you are on the stair case. Now, you have reached your destination.",
+    "distance": 14.652258396148682
+  },
+  {
+    "scan": "mJXqzFtmKg4",
+    "path_id": 12850,
+    "path": [
+      "c24c16e17de043e18fbf36387b929117",
+      "8f9fb18bd1f14a2792f90646ae861c79",
+      "a8fdaa0e5d5b4588b3fc15e7194227a3",
+      "ca2a1110dcfa4449a6cd735d6cfb9402",
+      "7bfd840693034959a2dffb2625026980",
+      "7ee437db8a914c6d8ce7555b3ce6aae4",
+      "410ec890d2514ed39248e9204f785ab8",
+      "93537c1826904116b02ed6019b20c57d"
+    ],
+    "instr_id": 23,
+    "heading": 0.26616172988543507,
+    "instruction": "Right now you are standing at a place where you can see a dinning table with six chairs and a kitchen area in front of you. Start walking in between the chair and the cupboard towards the kitchen area where you can find three long chairs in front of you. Slightly turn towards your left side and walk near the entrance of the kitchen, turn around you can see two pillars in front of you and a large sofa set. Take a right turn and move little forward, on to the right you can see a candle holder and on to the left side black sofa. Move towards the wall where the television is placed, move little forward and place yourself in between the teapoy and the television that is the final point.",
+    "distance": 13.32589077949524
+  },
+  {
+    "scan": "qoiz87JEwZ2",
+    "path_id": 11164,
+    "path": [
+      "bc152882e34d4957812a74f7831a5d9a",
+      "595344b8d6a7471691be526b8b9d685f",
+      "0acbbb92572f437faef8da9b991412f6",
+      "267a7e2459054db7952fc1e3e45e98fa",
+      "59b190857cfe47f691bf0d866f1e5aeb",
+      "150763c717894adc8ccbbbe640fa67ef",
+      "9f68b19f50d14f5d8371447f73c3a2e3",
+      "c407e34577aa4724b7e5d447a5d859d1",
+      "a6ba3f53b7964464b23341896d3c75fa",
+      "bdb1023cb7cc4ebd8245b9291fcbc1a2"
+    ],
+    "instr_id": 24,
+    "heading": 0.25874225104246884,
+    "instruction": "You are facing towards the snow, turn back and move a bit forward, turn right and pass through the closed door which is infront of you, you can find an another closed door, pass through the closed door, move towards the opening which is infront of you, turn left and move forward towards the opened door, now you are at the entrance of the kitchen area, slightly turn left and move towards the white cupboard, that would be your end point.",
+    "distance": 21.52751851081848
+  },
+  {
+    "scan": "VVfe2KiqLaN",
+    "path_id": 4299,
+    "path": [
+      "88fda52a9c9e4a5cb1774e741ecce8f6",
+      "ca77dd4132f044b7b6b999d3795d09d3",
+      "1a7fe152f6f34697bdcee712008f84e4",
+      "6eddf5877b284e3184ddd6aec1e34101",
+      "35b41dcbfcf84f96878f6ca28c70e5af",
+      "6b0783db762e4593ab5ff5fa7caf57ce",
+      "49e6c905a81c486baa8fec5e6e436ca9",
+      "c4c0d2047c27477aa1fbddd567a6ee4a",
+      "b893c0ba92f64e9e88698fc4225fad6a",
+      "a3dfeebf01d24ad19c009d3527fcb6cc",
+      "fa1f71b06e894ff6a4e2173012ac7a3b",
+      "f1c9fadd26764ee48670b32571ce9c39"
+    ],
+    "instr_id": 25,
+    "heading": 3.921491864079025,
+    "instruction": "You are facing towards the round table, turn left, you can find an open door, exit the room and move forward towards the carpet in front, turn around, you can find an open door, exit the room, now you can find a balcony, walk straight, there is a swimming pool at the right side and a garden at the left side, walk straight till you find an open glass door in front, in front of an open glass door you can find your destination.",
+    "distance": 11.298449695110321
+  },
+  {
+    "scan": "D7N2EKCX4Sj",
+    "path_id": 7255,
+    "path": [
+      "6ac9742aa5264ea8a194997121c966c9",
+      "aba78bacdfe840af8bdbc41e9463a4c3",
+      "dad7d0531dd2422bac0484433e926a45",
+      "2a86179df480483f8c49a24831d2dfbe",
+      "32713cddaa7942a9aec72809a14bc046"
+    ],
+    "instr_id": 26,
+    "heading": 1.4396188428498782,
+    "instruction": "You're starting in a bathtub in a bedroom, facing the bed. Take two steps toward the bed. When you're at the bed, turn around and enter the room that's to the left of the floral screen. This takes you in to the bathroom. Step in front of the toilet. You're done.",
+    "distance": 7.351547181606293
+  },
+  {
+    "scan": "Vvot9Ly1tCj",
+    "path_id": 6774,
+    "path": [
+      "74ba19593c6343f8bdfffa8c062de530",
+      "bf5d29d3d97a47a8aaa1a6d0e981644c",
+      "c313e18d8f404a86b7d80b2845334ff5",
+      "97e2b380b56147da8ec1044227eb11d6",
+      "708250b7e83d455a9681a0d6b6de6a18",
+      "7634dd7ab18648abae6bb8bb1517cefe",
+      "3a20a0de02774a50b90d1b56e47409a8",
+      "b4bc7bfcda5b4c46aee88fcbb2688fae",
+      "ec1b5ed22ffb430883db75696a30061c",
+      "2b620a64437e43a187c18892ac8fc0e9",
+      "7ef912e7c11440429e9494cc71cb173f",
+      "dc37327c246a47a3835ced7261b8da46",
+      "b5de38fa174e49ccb91d7140b03a4da8",
+      "59b236a79bd648d1a01136a8061da36e",
+      "7e858ef0292448b799190da474801921"
+    ],
+    "instr_id": 27,
+    "heading": 4.594293147587483,
+    "instruction": "You're facing to a bed. You can see an open arch in front of you, walk towards the arch. There is a door open on your left, walk to the door. Walk straight towards the pool.  Turn slightly right, walk towards the open sliding door. Turn slightly right, you can see the dining table on your left, sofa sets on your right and a round table with a plant in front of you. Walk towards the sofa set. Turn slightly left, you can see an open arch in front of you, walk towards it. Walk out of the house. Walk straight towards the last floor mat. Stop on the last floor mat. It is your destination.",
+    "distance": 31.387978434562683
+  },
+  {
+    "scan": "759xd9YjKW5",
+    "path_id": 6426,
+    "path": [
+      "6e1e523c608942daae201e0edb7cdde0",
+      "ca660fbd1a384380a372ad79f760e1d9",
+      "b90801209e564a309883d214b02a6195"
+    ],
+    "instr_id": 28,
+    "heading": 5.51163089691727,
+    "instruction": "Facing an open door, you're going to slightly look right, and you'll see a set of stairs leading up. You're going to walk across the carpet towards those stairs. Once you get to the first step, you're going to take four steps up and stop.",
+    "distance": 4.0002219676971436
+  },
+  {
+    "scan": "GdvgFV5R1Z5",
+    "path_id": 7771,
+    "path": [
+      "6178647ca8d14dc09370f6c1b7ed2fd6",
+      "86d342c576ff46a9828d2ba377cc8cd5",
+      "aebb1de49d21485e8bef7633dfb58761"
+    ],
+    "instr_id": 29,
+    "heading": 1.8811327150423636,
+    "instruction": "Begin in a bedroom with a kitchen. Head to the left of the blue rug next to the fridge.",
+    "distance": 6.178762435913086
+  },
+  {
+    "scan": "HxpKQynjfin",
+    "path_id": 3798,
+    "path": [
+      "dd7f5cea4ea04f3bae0961f6a9cb39a2",
+      "5cd96a7c879547eda2a90077c79bc7f0",
+      "156af10f63d84956ba5dc4b9fe3b2140",
+      "0a709d588fcd4ae5badd921366074d7a",
+      "c5f7387bbf2747aa8686f8f226935a90"
+    ],
+    "instr_id": 30,
+    "heading": 5.369269279231976,
+    "instruction": "Okay your facing to the loungers turn to your right, and go forward near the glass door now slightly turn to your left, there is an open door and you will be entering into a bedroom, now slightly take left and go forward you will be reaching near the curtain, now turn to your left there is a round table go near the table it is your final destination. ",
+    "distance": 4.764319896697998
+  },
+  {
+    "scan": "V2XKFyX4ASd",
+    "path_id": 11426,
+    "path": [
+      "4955496ce75d4347bab8ed9dfa24780b",
+      "01cb3e6fb48a4a178834426cf4b340c4",
+      "f2ad72c11231453fa9a85ea2cb22be42",
+      "071418244e994a8284a535fc136de090",
+      "935b3ea73b7a40cba6b0964f6d1fd9e7"
+    ],
+    "instr_id": 31,
+    "heading": 3.532186179427044,
+    "instruction": "You are facing towards the open door, turn around and move forward, now slightly take right and move towards the bed, walk in between the bed and table towards the open door, now turn to your left and move forward, it is your end point.",
+    "distance": 7.637556433677673
+  },
+  {
+    "scan": "JmbYfDe2QKZ",
+    "path_id": 15422,
+    "path": [
+      "ebb3e7ba8ccb4ff7b4fecb33cddfdd03",
+      "bd01fe5cdc7f4d7580134b2a3ffd08a8",
+      "38a021bef7634782b42c0583f84c6b8e",
+      "9f7f95239ff04f7581f1cf9a4b5a9eaf",
+      "da041807b0184761af4e74df5006b95e",
+      "c3a25551d0e74186ab736e502f621f9e",
+      "7025038ba12d4a63a40c866489226fbe",
+      "61ff336a2ec442268785b388864ea348"
+    ],
+    "instr_id": 32,
+    "heading": 6.174183947275469,
+    "instruction": "You are standing facing towards the glass window. Turn right and walk straight till you reach the round table in the front. Slightly turn right. Walk till you reach the black table and chairs in the front. There is a brown cabinet on your your left. Walk straight till you reach the end of the carpet. There is another carpet in front of you. Walk two steps ahead and stand near the carpet. You have reached your point.",
+    "distance": 13.682868719100952
+  },
+  {
+    "scan": "Uxmj2M2itWa",
+    "path_id": 11009,
+    "path": [
+      "8fe0b78b55964b8dabd6ea8693f87ec8",
+      "d573afade1c74167ac0d0b1a2e37ddc4",
+      "d52aaea9fc6e4d5fbecd0220eb9da436",
+      "13c191f506114c73b70830b89e195aa6",
+      "e5d22d5625714f54add784abac16c69f"
+    ],
+    "instr_id": 33,
+    "heading": 2.584445260556231,
+    "instruction": "You're facing towards sofas. Turn right and walk straight towards the chairs. From there turn right, you have an open door. Walk out side. On the right side, you can see some trees. Move towards the trees and there are rocks beside the trees. On the left side of the tree, there is a rock. Here is your destination.  ",
+    "distance": 12.059262990951538
+  },
+  {
+    "scan": "VzqfbhrpDEA",
+    "path_id": 3497,
+    "path": [
+      "74dc39e3a33d49bca867e047364300e0",
+      "75715b08ec6844b69b7444db18949855",
+      "6c76d43a72e14b71956c5444d32e129d",
+      "e39098089d1d4a72b777efcde637437b",
+      "3950b23f45a344fcaf115a293d591cb1",
+      "195363061eff49f186edea6167f4c993",
+      "665f53aa4a8f4f1bbb5de7195154d864",
+      "f4ccaa94abf4445cb445dec358641b92",
+      "5bb6a347aea44050b8aa3c0debe93dfc",
+      "8b7469d12514415cada466823f2a7063",
+      "b867ba11a0e84506aaeb257e1ef85388",
+      "4faab9d5f15a40fa8620efc0ad9e9db2",
+      "0f5d0c2dea9b4929a9c3c37ef159b360",
+      "711406aa1d4f4b798532cf0c77cce3d2",
+      "89c7f892dc2e412a953ab16548c541b4",
+      "05750907d34f40598b0ecf465c089c04",
+      "9dfff33c1f0b46589e3cbd1def57bbde",
+      "72f5a95c93054a44a76b806392b36c2d",
+      "26fa42364e8f4343893b313829a8721b",
+      "cef845328ceb4a548007c3b5cfb2642f",
+      "6f616e80892645bd9030aff59f9c36ba"
+    ],
+    "instr_id": 34,
+    "heading": 4.373721903877044,
+    "instruction": "You are looking over a toilet.  You are going to exit this room.  And you are going to make a left and go down this hallway.  You are going to pass a laundry room on your right.  You are going to turn into the entrance on your right and go up the stairs.  You are going to take the stairs all the way to the top.  You are then going to hop over the banister on your left.  And then you are going to go down this hallway that is in front of you.  You will go thru an archway.  And once thru the archway you are going to turn into the room on your right.  You are going to step into this room so the pool table is on your left and you are going to move forward passing the pool table and heading towards the open door in front of you.  You are going to step thru this door and veer to your left into this room.  You are then going to move forward in this room, you will see a fireplace in front of you.  You are going to pass a sectional on your left and you are going to make a left into the corner where you will see a couple of pedestals with some items on them.  And once you have stopped right in that corner facing the 2 pedestals with the 2 arched windows you are done.    ",
+    "distance": 47.139197051525116
+  },
+  {
+    "scan": "jh4fc5c5qoQ",
+    "path_id": 6479,
+    "path": [
+      "565e3e860daa4b9fa39e79bc38c4b65b",
+      "1eac2c379ebf4e059f4a35e584f82f9b",
+      "77e6cfabf32d46fc9398ce824843adaa",
+      "ba19aada2e9a47839c0355085f70f7c5",
+      "6ab11272308c46068c9ae583da8ff311",
+      "cf7dde32a96d412791ca901207e4f3dd"
+    ],
+    "instr_id": 35,
+    "heading": 5.389964658177165,
+    "instruction": "You will start out in a bathroom. Take one step toward the doorway that leads in the hall. Then to your right you will see that there is a doorway into a room that you cannot see into. Take one step into the doorway of that room. You can now see a dresser on your right - that's a bedroom - but you will want to turn back to your left. You will see a washing machine and a dryer and a small white table and then just to the right of those things there is a doorway that leads into another room. You can see a bookshelf and a kitchen cabinet. Walk through that doorway toward the kitchen. You can now see a desk in front of you and then to the left of the desk there is a white bookshelf that is facing the desk and then there is the edge of a kitchen cabinet. Walk toward the corner of that first kitchen cabinet that you see. Now you want to turn to your right and you will see a living area in front of you and at the other side of that living area, there is a closed door. Walk behind the desk chair just to your left and straight over to that closed door and when you are standing so that you can see the door in front of you, a fan on a canister in the corner and a desk chair to your left, and a white wicker chair and a coffee table to your right, that is where you will stop.",
+    "distance": 10.28834843635559
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 14056,
+    "path": [
+      "e135742feac64c4c80d13de511c768b6",
+      "d6dcdf564f1d4ea28ce865b11ceea05a",
+      "5eb29212d43d436ca60e05d19215a0de",
+      "318bfec461484262a597cc8fedffecb7",
+      "5f04c594ab574a4b9f4535abdfab07e0",
+      "c66e1c0bbb6a4418bd97da9967ec435d",
+      "001d8a657cbd41e7bf5a538e5768b058",
+      "bacef43d28c74751a7bd62578d443053",
+      "830bd3180a5f497d8631f6c8112792d6",
+      "261b527d225d4fcf85f580f3b304ae36",
+      "951cc0dd0e75482fafe85cec96376fb0",
+      "f97419bd62f6462fbbf8fb8adc4dea29",
+      "3b67353ba5e64feeb33884037fa14ce6",
+      "b0ed9edb0520444da200f5f5c1f92e4c",
+      "446fe55778194ebd962d419067cede1a"
+    ],
+    "instr_id": 36,
+    "heading": 5.3684809910481635,
+    "instruction": "You're near the bed, from there go straight, then turn left, exit the room, and go straight, then turn right, go straight, you'll find one ash color pillar, from there turn left, you'll find stairs, get down the stairs, then turn right, you'll find frame to the left, from there turn right, and go straight, you'll find an entrance, enter the room, you reached your destination.",
+    "distance": 31.931771397590637
+  },
+  {
+    "scan": "D7G3Y4RVNrH",
+    "path_id": 12495,
+    "path": [
+      "cf726b6c0144425282245b34fc4efdca",
+      "87e385b82c704a29855826d3cf4f79a0",
+      "4610dfb32d044ad793cf8640a7ede0f4",
+      "7fde4f88b5cf4cda9a2f31331fd7ca22",
+      "cd9fd57e2de04c39b87e7fbe92e80a6c",
+      "3a256f31181143e9844d11ca49211aa4",
+      "3beab818935e4ed8aefd2d4d080130fa",
+      "5ca7bfc500ec4d928285e61efee2dde5",
+      "9b253c8eec6c40528ee7fbfc011316a1"
+    ],
+    "instr_id": 37,
+    "heading": 5.818612823434197,
+    "instruction": "You're in a library, turn to the right and walk to the end of the table. And then turn to the left and take one step towards this book shelf. And then turn around until you the stairs going up and take a step towards them. And go up this first flight of stairs and then go up the one to the left until you're on the top step. And once you're on the top step you've reached the end. ",
+    "distance": 10.419357478618622
+  },
+  {
+    "scan": "PX4nDJXEHrG",
+    "path_id": 9137,
+    "path": [
+      "a0a8cd07457a4376a550ac35104fed9d",
+      "76ca01da5d454acab14017ac9b27ba76",
+      "eb3774d7d7c9470ca3ef2727c4cb58a7",
+      "ba3d3163aa4a4211a0bda0b7adf07b60",
+      "dcbc89b871b54cdd98d8b59b700d44a3",
+      "6bd6fde111574af289492ba17859be83",
+      "cd289dfb2a4d4161ab18c8b0e7889f0d",
+      "a2131c9b8e674c3db73821fb924f1644",
+      "81829ab350054bf297a7ebbb1eb4fcee",
+      "fefbf5f40d364b0fb096d1d93aba4316",
+      "dec940911e0a44e7b51b8fa218fb3550",
+      "37376bc376de4a1bbff1e45f6f420d0f",
+      "673c93ec5cfd45efb87f064bd4723f8d",
+      "577717ce6ca248799fa9bcece8f9d32e"
+    ],
+    "instr_id": 38,
+    "heading": 5.115008010795568,
+    "instruction": "You're looking into a corner of a room. Turn around and exit the room. Once you've exited the room, take an immediate left out of the bedroom. Once you're out of the bedroom, you'll see a flight of stairs. Do not go down the stairs. Go to the right of the stairs, down that path. Continue down the path straight into the bedroom in front of you. Inside this bedroom, you'll see there is a bed with a grey sheet, and to your left is a desk. To your right, you'll see there is a grey couch and a open doorway. Step into the open doorway. Inside, you'll find it is sort of a security room with a security camera computer screen attached. Take another step into the room. You should be facing an empty wall with a window in it. Once you've done that, you have arrived.",
+    "distance": 22.88737404346466
+  },
+  {
+    "scan": "VLzqgDo317F",
+    "path_id": 431,
+    "path": [
+      "3f75b2d4af4d4afd85666d4c1302008c",
+      "3c9615b3193a4e71ae932ea45fef8dde",
+      "20d4286c35fa46a2b4f0db5fb1ff8d86",
+      "9200a845d37a4e0ab6cbf58f334acbce",
+      "a68b5ae6571e4a66a4727573b88227e4",
+      "79878e3ae5364a658d3f7a0a683c3505",
+      "9c288661e4934fb49e4e861cf2b51c57",
+      "69b8eb3000854ba48b2882a35f125af5",
+      "f7787c614a464923980e18fdb980f6e7"
+    ],
+    "instr_id": 39,
+    "heading": 3.548386002532408,
+    "instruction": "You will begin facing a very antique pillar, in front of you there will be a staircase, take one step onto the staircase, turn around, go back to where you started from, and go down the marble stairs onto the red carpet. Turn to your left, you will see 2 open doors, take the one on the left, you should be facing that one, take 2 steps, until you get to the end, follow the carpet and make a right turn once you are standing in the doorway after that right turn, in front of you there will be a round wooden chair and a chandelier above it, look to the left, you will see that there are 3 chairs lined up with a couch in the corner, take a step towards the 3 chairs, behind the 3 chairs you will see that there is a console table with a bunch of, i guess lights on it, and a very tall mirror, take a step towards that console table so that you're behind the 3 chairs and you're facing the glass ornament on the console table, you are done.",
+    "distance": 19.20830535888672
+  },
+  {
+    "scan": "r47D5H71a5s",
+    "path_id": 12120,
+    "path": [
+      "458b288354be4060a2e6cf582d959d0f",
+      "bd624a2988bf4a94839472180cc1b3d5",
+      "77c8ac324e6e422faac5ffb32bd62c86",
+      "7dcc99131ec74b968cb9d728c49220e0",
+      "6ea742331ac84fb9ae24a1b8d76bcf8a",
+      "e14074a6c7e0450492bf4c0a6c431357",
+      "49d8e71cc67d45f9863ca6d25a61a2fa",
+      "a0fbf9972e79491bbcbf4a6e7cf38d8a"
+    ],
+    "instr_id": 40,
+    "heading": 1.2797466611783648,
+    "instruction": "Beside the bed and came out,go straight in font of chair beside the cycling and treadmill.Again go straight and turn left side an enter the room.Go ahead behind the two bed and glass self and enter the another room.",
+    "distance": 16.07677459716797
+  },
+  {
+    "scan": "rPc6DW4iMge",
+    "path_id": 3322,
+    "path": [
+      "a44d8401f67a4dd59cb4414b1dcf3a86",
+      "04ce734b190f45f9a8c14331faa1479e",
+      "2b6c422577b740b6a93eb26559dc8e0d",
+      "7800350daee342339a672a83404f0b27"
+    ],
+    "instr_id": 41,
+    "heading": 4.013234236538672,
+    "instruction": "You are on a balcony facing towards the wall, take a slight right turn and move forward, take a right turn and walk up the steps, and move forward near the wall. This is the endpoint.",
+    "distance": 4.487232267856598
+  },
+  {
+    "scan": "cV4RVeZvu5T",
+    "path_id": 6576,
+    "path": [
+      "3d21abc4be0547fd9a91850e871a0b59",
+      "b2af08ee382d4746b235a45d0a7032bb",
+      "7d708a5b80ee45979870bae83b2bdd44",
+      "faa7088781e647d09df1d5b470609aa3"
+    ],
+    "instr_id": 42,
+    "heading": 2.367634072556589,
+    "instruction": "Right now you are facing towards a sliding door, turn right and move forward. You will find a stairs in front of you. Climb the three stairs and turn left and enter into the open door which is a bed room. And this is your final point. Where you have a door on your left facing towards a bed.",
+    "distance": 6.87154233455658
+  },
+  {
+    "scan": "YmJkqBEsHnH",
+    "path_id": 4890,
+    "path": [
+      "aecbb791f30b452a9236c5a8c7030663",
+      "d838acff82244c2da0cf2651e54966cb"
+    ],
+    "instr_id": 43,
+    "heading": 3.11494667947756,
+    "instruction": "You're standing in a doorway looking into a church. If you turn around and go halfway down the stairs in front of you. And then looking outside there's lots of trees and you've reached the end. ",
+    "distance": 1.7766543626785278
+  },
+  {
+    "scan": "e9zR4mvMWw7",
+    "path_id": 13795,
+    "path": [
+      "c29b4f1d36ec4692958225cac3a70ba5",
+      "f6c327acf9884d988714467217d67dcd",
+      "6a856f5cb71645558f9f9ee069f37f1b",
+      "782cb05e39a14434bdd09ff295c0354a",
+      "0977162f6d4e47f7b3764379ba68d8db",
+      "6deafeb981834c9a88eaf3c033fc89c9",
+      "8293a0cff5f145ecbd9741176799291e",
+      "7492bd7b6cf5477abea81b9915a13e73",
+      "815ac6f311cc425d84085b5f110b62c2",
+      "b0a7188b1afc4f648bd497af5202d978",
+      "9ea44afded884fcd83bc05d7f667c225"
+    ],
+    "instr_id": 44,
+    "heading": 0.34052908281208105,
+    "instruction": "You are facing towards the fridge, turn right and move towards the dining table. Turn right and move towards the door. Now move out of this room. Turn right and move in the path between the dining table and the wall till you reach an open door. Now enter into the room. Turn slight right and move towards the open door. Turn slight left and enter into the room. Turn right and move towards the mirror. Now you are standing in the restroom and facing towards the mirror, which is your final destination.",
+    "distance": 17.378538370132446
+  },
+  {
+    "scan": "dhjEzFoUFzH",
+    "path_id": 6544,
+    "path": [
+      "9ef6399314c94a93abeec2d6054f4658",
+      "23b6674835004403ab9356fdc7e2a7d5",
+      "d57e0c1e647a4c03a9616384045926e0",
+      "dae1c005bfed4efb8b08dd35c18190c2",
+      "28e29ebaf1694e0f870cad8268220287",
+      "eed418b9cfbf4314a8f0cb3873b7c3b4",
+      "58ef28b3b7374eea8707985c8d50e4d2"
+    ],
+    "instr_id": 45,
+    "heading": 3.43938687957223,
+    "instruction": "You are now facing towards a pillar, slightly turn right and move forward. Turn slightly right and move forward. You are now walking in between a wooden bench and a railing, move forward. Take a slight left and move forward. Turn right and move forward. You can see a wooden bench with some candles on it, walk beside it, move forward. You have now reached a side table which has two candles placed on it and that is your end point.",
+    "distance": 20.107656002044678
+  },
+  {
+    "scan": "E9uDoFAP3SH",
+    "path_id": 13100,
+    "path": [
+      "f60fb82c0b6341e88ac64e0ac7bb0e5e",
+      "ffd41f034ca44fe280a59b6a192be618",
+      "6d88b250b28f4f28afbcf356f6a33909",
+      "f59c4b4ff65e4a539bbba69e67de001e",
+      "d35b945333f5413a9f5586b794cd2680",
+      "9cc6191a6e1642f984e54b1a79b83761",
+      "5e5ce62aa2f540f1b5978222f8a9deb1",
+      "1aba6e328b4d4211900d8296b88f6127",
+      "7b8e2f039e884764bd1ad6cbc13d9bd0",
+      "e40a12cfb5bc4f4dab071ec7458d378c"
+    ],
+    "instr_id": 46,
+    "heading": 5.358878814608882,
+    "instruction": "You will start out in a small hallway with wooden doors that have glass panels in them on both sides. Ahead of you there is a large arched wood-framed doorway that opens into a large room with a light rug on the floor. Beyond that you can see another open doorway and a window that has red curtains on it. Walk into that first room and onto that rug. On your left, you will see a staircase going up and if you turn to your right, you will see a wall that has two chairs sitting in front of it. Above each chair there is an alcove in the wall that has a large vase in it. You will want to walk to the front of the second chair, the one furthest from you. From there, you will see three doors that are leading to the outside, a large one in the middle and two slightly smaller ones that are on each side. Walk toward the left door and once you near that left door, you will see that the center door is now open. Go outside through that open door and onto a covered patio. Once you are outside, turn to your right. You will now see a covered patio with a wall and windows on your right side and pillars on your left side. Walk down the center of that patio walkway until you are even with the fourth pillar from the end of the walkway. You should see one pillar directly to your left and three more pillars between you and the wall ahead of you and a concrete wall with yellow window frames on your right. ",
+    "distance": 21.3558007478714
+  },
+  {
+    "scan": "Pm6F8kyY3z2",
+    "path_id": 11704,
+    "path": [
+      "97db9c9bd9824a3ca623db620331ea66",
+      "3fd2f1d849de4e9f8c07863c845db6b5",
+      "a8cb8984630b456a96923ef0d7c3aeb3",
+      "fdf0fc24f7c549ccbb78e972c8024fa9",
+      "138252ad9fab4ae1a86997fc363e6ac7",
+      "87e7b6f2006541a9abe57fba18294a0c",
+      "8078fc4f547a4a9cb1a6bb036cc18dc9",
+      "cb070d66db084a79b553310df69ed31d"
+    ],
+    "instr_id": 47,
+    "heading": 1.7781151230008772,
+    "instruction": "You are standing in the middle of a room.  You are going to go straight and move forward heading towards the archway in front of you.  Once in the hallway you are going to make a right.  You will see an open door right in front of you.  You are going to go thru that door.  There will be a 4 post bed to your left.  You are going to step into this room and you are going to head towards the post of the bed at the end of the bed that is closest to you.  And once you have stopped with the bed on your left and on the right is going to be a wood paneled wall with stone under it you are done.  ",
+    "distance": 8.412762612104416
+  },
+  {
+    "scan": "PuKPg4mmafe",
+    "path_id": 5706,
+    "path": [
+      "462cd36ba0ff43b7af69994cc7e2384f",
+      "cde4845dbdcd439b988ffa3ab38262d1",
+      "8e489f8b8bc5448b9410a41faa216021",
+      "1f6913d742e04627b35d285907b0c41c",
+      "b3fdc3c598324cc5bbaf8c704c03a8bf",
+      "a66ff11e61dd489994fba110d257025e",
+      "063eee6149194f3abc6f297e290068fa",
+      "9baaef79e7484c8e9929f78df52fc3df",
+      "72dc0c6d62414bbaa9fe67ecfe6305e3",
+      "8067c649a55045d79e0ef8908e174b14",
+      "6693377c80b04bb994dd3b7a26cd75ee",
+      "a39bc73eb9f64cbaabfca03100692305",
+      "544ccad03803403c97721228e7cc9669",
+      "c50575c567e74abfbf95cdd50f71122d",
+      "03d493822ac64466ba416f084a9d3bb9",
+      "7b7943b56b9a4febae48c82f6e3f507d",
+      "5f2a3396b86045d5bc7f283d1e48d8fd",
+      "9133410d4c6749c8a274e184c2c4946c",
+      "ed5878df5c86400499d7651eab1c4a35",
+      "c8225c23e023472188041a93756df582"
+    ],
+    "instr_id": 48,
+    "heading": 3.648578689410125,
+    "instruction": "Turn right from your position and walk straight, till you find a meeting room entrance enter into it, you can find number of tables with chairs, turn left there is an ball room enter into it, you can find number of dining tables turn right walk straight, passing the first table and take left and move little forward and turn right, walk straight and reach the corner table near the window, you can find your destination at the back of the chair, in front of a wall.",
+    "distance": 49.261733651161194
+  },
+  {
+    "scan": "7y3sRwLe3Va",
+    "path_id": 13361,
+    "path": [
+      "2cbca953eeaf437799479c9111c1ee8a",
+      "180b0d7146704223a12bcef6699d0121",
+      "554ecce763be4bd49e89c1bfb89676f3",
+      "d7f5f168d31547ce866159165b644da5",
+      "f6a03fba4dfd415a8b65cce84ee21c19",
+      "a775c7668ca9419daaf506e76851821e"
+    ],
+    "instr_id": 49,
+    "heading": 5.551330464540112,
+    "instruction": "You are looking at a staircase.  You are going to turn slightly to your right and you are going to take a step forward.  You are then going to veer to your left heading towards the bar stools against a counter.  Facing the bar stools you are going to turn to your left and you are going to take a step forward.  There will be a table and chairs on your right.  You are going to turn to your left heading towards the chair at the head of the table and then you are going to stop right there and you are done.",
+    "distance": 10.358270138502121
+  },
+  {
+    "scan": "1LXtFkjw3qL",
+    "path_id": 14198,
+    "path": [
+      "74d5b2290be74a1ba052b6fe2320e064",
+      "6ab39d830183407cb7ec17206889000d",
+      "e0f025c0baa94beba57ea499e3d846c5",
+      "a3fe827d49db4f7caa076c313434d418",
+      "50476a17346a4879906f81b47b9418de",
+      "3b2ba223f6a445a6bf4561f1853e83c1",
+      "e60f96413bf448889377affdd919ba35",
+      "571d716b0cdd430d99c63474c34f0c9c",
+      "425e120b2d7742b1a8f0902355908761",
+      "2816e163791e4878804d6b7476b9dddd",
+      "c5f2bf41ad33497a925bead423cbfb19",
+      "b8196686626248beb76ea7c31e6e44e2",
+      "1144d00a8ebd417f8a0de419ea12c1e5",
+      "e611700e04a24c3dabb73b0b000e5589"
+    ],
+    "instr_id": 50,
+    "heading": 2.489622561516419,
+    "instruction": "Turn around from the place you are standing and go straight near the table. Now turn right and go straight. On the right side you will find stair case. Now walk all the way to the stairs. You will find an open door. Now enter into the open door and keep moving forward. Now turn right you will find bathroom. Now go and stand in front of the bathroom. That will be your final destination.",
+    "distance": 22.44303584098816
+  },
+  {
+    "scan": "ULsKaCPVFJR",
+    "path_id": 2029,
+    "path": [
+      "92161b9df65242cbb7aec18a5a0d4876",
+      "508a0c321b2341fb89271997435f6842",
+      "1a681f5111a94b0b8892b2f2f41ba9f9",
+      "ac4d3c6c11e4434fbf9cd56412176bd7",
+      "e7fc1269102148e3a59552c5123bbcb4",
+      "10f096d877cc45f79f47f82bcc3e7ffe",
+      "a085b1aee4be45b6982a1f7b601654eb",
+      "126dc91ccd544962bac6d80bded42afa"
+    ],
+    "instr_id": 51,
+    "heading": 5.535541755826841,
+    "instruction": "Now you are at the washroom entrance, facing towards the towels, slightly move left and walk straight, enter in to the room which in front of you, towards your left there is a washbasin, walk straight and enter in to the another room, turn left and walk straight towards the exit, on either side there are photo frames, turn around and walk back in to the room, walk few steps forward, towards your right there is a table, on table there are two books with a flower vase on it, this would be your final destination.",
+    "distance": 7.9616798758506775
+  },
+  {
+    "scan": "aayBHfsNo7d",
+    "path_id": 10808,
+    "path": [
+      "ff013cbd3a924e4fa524cc4d84ac5eb3",
+      "bd2a7e0c153c4a7ca6b970266527250a",
+      "57bbe9e9bbfc4377abe137677beb5d0f",
+      "9a1dfb5fc5c148d2b600e7789446089d",
+      "cbcae92ea4b34638a877dda9b4bd7be6",
+      "ff0c027e9f0a4cd784e4851736c397a4",
+      "07828abd68f54c2ba9ede7aa649932df",
+      "5278ace992664bbcb69d686a7be2c3b3"
+    ],
+    "instr_id": 52,
+    "heading": 5.500434521350571,
+    "instruction": "You begin facing a kitchen, turn to your left and take a step forward, keeping the kitchen island to your right, in front of you, across the hallway, there is a staircase, go towards it, once you are at the staircase, at the base, you will see a living room and you will see a white couch, take a step to the right of the white couch, it will also be the left side of the glass sliding door, once you're facing the couch and the small circular table on it's right, you are done.",
+    "distance": 16.68159806728363
+  },
+  {
+    "scan": "5q7pvUzZiYa",
+    "path_id": 11166,
+    "path": [
+      "07304b100af64280bbaf510f06c7069c",
+      "006712c7ac144e9f9d36be2efd86ca61",
+      "b8d39c5113ee41709a857e1ddb0bcc31",
+      "e687b96cff1b4a3abc1a6a9b75a483d0",
+      "6127ee658ce64bf48765bf59bbead503",
+      "ed79b51efdac434cb12bcd3d5e7fd112"
+    ],
+    "instr_id": 53,
+    "heading": 2.1224606779717297,
+    "instruction": "You are in front of a wardroom, facing towards a glass wall, turn towards your slight right and keep moving forward beside the glass wall. Turn towards your slight right again and in front, you find a bed. Move forwards and stand in front of the bed and turn towards your slight right again. Keep moving forward and in front, you find a brown door. Go pass through the door and you enter into a corridor. Now, turn towards your slight right again and in front, you find a staircase. Go near the stairs and stand on the first step of the stairs. You reached your destination.",
+    "distance": 13.28192400932312
+  },
+  {
+    "scan": "sKLMLpTHeUy",
+    "path_id": 12860,
+    "path": [
+      "8c16a3ca89ef40209894b577543ff68a",
+      "000218f0b4f147ba93b65616b8b05820",
+      "4c89f665a3c94e91900b61b542854a0e",
+      "c59ca57402e146fcbe6c45b7598d1faf",
+      "d9dec53a415a463a8f853195ec0b17d9",
+      "d55affbb927443bcb1d4eb451e0e7ebb",
+      "5dfe8adbc3794bebafeedcd832b04ea4",
+      "8a3c83d4c42842c8a60866868b7730a4",
+      "72b6cd6714a54cb1895409997cb66388",
+      "b814285591cc43f799874da54f847a54",
+      "54ec02d8e3b34bb98f816214688ee85c",
+      "e82e3f859f25463c8b9505111de68b78",
+      "76228b7929e042119bcefc90a85fe8d6"
+    ],
+    "instr_id": 54,
+    "heading": 0.06416443671871774,
+    "instruction": "Right now you are in the middle of the stair case. Now walk down through the stairs. Now turn left and keep moving forward till you reach the open door on the right side. Now enter into the door and go straight. On the left side you will find an open door. Now go and stand at the entrance of the door. That will be your final destination.",
+    "distance": 17.111126601696014
+  },
+  {
+    "scan": "b8cTxDM8gDG",
+    "path_id": 2843,
+    "path": [
+      "89c6088db5184dd7945ecd1ed3dd812a",
+      "2eeeec0b1dd74aa090373158d618e2ec",
+      "792d466288aa45cf88bc71124232b492",
+      "b56be2bdbe504602a98ef62a9c8e13e6"
+    ],
+    "instr_id": 55,
+    "heading": 4.594554796970449,
+    "instruction": "You begin facing a open bathroom, turn to your right, you will see a beige colored door opened right next to you, take 3 steps forward, once you're standing right before the staircase, you are done.",
+    "distance": 2.134700834751129
+  },
+  {
+    "scan": "5LpN3gDmAk7",
+    "path_id": 7877,
+    "path": [
+      "2f59933fa37143049c27c412c3133c55",
+      "d71d7cbdac6643458be30ee6ed4777df",
+      "dac07b3c33a341eabae4e12895cf774a",
+      "0f3465d1a89e446281cb6c39c2c63cb2",
+      "f17490100cc04fd5876957a00a6237b1",
+      "96c65da51f1a47f6b9ffa425b607b6b2",
+      "2cac7e9bab434773912d004fac524373",
+      "459819a39f89447ab8dd531fa38f0c3e",
+      "f3c8df634cca40529a3072200d6820d4",
+      "f636b5c9907d4977849eea19746caf67",
+      "fcf3b78d35544555a69e47f346b63e38",
+      "6e58a7a5583847d7be281fc41b86c94b",
+      "4d2108a6225f4a47b19f54fa4a61588e",
+      "c75f71faa8b74a8eb875731b3dbe6183"
+    ],
+    "instr_id": 56,
+    "heading": 4.549312732517729,
+    "instruction": "You are in the washroom right now, exit the washroom, take a right turn near the wall, move forward, to the right you can find a painting, enter the room which is right to the painting, you can find two washing machines, turn around, enter the living room, you can find three paintings to the right and a white chair, go in between the white sofa and the dining table, move forward, you can find the view of the city, go and stand infront of the pool, which is slightly right to the first ash furniture, that would be your final destination.",
+    "distance": 23.620836853981018
+  },
+  {
+    "scan": "ur6pFq6Qu1A",
+    "path_id": 13089,
+    "path": [
+      "72e57ec5278b42a8bbf283eba57b2bc2",
+      "bf0a1914849644f1a7941fe508f5fee9",
+      "2043564288ac41a48c1e6caad1e7a48c",
+      "6f0a4e9374f24721a85f9853e9381aaf",
+      "67a696124eb54cb9bb570f28df5fb8ab",
+      "ad506c95650a444eb205c2f9ebbd26fc"
+    ],
+    "instr_id": 57,
+    "heading": 3.0230683319266,
+    "instruction": "Now you are facing towards a wall, turn around, move forward till the wall and take right, you can see an open door to your left, exit the room through an open door and move forward, you can see an open door to the right, enter into it and stand, that's your end point.",
+    "distance": 10.382543087005615
+  },
+  {
+    "scan": "r1Q1Z4BcV1o",
+    "path_id": 12757,
+    "path": [
+      "35b3d70f47994598aedb510108752797",
+      "1948f7cff5b04572b43c105a61df7a6d",
+      "d08536af13b44cf486b3d906d76cfaf8",
+      "9400426a81b64e35837b0e23dfa9ee7a"
+    ],
+    "instr_id": 58,
+    "heading": 1.57949441614109,
+    "instruction": "You are facing towards a wall, turn left and go forward towards the entrance which is on the right, slightly turn right and go forward towards the chair, slightly turn left and go forward passing through the entrance of the washroom, here inside the washroom you have reached the destination.",
+    "distance": 7.4724730253219604
+  },
+  {
+    "scan": "s8pcmisQ38h",
+    "path_id": 11548,
+    "path": [
+      "c923f6e9440146129bef546a6fae0383",
+      "9594700e2d354cc89c318b8df7ac29b1",
+      "f99835e3fffc45bbb3b4c992c78756e5",
+      "e40675d8209d426e8f60cdd315953cab",
+      "7bf81bd8601e4bde87ef2365f625288c",
+      "720ca9c0b604445bab3bd731000bc5ca",
+      "c18f83b284d041abba9a6afa23d2ebf8"
+    ],
+    "instr_id": 59,
+    "heading": 3.5406207767879128,
+    "instruction": "We're going to start by facing a door and you're going to turn slightly towards you're left and you're going to go out into the hallway so you're right before the next door. You're going to turn towards your right so that we can find another long hallway. Walk towards the open door that we see and we'll pass some glass on the floor looking down. You're going to continue forward until we reach the little intersection with two doors. That lead into two different bedroom. You're going to take the door on your right hand side. The door... the bed should be on the left hand side with a dresser on the right hand side. At the end of the room you'll see the window that tilts into a triangle go towards the window so that you're looking outside and you'll see that it has a window bench and this will be your finishing point. ",
+    "distance": 14.029790163040161
+  },
+  {
+    "scan": "X7HyMhZNoso",
+    "path_id": 988,
+    "path": [
+      "32a001fd02e24ca88268228786d22bef",
+      "3c90780cab6b4495a89cbf1dac752255",
+      "273d144230a740888de22539802509ad",
+      "87b4508bfdbf497299bd26eb4b23282a",
+      "6207c0c642ec4cdf95a41a9cc0b7fb38",
+      "a39b7d7481364573bb7da6ee462aab6d",
+      "baff9dfe176543a88ec8f09a99202054",
+      "2427c92b6f5845c2b08f3c1e880e203f"
+    ],
+    "instr_id": 60,
+    "heading": 4.490583902337388,
+    "instruction": "Facing the wood paneled door with window slits in it, walk straight towards the door and turn right and go up the stairs. Stop at the first landing, while going up the stairs, and you're done.",
+    "distance": 7.224070250988007
+  },
+  {
+    "scan": "2azQ1b91cZZ",
+    "path_id": 15733,
+    "path": [
+      "28d28649c3254cf09cc03eddd96bc31a",
+      "feabf6ce2ab347b285ed253498c8c05c",
+      "8c913cf4718c4a0991fafeb6528417e8",
+      "a65f29102bfd4d2fa38239959b0098d9",
+      "2a47f095717143d989ac571609ffaf0a",
+      "9c8b9b1e0be74525a14f150a20ea2d68",
+      "800e999445de459fb2507e35dbf2153f",
+      "e485b7b35cc14fdfa16fddf174055a68",
+      "42e98f3fe3914b719d347293e4d27040",
+      "481f06bb3f5842d099817eb83ffb76fb",
+      "0f9915468dee44989d22c1e2aa039f28",
+      "8b2c4bd5f50745f79e032467595ad5f0"
+    ],
+    "instr_id": 61,
+    "heading": 2.4107089284678658,
+    "instruction": "Turn to your right and walk straight. Now you entered into your hall with a white chair and a fire place in front of you. Turn to your left and pass through the glass door and you entered in to your hall with a brown table on your left and a couch on right. Go straight and to your left you will find a narrow way. Pass through that way and turn right. Enter the room in front, go straight and exit the room and turn left. There is a wall to your left and a door next to the wall which open to your washroom. Enter into the washroom and now you are in front of your mirror and stop.",
+    "distance": 17.022578299045563
+  },
+  {
+    "scan": "oLBMNvg9in8",
+    "path_id": 10723,
+    "path": [
+      "e7f7ac6fe19c456380d054e896cd180e",
+      "52d2ddba83b344b2a5acdaa295eb3778",
+      "9aded9c1d68d4ca0a23a5fbba0cfe4e6",
+      "24e1d29d44014a1484f7b0e48bbaffe5",
+      "2760737cfc314d34b14f4c67b73dd0a0",
+      "424bcb744623413f830ece5c68319d70"
+    ],
+    "instr_id": 62,
+    "heading": 4.7147731302000295,
+    "instruction": "You are facing towards the couch. Slightly turn left and move forward. Slightly turn left and move towards the open door. Slightly turn right and there is an open door in front of you. Walk through the open door and enter into the room. There are two glass windows on your right side. Turn left and move towards the another open door. Slightly turn right and move towards the glass window. Now you are standing in between the two statues facing towards the glass window. That will be the end point.",
+    "distance": 13.08413827419281
+  },
+  {
+    "scan": "Z6MFQCViBuw",
+    "path_id": 7480,
+    "path": [
+      "30cacfc75a8c4f09bde7fc10899f0a53",
+      "80cd596c480c4f72a7457433b862d179",
+      "099d792dbfb2402ca355fd7ed860128f",
+      "ae2aeba150fd4fe4b6714b63e1a8ba51",
+      "c2ee97a3318d4b7bb72bef71053bc1c8",
+      "30b2437ea7864131815d92f2ef421a0f",
+      "812d350ed76d4fa1a0a63d4587431409",
+      "59aed460238643f48f593e9b9ba1c17d",
+      "351a7e4b95bb4cf3b7696b0ac7b9f768",
+      "f8e8f07a9487401f97230d256e54e95c",
+      "e5d8e862904a4037bf0d48f3ea557453",
+      "f1c1b472600941529db03b728464bcd5"
+    ],
+    "instr_id": 63,
+    "heading": 4.9560529490623075,
+    "instruction": "You are facing towards the red curtain. Turn left and walk straightly in the hallway by passing through the two open doors till you find a red throne in front of you. Slightly turn left and move towards the open door. Turn left and exit the room. Now you are standing in between the two open wooden doors. That will be the end point.",
+    "distance": 23.257678985595703
+  },
+  {
+    "scan": "EU6Fwq7SyZv",
+    "path_id": 6709,
+    "path": [
+      "b5f5bbf9454c4167970d75d42a5d7d1b",
+      "35e547187b984a4abef811277704c1b7",
+      "4cf8f122a0e843358e1203e6314c2975",
+      "dbdf567edcfc48e6b39cd2bb9e3a9801",
+      "a37ab95777cf453a90f1e202d702fa5f",
+      "e0eb53beb210453ebfd222873496fc60",
+      "49413239f400410386be6903959e7933",
+      "7b8148447e3948a59e2a7f7182d79f21",
+      "2aeac437500c493089a748b6b007d496",
+      "f93e3269c709423c9e0b43ec87cb6a9a",
+      "295dcca9432e4002b6d765884650af78",
+      "164e2c5908234d52a7f0226ea820c0a5",
+      "06bd0a2d004b454b9e93ddcf08344732",
+      "faed19f97550433b958958f4df869251",
+      "062a2a53b6fd44ea8bc55cc1dfa859ae",
+      "d8d0fa6bfcd541889d727767910ea39e"
+    ],
+    "instr_id": 64,
+    "heading": 0.15630609440215215,
+    "instruction": "You are facing towards a table, move towards the staircase which is infront of you, go up the steps, turn left and move a bit forward, turn left and move forward, now you are facing towards the cupboards, turn right and move forward, slightly turn right and move towards the stove, slightly turn right and move forward until you see a closed door on your left, that would be your end point.",
+    "distance": 25.839866995811462
+  },
+  {
+    "scan": "pLe4wQe7qrG",
+    "path_id": 2886,
+    "path": [
+      "87407bb6ed614926b91fc3e27eab766e",
+      "8a65d3586fed4c5f9e0f28fc184b3ff2",
+      "47a69295198f4265958b9b1d497c328d",
+      "df0b69b34d04453691b72a6c16923756",
+      "a26b0e83785f45d484e5f9b83fdb4df3"
+    ],
+    "instr_id": 65,
+    "heading": 1.3571623512757607,
+    "instruction": "you start staring at a old wooden stand, if you turn to the right you see a pathway leading out of the old stand area that you are in. head to the very end of that pathway. once you are up against the wall by the last chair to your right. if you turn to the left you see a way to get onto the stone flooring in front of you. step onto the stone flooring. if you turn your body to the right you should be right next to a stone doorway. in front of you there is a stone table. you are going to want to take a left, head to the left of that stone table once you are on the left of that stone table, it is to your right. if you look to the left you will see a stone carving of what looks like two doors. once with a tree on it. if you are in between those stone cravings and that stone table you are done. ",
+    "distance": 7.192977070808411
+  },
+  {
+    "scan": "TbHJrupSAjP",
+    "path_id": 13332,
+    "path": [
+      "99555293243c426dbe17f8ad8ebdca6c",
+      "b3dd183fa96f45958ed0f3efc196aedd",
+      "ff08d99c0c494496ac2b6cdecf87a60e",
+      "285d75a939494d1db4a0f5b77e41657a",
+      "da7ce72d0ca2404ebcfee314ca8d2e2b",
+      "cc1308efa8a040178c1748d13488e9c4",
+      "ea374bef649549d8a12bb06d67ed206e",
+      "a8311575bf3d485a81af8350aa25bddb",
+      "6f74aff5213145d989f9a30bcd69a978",
+      "92215ae101f044deb4be8720be61a6bc",
+      "b20b8926f5c04afb8ae37b14cfc1fee8"
+    ],
+    "instr_id": 66,
+    "heading": 4.52102108013649,
+    "instruction": "You are facing towards a dining table, walk towards it, now take a few steps forward and walk towards the open entrance. You are now facing towards the kitchen, take a step ahead and turn right, now walk in the space between the open white door on your right and the kitchen counter top on your left till you see an open entrance on your right. Turn right and walk straight, there is a staircase on your left, continue walking straight till you see an open glass door, enter into the room through the door, walk straight towards the plant pot. You are now facing towards a glass door and a plant pot on your right, you have reached your destination.",
+    "distance": 18.39205777645111
+  },
+  {
+    "scan": "x8F5xyUWy9e",
+    "path_id": 14762,
+    "path": [
+      "46b120dde4004bf9ada90cf967c0585b",
+      "1e40d5ffa75a4f97824d683b755c09ba",
+      "c9b5c7e60e7c42b48598171d960ec6c4",
+      "2669f5ba693c4e729d7d2c4f3fa0a077",
+      "b0f531e065c54dabbc76b3046bcd930f",
+      "a51a0e2811f342a599ae4cdb9b84ff23",
+      "1be9a97aada84e4795f64583ac0e3b76"
+    ],
+    "instr_id": 67,
+    "heading": 3.4882326403812884,
+    "instruction": "You begin in a spa room of sorts with a massage table to your left. Turn completely around and move out of the wooden door. You should see some rocks that spell out art in a corner across from you. Go into the door to the right of those, and then move to the left of the massage table inside this new room, towards the radiator. Turn completely around once you're next to that radiator, and move into the door on the left outside of the current room. In that door you should see marble tiles. Step across to the foot of the stairs and you're done.",
+    "distance": 10.907752990722656
+  },
+  {
+    "scan": "zsNo4HB9uLZ",
+    "path_id": 10958,
+    "path": [
+      "2c687aab96b7498b92023a4888c6e7ab",
+      "aabf649f606a48a1b16d5bdcd5970602",
+      "38260e04f02546a6af3dcaf8689546a2",
+      "61c98135870e449a846737f610d0e969",
+      "38e0c09ac7a748dbadea6471861b30c3",
+      "b5f873817a0b4b60b8447e96b0b4e955",
+      "7d1391357299496cbb82840960d05a66",
+      "65eefaf93e6249908e6389eb4eabf0f5"
+    ],
+    "instr_id": 68,
+    "heading": 4.629697965235928,
+    "instruction": "Right now, you;'re facing towards the sink, turn right and exit the room. Now, turn right and move towards the mirrors. Now, again turn right and exit the room. Continue to move forward until you reach a closed door in front of you. Now, turn right and enter into the room. Stand at the entrance of the room and that is the end point.",
+    "distance": 10.814252972602844
+  },
+  {
+    "scan": "QUCTc6BB5sX",
+    "path_id": 7869,
+    "path": [
+      "ee46eae70240461b86ab8a6148026a0a",
+      "295fcf0170824342bc4dbbc2c461b716",
+      "425aebcbd9d44badb2b6a326ef11798d",
+      "6cbd20a1ec68467f9acc5031bef6d36a",
+      "ae6280cff6f44269864839c457123a17",
+      "e1794683d4ae4a9993e7c540c03216ca",
+      "8a934837258740e686974eb02265db7f",
+      "9afa729489b94b34ad757d95346e6092",
+      "9ad676b28d144df69b36f28a4ece32bd",
+      "0942757fbce9474590d047d55e04868d"
+    ],
+    "instr_id": 69,
+    "heading": 5.833642839073551,
+    "instruction": "Right now you are standing at the back sofa chair. Go straight near to the  glass window . After the glass window there is a wall go closer near to the wall and make a slight left turn and keep walking in the corridor. And again make a slight right turn from the black table and go straight and again make a slight left turn. Here we reached our destination in the middle of the corridor.",
+    "distance": 20.856875777244568
+  },
+  {
+    "scan": "8194nk5LbLH",
+    "path_id": 4993,
+    "path": [
+      "be8a2edacab34ec8887ba6a7b1e4945f",
+      "71bf74df73cd4e24a191ef4f2338ca22",
+      "fcd90a404061413385286bef9662630e"
+    ],
+    "instr_id": 70,
+    "heading": 6.227258116035277,
+    "instruction": "You are standing in the kitchen area behind the bar stools, turn around and move forward towards the center table near the sofa, you are now facing towards the television mounted on the wall. Turn right and move towards the dustbin, you are now standing on the carpet, facing towards the closed glass door, which is your end point.",
+    "distance": 8.587693452835083
+  },
+  {
+    "scan": "7y3sRwLe3Va",
+    "path_id": 3671,
+    "path": [
+      "c50fc96abd854fd2a6766d52dfb4f355",
+      "450b5325b5bf48f0a8076bb973b42fdf",
+      "fd4752f551d04e22be492adea0d9fb04",
+      "e3b44e490fdb4632a07618be3c52f7a8",
+      "0b7767a8959a48719e014e9ab7d3597b",
+      "652313c43e064574a464d97f67c52007",
+      "9b72664399a34e4f9dbe470571c73187"
+    ],
+    "instr_id": 71,
+    "heading": 4.452766234111071,
+    "instruction": "You are facing towards the wall turn around and exit the room from left side entrance, walk forward till the black table where you can see cream pots placed on it, turn right walk little bit forward and turn left, and enter into the room which is on your left walk forward till the corner of the washroom wall stand between the two walls and this is your end point.   ",
+    "distance": 14.212779343128204
+  },
+  {
+    "scan": "i5noydFURQK",
+    "path_id": 14242,
+    "path": [
+      "0bc53661f71543df85e5499ea85f74c7",
+      "e2de0f25e4f2451c82292a347d3a5f55",
+      "d9d2484fd1b44448b04b6eadf278d9db"
+    ],
+    "instr_id": 72,
+    "heading": 2.7698120612109394,
+    "instruction": "Right now you are facing a wall, turn right and get down the stairs, now turn again right and stand on the second step, this will be your end point.",
+    "distance": 3.979504704475403
+  },
+  {
+    "scan": "mJXqzFtmKg4",
+    "path_id": 13669,
+    "path": [
+      "ccc7d6b756d74188b10a989d2f057f6a",
+      "e2918fb638e54334b3397bf58f35e27e",
+      "0ed0d93b000d491585d3b8f8e6898d7c",
+      "415d73ed2c93440cbc9588aef5fdecae",
+      "91b191a2efb1441dafa40cabb3c91b37",
+      "5bd5ce99cf8c416caf190af25f70ca77",
+      "0d8de53715184be9a71bdeab1fca5cdd",
+      "61f2152353d94af48f8844f9faa60ea7",
+      "9a09b7dde3654f03bdb08205247369be",
+      "78b83038198b4eb3afcc70268f86e9d2",
+      "2a9b5603424f4edc9c819df1884b0858",
+      "ca2a1110dcfa4449a6cd735d6cfb9402",
+      "3808d8eb951a48de9766994286c4b6e8",
+      "bf02cd447d2242599687947797a177fa",
+      "f147041c6eeb4063b987ffc43212092c"
+    ],
+    "instr_id": 73,
+    "heading": 4.9858156788480885,
+    "instruction": "Walk out the bathroom door and make a left and head out into the hallway. Keep going straight under the archway towards the oven and the kitchen. Walk past the oven on your right and the kitchen island on your left and keep walking straight. You'll see a dining room table in the left, where there's also four windows, arched windows, with arched windows also above those windows. Walk towards the table. Take a right towards the black couch on your right on the hardwood floors. Once you get to the couch turn back around and then walk back towards the kitchen table. Once you're back at the table, you will see 6 chairs around it and 4 windows behind it. Walk to the first window from the right, next to the curtain. Once you're standing in front of that window, you're done.",
+    "distance": 18.871976017951965
+  },
+  {
+    "scan": "Z6MFQCViBuw",
+    "path_id": 6562,
+    "path": [
+      "ae2aeba150fd4fe4b6714b63e1a8ba51",
+      "c2ee97a3318d4b7bb72bef71053bc1c8",
+      "30b2437ea7864131815d92f2ef421a0f",
+      "812d350ed76d4fa1a0a63d4587431409",
+      "59aed460238643f48f593e9b9ba1c17d",
+      "351a7e4b95bb4cf3b7696b0ac7b9f768",
+      "f8e8f07a9487401f97230d256e54e95c",
+      "e5d8e862904a4037bf0d48f3ea557453",
+      "f1c1b472600941529db03b728464bcd5"
+    ],
+    "instr_id": 74,
+    "heading": 6.197152910069705,
+    "instruction": "You'll start standing on a red rug in a doorway. You're going to walk straight. Keep on the red rug. You're going to pass all the furniture and stuff that's roped off. You're going to enter through the next doorway and continue following the rug. You Should see a red bed in front of you and there's another door to your left. Walk towards that doorway. Now the bed should be kind of behind you to you're right. You're going to take one step, stand in the doorway and stop. ",
+    "distance": 16.791077852249146
+  },
+  {
+    "scan": "sKLMLpTHeUy",
+    "path_id": 8136,
+    "path": [
+      "8c16a3ca89ef40209894b577543ff68a",
+      "000218f0b4f147ba93b65616b8b05820",
+      "4c89f665a3c94e91900b61b542854a0e",
+      "c59ca57402e146fcbe6c45b7598d1faf",
+      "d9dec53a415a463a8f853195ec0b17d9",
+      "d55affbb927443bcb1d4eb451e0e7ebb",
+      "7f870283a3db4ded839990a74bf6e5dc",
+      "c9b12291d12d4d47acbadfe3c587a435",
+      "f58a651ac01e4fb99bafd15400a7d512",
+      "b04c9ee3c157489e9d50a399cece8b6d",
+      "573a0b01e18a484bb55f1162a32db4a1",
+      "120b69b86f154d748f9bfcf04d274564",
+      "bb2e8d90f43a444fb60665f2f41996ce"
+    ],
+    "instr_id": 75,
+    "heading": 0.5957734157748957,
+    "instruction": "You're on a stairwell, turn right finish going down the stairs, both landings. At the bottom of the stairs turn right. Head into a bedroom, step inside the bedroom and look left, you'll see an open brown door leading into a bathroom. In the bathroom you will turn left, go down the counter and you will stop just in front of a closet.",
+    "distance": 16.224114775657654
+  },
+  {
+    "scan": "29hnd4uzFmX",
+    "path_id": 12719,
+    "path": [
+      "16bd2ace3edc47449caca63e656bce1b",
+      "ef12b1ecc3be4693b327e30468697a9b",
+      "efcb9e4c410841ca8665f6cab94e943b",
+      "5c4627e7805347bc8c09ba17aa248696",
+      "f9ea869fc8a04b05bef902bed791696d",
+      "07e011fca68e4d6bbda2c6083c8a134c",
+      "9b9a964d89cf4b29b5f3bbfb4329ff65"
+    ],
+    "instr_id": 76,
+    "heading": 5.325253379488293,
+    "instruction": "You're in a room looking at a small pink chair and a canvas. Turn left and head out the room. On the right you'll see a room that the, an open space that the railing is leading too. Head to there you'll see a drum kit. Stand in front of the drum kit and look out the window and stop.",
+    "distance": 8.168342411518097
+  },
+  {
+    "scan": "VzqfbhrpDEA",
+    "path_id": 3851,
+    "path": [
+      "6f8bd4c7663a4fa7a5c288b7f74a7915",
+      "c19387cd70bc43879a69f9c1d8ca0c8d",
+      "21475b79d60843dd9f15e8f4a128e899",
+      "9127aae77ad348eb8fd02f7cd52a3ce5",
+      "b867ba11a0e84506aaeb257e1ef85388",
+      "4faab9d5f15a40fa8620efc0ad9e9db2",
+      "0f5d0c2dea9b4929a9c3c37ef159b360",
+      "c8eb2af4b3ac45dc8dbdd709e8030426",
+      "372772e3bfcb4cec94a25ed6b28981cf",
+      "497341f6deb9491d8069654da6166366",
+      "74d3b3736c6047a6a904bc68c6aa9f36",
+      "7dbc584f79f44cf586ffc70dc3f2ff2a",
+      "4e98757ce6564f3abb37ccedf18d240e",
+      "dbdf7441393e448fab934b4a2f498517"
+    ],
+    "instr_id": 77,
+    "heading": 3.3576910249147254,
+    "instruction": "Okay right now you are facing towards the ladder in front of you. Turn to your right and you see an open door in front of you beside the light. Enter in to that room. Go straight towards the wall in front of you. Now turn to your left and walk straight till you reach a lamp to your left side. Now turn to your left and you see an open door. Enter in to that room and walk slightly left till you reach a door in front of you. Now enter the washroom and there is one open glass door in front of you. Walk into that and stop. This is the end point.",
+    "distance": 25.123151421546936
+  },
+  {
+    "scan": "oLBMNvg9in8",
+    "path_id": 2222,
+    "path": [
+      "1c18c47760ef40c394ac52df1d036047",
+      "d2782271d76943f095308266e43b73e1",
+      "3aedda073dbe4f5f87e2d4b15c6ae8bc",
+      "d51cce377e9144cbb9c24ac99a105446",
+      "58f5528b1cfc45dabd0bd063bab65ad9"
+    ],
+    "instr_id": 78,
+    "heading": 2.5387376364252834,
+    "instruction": "You are facing towards the closed door and there is an umbrella in front of you, turn around, go straight, there are stairs in front of you, get down the stairs and stand on the last step before you reach the floor, stop there, this is your final destination.",
+    "distance": 6.923284530639648
+  },
+  {
+    "scan": "gTV8FGcVJC9",
+    "path_id": 10181,
+    "path": [
+      "f033e7084d8b45fd8ef49897e9642639",
+      "8de72729921c4f929c8c267ee5199a66",
+      "0e44c51fc1b947e0a44963d83f2ab6f1",
+      "1f476bc71f514d4c8cd520d4ceddd5f7",
+      "415e580b07194f469491203548891d84",
+      "374717109e694925a7b754bf2bbf971e"
+    ],
+    "instr_id": 79,
+    "heading": 3.3006647293991893,
+    "instruction": "We start off looking at a closed brown door. As you look to your right you will see you are in a pathway, a doorway of your own. Take a step towards the closed brown door directly in front of you. Once in the hallway turn to your right. You will see a flight of steps. Take a step towards the flight of steps in front of you. Take another step up the flight of steps. Once at the top of the steps, you will see a room with an open doorways to your left. It should be a large open doorway. Take a step into that room. You will see a chair on your right. A large cushion chair on your right. A lazy-boy. On your left you will see a desk along with a desk chair and book shelves behind it. Directly between the desk and the lazy-boy you will see a shrub-tree on the floor. Take a step towards that shrub-tree and stop you are done.  ",
+    "distance": 13.435622930526733
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 2009,
+    "path": [
+      "890c5356b4da4a418e223fc9e366bf89",
+      "9977d41540f44813becd1f319db571ef",
+      "4ed0dc66de83415196cb59d120b71d55",
+      "40bd5db3c01e445d903b58f86beaf72a",
+      "c6957ec905d04ac8acab161452470981",
+      "998e746d154e4635904dbf9201ad133c",
+      "9f02cc693511409ea77d000606f10f1d",
+      "9b0ea58d8244411592f46e0c560d8595"
+    ],
+    "instr_id": 80,
+    "heading": 1.8222696938750502,
+    "instruction": "Turn back from the place you are standing, and step out of the room, on left side you will find sink, now go straight and take right, and keep moving forward, there you will find black sofa with black table in front of it, go near the black sofa and take left, there you will find door, now step out of the room, now you are at the open area, now turn left and go near the tub, now you can find glass door in front of you, go near the glass door and turn left, in front of you, you will find a cupboard with white towels, go near the cupboard, that will be your final destination.",
+    "distance": 15.56369161605835
+  },
+  {
+    "scan": "QUCTc6BB5sX",
+    "path_id": 956,
+    "path": [
+      "eacbcfe4c59a4ef8ad97ff4197949668",
+      "da59b98bb29247e69790fcaf32e13bb4",
+      "3321d3b4158a4b8093b724c1dd8e38d5",
+      "8e0f17d81fbc4859beb25117e6880973",
+      "f61c2574329f4586b3bae88643df8b8a",
+      "5ebd65ff4d62480fb792f63a8e2e8196",
+      "1c05252827924827966e644e379b500a",
+      "94a1b7b629e74ddb9b0ecd4ae15edb67",
+      "fdfdc7cadd8a4ecb9718c124526b14f8",
+      "2354fb23523b451a997b5f5f5243ef54",
+      "e5adc5c026db41378897c0b8393c2361"
+    ],
+    "instr_id": 81,
+    "heading": 5.881115047669405,
+    "instruction": "Now you are in the gym area, move forward and get out of that area. Now take left turn from the backside of the sofa and go straight from the arch, now take left turn from the platform and walk through the narrow passage, go straight till you find two white colour towels hanging on the hanger, from there take left turn till you find an open brown colour door, now enter into the washroom and opposite to that washbasin is your final destination. ",
+    "distance": 22.860654592514038
+  },
+  {
+    "scan": "vyrNrziPKCB",
+    "path_id": 4715,
+    "path": [
+      "3a0dc03705854da6abdd90b433887691",
+      "de9e1c3afd574dd79fb4c0a7282f7935",
+      "d509ae119b9f44daa01672e8e84a8e18",
+      "5ca3a899d8b0431083b139d73ffdf6c9",
+      "3946fdd3e06a4701a588bd2e7b6e30da",
+      "35fbae92aa284ba19652ccb31f4cff9c",
+      "6f5e70ae957d4a95af44068aa4946744",
+      "5cdd513110c54c72b6d9be6f351d32df",
+      "011ea5a962624e9abd2269d8fed44f11"
+    ],
+    "instr_id": 82,
+    "heading": 2.639369472397402,
+    "instruction": "You begin in a kitchen with an island to your left. Step around the island, past the oven, towards the corner of the proper counter. You should be next to what looks to be a dishwasher. Step around the segment of counter with the dishwasher in it, keeping it to your right as you move towards the dining table. You should see an inset art fixture next to the dining table. Move towards that, the dining table should now be on your left, and you should continue forward along the wall, to the dead-looking arrangement of plants. Keep going forward to the back of the curved couch. Turn right and take a step towards that side of the couch. Once there, turn right some more, and you should see an open square doorway. It's on the right of a very fancy-looking old armchair. Move through the wide open entryway into an exercise room. There will be a machine directly in front of you. Mantle over its foot, and once you are in front of the rack-like stretching device, you should be done.",
+    "distance": 18.751080989837646
+  },
+  {
+    "scan": "zsNo4HB9uLZ",
+    "path_id": 1280,
+    "path": [
+      "19b2aa3137ae44f19821ec0f3da4a836",
+      "a80acc2328154455965a8be4133dee71"
+    ],
+    "instr_id": 83,
+    "heading": 3.1951111496663307,
+    "instruction": "Okay right now you are facing the door. Walk outside the door and stop at the exit of the door. This is the end point.",
+    "distance": 1.397711992263794
+  },
+  {
+    "scan": "Vvot9Ly1tCj",
+    "path_id": 5991,
+    "path": [
+      "12d3b3aa982a491180d7fa0e3231f2af",
+      "7ef912e7c11440429e9494cc71cb173f",
+      "69d24e4ce1624cdaaa1ea34dba0848bb",
+      "b4bc7bfcda5b4c46aee88fcbb2688fae",
+      "3a20a0de02774a50b90d1b56e47409a8",
+      "7634dd7ab18648abae6bb8bb1517cefe",
+      "708250b7e83d455a9681a0d6b6de6a18",
+      "28f8f7e87c374fccbc585b3dbbc343de",
+      "ed39e17ee82f43988e8ede839b9358ae",
+      "0e7b684784c444fe8695c3ea5cfc4bd1"
+    ],
+    "instr_id": 84,
+    "heading": 5.936822191155569,
+    "instruction": "You are looking at a curtain, turn left and exit the kitchen and the living area, staying between the round table on your right and the sofa on your left, and exit the area, staying at left from the pool on your right, turn left from the entrance and take a step in the hall way, once you enter you will see their is a thermostat on the wall turn left and take first right, this  should be a washroom, take a step near the tub, turn right and  move towards the vanity on the left and the shower on right, you are done.",
+    "distance": 20.948404848575592
+  },
+  {
+    "scan": "29hnd4uzFmX",
+    "path_id": 7535,
+    "path": [
+      "f8f72f32f6594620b17161a621b9c872",
+      "dc00a03cb9f847fea498d765a31ec2b8",
+      "be5b6e7ec1654cf5bef5d348f9601697",
+      "7e23cbe5e28047d49ab4641f530c9f00",
+      "42135c66aa4d464aa8a91630c187ed99",
+      "f9ea869fc8a04b05bef902bed791696d",
+      "e5b8baa3c6474af1a2bc739d92c480e5",
+      "a102630f0cb84c32abc75f27b7712424",
+      "b3b697d0fd2d41f29a861e8411c732bd",
+      "85849923dc9e46eda0168f62c0fb43f3",
+      "ab0f99b210bb4556b7fc18190126480b",
+      "0836acc78091475dbba186b98e05792a"
+    ],
+    "instr_id": 85,
+    "heading": 6.024624548927367,
+    "instruction": "You are standing in a bedroom, facing towards the wooden wall, turn right, to the left there is an open door, walk to the open door, turn left, walk straight and exit the room, walk straight, until yo reach the musical instrument in-front of you, turn back. In-front of you there is a staircase, walk to the staircase, get down the staircase and stand on the second step of the staircase in-front of the glass window, that's your end point.",
+    "distance": 15.896491646766663
+  },
+  {
+    "scan": "JmbYfDe2QKZ",
+    "path_id": 635,
+    "path": [
+      "7025038ba12d4a63a40c866489226fbe",
+      "c3a25551d0e74186ab736e502f621f9e",
+      "0907c60c53f7431aaedabbf388069a7f",
+      "c69e398f10eb40938d19c2c736b0c084",
+      "bd01fe5cdc7f4d7580134b2a3ffd08a8",
+      "38a021bef7634782b42c0583f84c6b8e",
+      "e58daa54fe36484984da0fc3e209ee39",
+      "a885c9f037fe45cfbf053e98e4e3d205",
+      "e3eeb7b8deed4a2fa0000daec3538b75",
+      "f4032225a0c6462ba02f728d031c2638"
+    ],
+    "instr_id": 86,
+    "heading": 1.0632226231480035,
+    "instruction": "Okay. You're in a green room. You're going to want to- well then you see a dining table there with brown leather chairs. You're going to want to go to the left of that, I'm sorry, to the right. Go forward to the third panel on the rug, before you hit the brown credenza on the right. Once you hit that, it's going to open you up- at the end of the table you're going to be walking into another, like a sitting area, with a white fan. There will be two white chairs on the left. You're going to go behind the first one, and then go back towards... No- then you're going to go to the right, and go across the white table to that couch. This is going to take you - oh behind the love seat and then you're going to see a small table with the blue horse on it. Go forward toward those wicker chairs. Take a right. And go forward back into, what looks like the kitchen.  There's a yellow wall with a big white-with an opening that's white. So go forward into- yes, it is the kitchen. So you're going to go through the kitchen to the end. It looks like there might be a pantry on the right-hand-side. Before you get in the very corner of the pantry, you can take a right and you'll be looking through a doorway at the dining table with the brown chairs that you saw at the beginning, and this is where you're going to end.",
+    "distance": 22.084808230400085
+  },
+  {
+    "scan": "8WUmhLawc2A",
+    "path_id": 7303,
+    "path": [
+      "7bb21e85f02a4d468cd1c7040e46c596",
+      "e33610a744554c9d9202fa95100304ff",
+      "c3f75cb415554a919dbc49eaaebc702e",
+      "276586d2d2e14dde82b112c03ccf2188",
+      "491b9b2d5e63400f9b448e5603dd05ae",
+      "814d9aba371640e5a70bcb7833bfe08f",
+      "ca75317572dc44509427cf7b2caecda6",
+      "410b3939a8c24ab8858782fa544d704d",
+      "cc356636fdbf45769882f5912bc6d009",
+      "cdfc3c6dee2f4488bc0a5d77b7f3ad8e",
+      "acbddf55f76043f2835d87f0c1a9ba25"
+    ],
+    "instr_id": 87,
+    "heading": 0.40716855814355385,
+    "instruction": "Look around, you're currently standing in the living room. Right behind you, you see a brown sofa. Take a step forward, until you're right in front of the fireplace. Turn around, and face right, and take step forward towards the window sill, overlooking outside. Turn around, face right. Take a step forward walking straight down towards the open archway, passing the silver fridge in the kitchen to your right. Once you're at the end of this open archway, you see a black chalkboard and a brown sign with a quote that says 'for where two or three gather in my name, I am with thee.' Now turn around, and face right, and walk straight down the hallway along the white floor. Once you're standing on top of the blue mat, and the white door is directly in front of you, and you see the two washing machines directly to your right, you're done.",
+    "distance": 17.10848242044449
+  },
+  {
+    "scan": "JeFG25nYj2p",
+    "path_id": 1974,
+    "path": [
+      "21947bd34d904610867e83c1e9a962fb",
+      "98c6fbbda3974ec28803750a3b68a03f",
+      "ec3fd35293e24e53bd326510d9717d2d",
+      "15c01d0144e6410a9c05aa49aed26d6e",
+      "2186c21f248d41c6a05da7ef4c3922eb"
+    ],
+    "instr_id": 88,
+    "heading": 4.971598383641739,
+    "instruction": "You are a facing a flowerpot beside a wall, turn around and go forward towards the bed, turn left and forward towards the curtain which is beside the glass door on to the left of the TV that is on the wall, turn around and go forward towards the entrance where you can see two lights ON, on the roof, go on step forward just before the entrance where there will be a passage on to your left, here just before the entrance you have reached the destination.",
+    "distance": 8.69856333732605
+  },
+  {
+    "scan": "r1Q1Z4BcV1o",
+    "path_id": 653,
+    "path": [
+      "8a7f0bb5cc0d4dac9f06594dd915d981",
+      "abd467777dcc41c0995588b7f97b388b",
+      "7c16246e3d12454b97b6a5cf88a21032",
+      "f3d21b0654584b5292ecae9791515ad4",
+      "3a4650fded724e8587bc8fa91e0bdfc2",
+      "6785a37dc18b4dee9c60aa496efca3e2",
+      "3965f87919674798a78e36931b3a4af1",
+      "41aaadfecbfb4c61b9810937212d2ebf",
+      "d1732bbf32ad4cf096975da88e5b2cfb",
+      "01b9c25e9cc946f6a7a53688577e2fc3",
+      "8ed24114308b42b6ab1ddebf3b3a6541",
+      "3335ef42f9b04940830e43c65ca2d971"
+    ],
+    "instr_id": 89,
+    "heading": 0.835897603164919,
+    "instruction": "You're starting in a large dining area in what looks like a fancy barn. You're facing a pillar. To the left of that, across the room, is a long table with a white table cloth. Step up to the left side of that table. You're going to continue down to the left of this room, to leave it, by walking along the right wall, which will be on your right, and then the dining tables will be on your left. You'll continue out of this room toward a wooden staircase that you're not going to go up, but that's a landmark for you. That staircase will also have another long table with a white table cloth. You will exit two wooden, double doors when you're getting close to that table with the cloth and the stairs. When you get to this point, you'll take a right into a tiled area. There's a large chandelier and a door says \"Coat Room,\" above it. Turning more right into the room, you will see a pedestal or table in the middle of the room. Just to the left of that, you will see some black stools. You'll see that two are sitting parallel to each other. Walk up to the one on the most right that's next to the open door. This is where you stop.",
+    "distance": 28.187631011009216
+  },
+  {
+    "scan": "cV4RVeZvu5T",
+    "path_id": 15467,
+    "path": [
+      "8a27e5d9583e4459a0db21d42d8f0249",
+      "faa7088781e647d09df1d5b470609aa3",
+      "7d708a5b80ee45979870bae83b2bdd44",
+      "c29e99f090194613b5b11af906c47dab",
+      "5125c4a0a99f45788e694d5a73ba99c7",
+      "7cd02069ac1546319b95be27fc04d7b5",
+      "20a224daa51e4890a3a954239da2f1c4",
+      "185a777f88df4f4caef435ac26323c85",
+      "629d8b184bc64fcab6bea40d18d71c66",
+      "c0b35cf0420249eebcfd32127aec6a6d",
+      "39f7bd2434cc4f4798baec7990880eb6",
+      "f8a1271047a0471e83c51ec2be8df013",
+      "a4d731efebcc4e9f8902a6de63f998fb"
+    ],
+    "instr_id": 90,
+    "heading": 2.8448928051690414,
+    "instruction": "You are facing towards the window in front of you, turn around, go straight and exit the bedroom, there are few steps in front of you, climb the steps and go straight, turn left, there are stairs in front of you, go up the stairs, there is an open door in front of you, enter the door, go straight, turn left, there is an open door in front of you at the corner of the room, go straight, turn left and enter the door, turn left, move forward, turn right, there is a ladder in front of you, go up the ladder completely, there is a bed on the right side, go straight and stop in front of the bed, this is your final destination.",
+    "distance": 17.989634931087494
+  },
+  {
+    "scan": "b8cTxDM8gDG",
+    "path_id": 3995,
+    "path": [
+      "e6a986df157c456ab9389342a18f642c",
+      "53ae399ddaee4ffba2d5c078644fc3e6",
+      "91b2405dc77f4ea7941586109ab53e7f",
+      "c2ccfcbf74824095965c81c64f15081e",
+      "fe7d2c6830bd45f680b43a6a5298d218",
+      "afc1807e6a1946b79137c1a158526913",
+      "452f930d3b20485088ca14b716189512",
+      "f2e403f149ae451eb8fc5ab27ec96e9f",
+      "f0f377d341c34670bcd9d861d903d747"
+    ],
+    "instr_id": 91,
+    "heading": 5.40183791570868,
+    "instruction": "Your standing in a living room, facing towards a wall and the wall has a photo frame, on your left there is a dinning table surrounded with a white chairs, on the right you have a white couch. Now turn to your right, you have an white couch on your left and glass door on your right, now walk straight. Now you can see a brown ward-roof on your left, now slightly turn to your right and walk straight. Now there is a platform on your left and a sofa unit on your right, now little bit walk straight and turn to your left and walk straight. In-front of you now you can see a stove, now turn back. You can see a staircase, walk to the staircase, there is an one step, climb the step and walk straight. You can see an open door in-front of you, exit the room through the open door and that's your end point",
+    "distance": 22.01009750366211
+  },
+  {
+    "scan": "cV4RVeZvu5T",
+    "path_id": 3742,
+    "path": [
+      "72a70368733b4efa8678994b32428fbb",
+      "5f8485232eeb4d74af9fdf2894ba058c",
+      "d70997cce0464616a65afcf28d32b41e",
+      "1b321779a4374c2b952c51820daa9e6c",
+      "20f70ab4efec496c86529075648caef2",
+      "5125c4a0a99f45788e694d5a73ba99c7",
+      "c29e99f090194613b5b11af906c47dab",
+      "519b19d242994285bd99db910f4717f6",
+      "acfc7a38863c412bbde815478879ed54"
+    ],
+    "instr_id": 92,
+    "heading": 2.7998321442539593,
+    "instruction": "You're staring at a telescope turn around and walk forward slightly to the left and go down the stairs. And then go down this small set of stairs to the next floor and turn left and walk towards this chair that's at a circular table. And hop over the chair towards the brown bench that's against the wall. Once you're in the middle of this table and bench you're done. ",
+    "distance": 14.26415467262268
+  },
+  {
+    "scan": "82sE5b5pLXE",
+    "path_id": 9944,
+    "path": [
+      "1157d0f379f04c5ba4ad1b40bdd32e64",
+      "d347f148995543ce8ae28d7c50ba5250",
+      "819dd9c54309449eaedb5187527f28df",
+      "056a491afa534b17bac36f4f5898462a",
+      "b218a220bbed4a1eb63ec9941fc58942",
+      "8bcea50c2144426cbaccb00edf38ebf1",
+      "87c5df0ecfc34be3be7b828fc7a60c21",
+      "e580467633814488b0055f9e5475fedc",
+      "3e2bda227e78440fbcaf5ea18f128088",
+      "1226e70df8e44d6596ea46945a62f689",
+      "af2982c371134df79520b348071775a0",
+      "ad3a2912de974a5690af5050e6ade942",
+      "846c8d973a1a460ca942e15733cddc71",
+      "20747c304a264be785fb31ed0c320295"
+    ],
+    "instr_id": 93,
+    "heading": 4.479956950726273,
+    "instruction": "You'll be starting on the patio, slightly right you'll see there's a pool. If you look even more right you'll see the door open leading into the house. Walk towards that door keeping the pool to your left. You're going to take a step inside and you'll see it's a open seating area. There's a large circle table to your left. To your right looks like it leads into the kitchen area. You're going to walk straight keep the circle table to your left and the wall to your right. In the distance you'll see there's a piano, and there's a small chair right in front of the piano to the right. You're going to step towards that chair, and you should be standing in front of the piano. To your right looks like a fireplace, and straight ahead there's two steps. You're going to walk to those two steps, stay to the far left, and here you're going to go up those steps and keep far left. You'll see there's some stairs leading down to a hallway, there's a door to your right, if you turn around there's an open door. You're going to proceed down the steps. Walk down the hallway passing the first doorway on your left and you're going to approach your second one. When you get to the second one, look left. Straight ahead will be a bathroom, to the right is an open doorway. Take a step into that open doorway and it'll take you into the bedroom. Now facing the bed, you'll see there's a small table in front of the bed.  You're going to step in front of the bed,so you'll be standing in between the table and the bed looking out the window, and once you get here you'll stop. ",
+    "distance": 25.750072598457336
+  },
+  {
+    "scan": "PX4nDJXEHrG",
+    "path_id": 4278,
+    "path": [
+      "ee51e32e785e4649ae13c9152ec68893",
+      "5260f113c5f542a8b6b115cbdfc9fef5",
+      "36932f17cd6f4351ac3a9efd6632e0c9",
+      "cf0febb3e6eb495daa0ef1ba776548ac"
+    ],
+    "instr_id": 94,
+    "heading": 4.748694113337354,
+    "instruction": "We start off looking at shelves. To the left of the shelves is a open pathway. Take one step to the left of the shelves and you will now see into a room that has a rug on the floor. Looks like sinks to the in the room and it has blue tile. Take one step towards that rug and turn to your right and you will see a toilet inside of a bathroom. Take one step to that toilet and stop.  ",
+    "distance": 4.95180869102478
+  },
+  {
+    "scan": "gTV8FGcVJC9",
+    "path_id": 7620,
+    "path": [
+      "ea963a87b9c949989a4dff26f62a4055",
+      "738a1bc090a64f9b9d043f3bf3f64f29",
+      "143533f78ff64e93b911ec7868911688",
+      "c1a3dc19c1154eb79d45f72d4885016d",
+      "85599a90376043339b55e424eeb9aeab",
+      "254f98bd6daa4313b04715ed29a61f88",
+      "62b294de448d4354b7bb7a4035e94a39",
+      "64ab530c61b04808a7ba2f9b6f52be66"
+    ],
+    "instr_id": 95,
+    "heading": 3.6221396759949105,
+    "instruction": "Right now you are facing towards the dinning table. Move forward towards the portrait behind the dinning table and turn right, you will find a stair case. Climb the stair case and turn left. You will find a another stair case. Stand on the third stair exactly in the middle, this is your final point.",
+    "distance": 16.59635603427887
+  },
+  {
+    "scan": "VLzqgDo317F",
+    "path_id": 5163,
+    "path": [
+      "3f75b2d4af4d4afd85666d4c1302008c",
+      "3c9615b3193a4e71ae932ea45fef8dde",
+      "813bb8880cdf4a24b48d97af1b4443a2",
+      "56cf724d00bd469c8c4b80ad9ffa68dd",
+      "807009de2d6c43bf857a9250dc76f8be",
+      "03f6e7e5c26b45d78feb5c2e3b6601e3",
+      "26dedb23c6e949dcbc1aa47b70653ef3",
+      "5ee1a604d54f459cb64f33acdd18910e"
+    ],
+    "instr_id": 96,
+    "heading": 4.920994140263823,
+    "instruction": "You're going to start facing a double sided stair case. You're going to turn around 180 degrees and from here you'll be facing a small double door. Make a right and head to the nearest door on your right. Walk down the orange carpet until you pass another set of doors. You'll see another doorway directly to your left. Enter. Now you'll be in a room with a large chandelier and a square table. Head to the right of that table and you'll have arrived at you destination. ",
+    "distance": 19.01112413406372
+  },
+  {
+    "scan": "V2XKFyX4ASd",
+    "path_id": 9527,
+    "path": [
+      "293078a983fa45eebfc063ec680637d8",
+      "b2b6f9bc6773421a90f965ba369a4786",
+      "a94e4a04e9844299a87fa2776ba442e3",
+      "deaca0e4393847c5921593c4aa7392cc",
+      "e5e991d56b1040c697d713ea1e9fdf9e",
+      "3fce8d41890d45c0aaf6b38aad66be51",
+      "89aa659e5baa4581927dae36e3dca764",
+      "1f56362dff3b4d55b99b53bd710dc264",
+      "62ff00cd262a41c6902c4f0af1a6bdc7",
+      "90134c38554c4c15b5017daacaa9182a",
+      "0c17fd1d27164de4ad2274e6e0d64a89"
+    ],
+    "instr_id": 97,
+    "heading": 0.8689266849023842,
+    "instruction": "You are standing in room, facing towards the wooden railing, slightly turn right, in-front of you there is a staircase, get down the staircase completely. Turn right, in-front of you there is a fireplace, walk to the fireplace, turn right, in-front of you you can see a wooden wall, walk to the wall, slightly turn left and walk straight, turn right, in-front of you there is an open door, walk to the open and stand at the entrance of the door, that is your end point.",
+    "distance": 15.971298813819885
+  },
+  {
+    "scan": "TbHJrupSAjP",
+    "path_id": 14277,
+    "path": [
+      "ff54834410a042ada60a3cdad16af838",
+      "d2dbbc746ddd4834aed244263d559c84",
+      "776abb57972e472cb63e25d53e287d1a",
+      "b48f150202734a7ea60102e1d22d216e",
+      "254b8a3e80634d48b0290577d5289328",
+      "759672c65fcc4a1ab1e1552fe60c0304",
+      "25a7293a04c34149a3219a5a8c226aea",
+      "71e319685a2b4acca9fe0697215daba8",
+      "3077e2bb07d8497bb5e86ff17e4a9ef8",
+      "998dfb266ae84564b136c862fae09dd5",
+      "a8311575bf3d485a81af8350aa25bddb",
+      "ea374bef649549d8a12bb06d67ed206e",
+      "652f16c963b442178288cefb6da6b922",
+      "620b7b8600ef44a88bbafff85ef225d1"
+    ],
+    "instr_id": 98,
+    "heading": 4.767969546939345,
+    "instruction": "Right now you're facing a round table with four chairs around it. Now turn left, you can see an open entrance to your left, move towards the entrance and turn left. You can see a wall in front of you with two pots in front of the wall, move towards the pots and turn left. You can see a wall in front of you, move forward towards the wall and turn left. You can see a staircase in front of you, move towards the staircase and climb up the stairs. Now, you can see a closed door in front of you. Now turn right, you can see an open entrance in front of you, move towards the entrance and enter in to the room. Now turn right and move forward towards the carpet. Now turn left, you can see a sofa and a table in front of you, move towards the sofa and stand in front of the sofa facing the portrait on the wall which is beside the window and it will be your end point.",
+    "distance": 24.450357735157013
+  },
+  {
+    "scan": "7y3sRwLe3Va",
+    "path_id": 8353,
+    "path": [
+      "50df19b5012e4451870d16320747ff9b",
+      "3429ecc6a320475fada43d43848b9aae",
+      "f3e7de357f254d15bb79bc62ef0c803e"
+    ],
+    "instr_id": 99,
+    "heading": 4.50962060558648,
+    "instruction": "You are facing towards an open entrance, which is opposite to you, and on your right side you can see a white bed, move towards the open entrance. Turn to your left, you can see another open entrance, which is right in-front of you, move towards it. You are now standing in-front of an open door, of a wash room, which is your final destination.",
+    "distance": 3.7576743364334106
+  },
+  {
+    "scan": "1LXtFkjw3qL",
+    "path_id": 4541,
+    "path": [
+      "e345211511824219a62f1b8d639c477e",
+      "de68d1221d1749b392aff06c48512cf0",
+      "99fa48d974fa43988f369b0e5766b36e",
+      "ef2bbeeb20aa4059bc79a9c3b7a45a1f",
+      "e10d6b636ed94caa87771f92b1251868"
+    ],
+    "instr_id": 100,
+    "heading": 0.29961495991784126,
+    "instruction": "You're currently at the entrance of a closet. You're looking into a hallway. Take a step forward to your right, so you're standing in front of the two brown chairs in the hallway. Now, enter the first door on your left, passing the two brown chairs on your left. Once you're at the entrance, you see it's a bedroom. In this bedroom, you see a grey cabinet, a red bed, and a green armchair. Take a step forward towards the red bed. Once you're at the right side of this red bed, take another step forward so you're standing to the left of the green armchair. Once, you see the green armchair to the right, and the abstract slightly to the left, more in front of you, you're done.",
+    "distance": 8.086004257202148
+  },
+  {
+    "scan": "b8cTxDM8gDG",
+    "path_id": 6152,
+    "path": [
+      "aab7b4372e5e477aa0da137168d5680e",
+      "c2ccfcbf74824095965c81c64f15081e",
+      "91b2405dc77f4ea7941586109ab53e7f"
+    ],
+    "instr_id": 101,
+    "heading": 2.379524882322515,
+    "instruction": "You will start by facing the mirror. Turn around jump over the white chair towards the kitchen island. Now stand on the left side of the kitchen island and you're done.",
+    "distance": 8.411599159240723
+  },
+  {
+    "scan": "oLBMNvg9in8",
+    "path_id": 10751,
+    "path": [
+      "315baaa42e294dd69e22a5033eb437cd",
+      "fb185ee47e4b452097df3b3f079de5de",
+      "ac31b754aa2740dcabddc03f933543f8",
+      "7ac330bd55b84ad383216b43753e9dd7",
+      "40d9295b108e4736a7c1e7dc5e83feec"
+    ],
+    "instr_id": 102,
+    "heading": 5.1556541913063345,
+    "instruction": "You are standing facing a very large painting, turn to your left and look ahead of you  across the oriental throw rug. You will see two beige pillars. You want to walk in between the two beige pillars into the next room. Now you will see a large white statue in the middle of the back window. You want to walk all the way to the left of the statue to the corner of the window. If you are standing facing the corner of the window ahead of you and on your left is a smaller portion of wood.(To to the right of you is the statue farther away). You have arrived at your destination.",
+    "distance": 8.856966376304626
+  },
+  {
+    "scan": "uNb9QFRL6hY",
+    "path_id": 7029,
+    "path": [
+      "b6420bd410e84f07a0f9de49500a86a3",
+      "ec75c873710b4cfe85784587e107789d",
+      "45a4210a4c224ae5be8b8ce77e6c90a7",
+      "7b1cfeb261774b58b68a0ad935b92649",
+      "20bf170c987d452cbc7b0721e9346062",
+      "b2ccf1e70dbf487f8f0e1b0827e54014",
+      "272d5682d2b940e2871c0edec0ead4fd",
+      "ce21aa1c088c431f937dcba171c9961d"
+    ],
+    "instr_id": 103,
+    "heading": 1.4446191645894704,
+    "instruction": "Right now you're on a staircase, get down the staircase and move towards the entrance of the room. Enter the room you can find a portrait on the right side and a staircase on the left side. Move towards the living area you can find a table and sofa, move towards the table which is beside the white sofa and that will be your end point. ",
+    "distance": 14.502676963806152
+  },
+  {
+    "scan": "E9uDoFAP3SH",
+    "path_id": 1602,
+    "path": [
+      "2ba2fb8b245f40d2866a676ebaf8791b",
+      "3f2dacac25214cf4951aa1294825354b",
+      "d4187eee459c477eb49e376eff9fefb4",
+      "3d11e46400a14c6cbc0ae42a5057ae97"
+    ],
+    "instr_id": 104,
+    "heading": 1.303469685411871,
+    "instruction": "Turn left from the place you are standing and go straight. You will find an open door in front of you. Now go straight and exit from the room. You will find closed doors on the right and left sides. That will be your final destination.",
+    "distance": 10.2435884475708
+  },
+  {
+    "scan": "VzqfbhrpDEA",
+    "path_id": 11286,
+    "path": [
+      "a26f1480cb934ad2ba3fa36542dffaf0",
+      "561ddcda6a2d4a74b9dd2d42e6c8e863",
+      "f40ae796663b46ba8fe48392eada6053",
+      "8c6a1212bf9f41f190e6c0b43be35b16",
+      "de3b8549d5784404af13fc30f4a5ddf2",
+      "75cc2ac383b54733b202fd94cf2a6cf5",
+      "3978074e349c44548a76c346bde34b51",
+      "05fa57d3b9a74a358b4de16920e5291c",
+      "7d9f62b0ada94d868fc96359b86d4a82",
+      "145632964ccd4f27af3d581c0fd52e7d",
+      "e20f207faf0c43fd9f6682b651aaaae2",
+      "144f0c921b1b4211a2b593a095a76b5a",
+      "d1747fe99859463a8601a2ed3885aa94",
+      "bf5ac8319e8d48568b82d9f36a064969",
+      "02fc112c72f54dad9c127dc99ad242be",
+      "8e05a52536d6480c8b3ccea3332e8d39",
+      "530469cd7a1949f98fc2ff465b67a201",
+      "8c5462fa7d924d5b8ae9877ea7d3e089",
+      "23d94c8b4d1a4e30aa909349e2f777ae",
+      "91111c6190974b33b8fc0b6a94dcff26",
+      "932611f1e4db4bd68f80a9dba5b3d55b"
+    ],
+    "instr_id": 105,
+    "heading": 0.09787720835866232,
+    "instruction": "Turn around so that handing curtain wall is to your right and all of the junk is on your left and walk between them up to the garage door. Once you get up to the garage door, turn right and walk through that open door. Once you get inside turn left and take 1 step towards the black car. Turn right and walk between the black car and wall of the garage with cleaning supplies. When you get to the front turn and walk towards the open door. Once you're in that doorway, you'll see it leads into the kitchen. Continue straight all the way through the kitchen. Then turn left and walk through that archway towards that other sink. You're then going to step through that open door and that leads you to what looks like a dining room. You are going to step right between that door nob and that chair and its a little sliver and that's where you're going to end. Standing between those 2 chairs with the door directly behind you. It looks like the chair on the left is solid velvet and the chair on the right is a flower pattern.",
+    "distance": 41.110483795404434
+  },
+  {
+    "scan": "oLBMNvg9in8",
+    "path_id": 7085,
+    "path": [
+      "07ecdce20ccc400ba2017910315f5c61",
+      "3ec2f6e7263d42dfbdc70733ac4c4241",
+      "7948ea9e2a744879b0abfa3c766dfa03",
+      "bbb19add5eef42fd981f884becfddcf6",
+      "dfe2e125efb641508d03d755a64c0b78",
+      "6ac17d87092a49a4b6a356e45a60214d",
+      "7e4d964bcf1c43259ef7ef772440f215",
+      "cff8f798d8f94bf1a952534e9d54dc57"
+    ],
+    "instr_id": 106,
+    "heading": 2.1625506503243246,
+    "instruction": "You are facing towards the wall climb the steps, you will a see open door straight in front of you. Enter into that room walk near to the couch then turn to your right side, you will see open door beside the bed light go out of the room. Turn to your right side move forward you will see open door to your left side, you will see open door enter into that room stand in front of the wash basin.",
+    "distance": 15.53837102651596
+  },
+  {
+    "scan": "e9zR4mvMWw7",
+    "path_id": 8984,
+    "path": [
+      "2594cedd9da64c338c1ba98abed9efb3",
+      "1f8ee74dbb254dff85771776279eae94",
+      "192fb2a16486430a96b34dffc2e8cbbc",
+      "2e52341d21b940b5b38a9e26c4cf4200",
+      "d72137c926c94532a63bd98193273e22",
+      "97568b167b2f41599faf06c4dab447d7",
+      "184edf3d3a4d482dae288e4811945331"
+    ],
+    "instr_id": 107,
+    "heading": 3.832959715256023,
+    "instruction": "You are in the washroom facing towards the towel hanger and an open door. Walk straightly and exit the washroom. Now you are in the bedroom. Walk straightly and exit the bedroom. Now you are standing in front of the staircase. Slightly turn left and walk through the open door. Now you are at the entrance of a bedroom. Walk straightly towards the glass window. That will be the end point.",
+    "distance": 8.562947630882263
+  },
+  {
+    "scan": "ULsKaCPVFJR",
+    "path_id": 1634,
+    "path": [
+      "461f33bfc6de496e982dd04cfa0ad2d7",
+      "c8ae82ea5c134b8ba10bb8148f1eee2d",
+      "5bc66b50e1374ca7a49ca01316891481",
+      "f50dc2ed4dd34dd1942c3c2600c2da50",
+      "1962d6bb7af4424c9902b0246ba766b8",
+      "700e21e51cd343699d77f9bfe065cb43",
+      "a7a114ea184645d9a2710541e9dfdf0a",
+      "4dbe1da290ac444cb724401272429465",
+      "34b8aac0033445599e8932a355b34695",
+      "f7664517a79b4e2ba69635bffa525d68",
+      "c73a6f3769bc471588158d99186b80e6",
+      "7c213023b8a14cf9a77272791de04b9a",
+      "5a897a166f6e4d3a8e2b2d94f03f86a2",
+      "8bb253a3e7ac4be18262b97b052bbb5a"
+    ],
+    "instr_id": 108,
+    "heading": 3.5346099541803353,
+    "instruction": "Now you are at the door, towards your right there is plant pot, turn left, walk through the walkway towards the door, exit the room, walk through the walkway, again exit the room, walk through the walkway,go straight towards  your left there is a white board on the wall, turn slightly right, walk towards the open door, it is washroom, exit the washroom and go straight towards the kitchen door, walk through the walkway, go towards the table which has lamp on it, slightly turn right, go straight towards the photo frame on the wall, turn right, go towards the door, turn completely back, slightly move right, go straight towards the living room, which has television and a sofa set, turn slightly right, walk straight towards the door, towards your left there is table and towards your right there is shelve with the books on it, that would be your final destination.",
+    "distance": 21.525493681430817
+  },
+  {
+    "scan": "e9zR4mvMWw7",
+    "path_id": 5593,
+    "path": [
+      "d08f0e14da3b4d1bbc760d73b3c3ebea",
+      "16eb46a968384060821cb59d0e04f4dd"
+    ],
+    "instr_id": 109,
+    "heading": 4.556550643854103,
+    "instruction": "Look around, you're currently standing in an empty garage. Right in front of you, you see a white doorway. Walk straight forward exiting the white door and veer towards your left until you're standing right in front of two black open doors. Once you're standing right front on the two black opening doors, overlooking the outside entrance, you're done.",
+    "distance": 3.15012264251709
+  },
+  {
+    "scan": "sT4fr6TAbpF",
+    "path_id": 6638,
+    "path": [
+      "3985f9200dbd4793babb41dab6a6d156",
+      "86231c45c6ac4672bd9c478bd0341335",
+      "c32e11fd03ac4b2bb88aafacff21527f",
+      "3aa2bb32a50049de842d066eff185b66",
+      "61551669f3094340b9a4957f92c30724",
+      "f75d8b1b682c4fee965dd7c5c2dfae74",
+      "00f205a65f374c5299b67176c0852e91",
+      "05869550e06a407a8dedf24f887c9b26",
+      "6e41a7632c5a4048a17a316d7192b97e",
+      "2f5285734159491fa089541bf820e528"
+    ],
+    "instr_id": 110,
+    "heading": 5.4708192469529795,
+    "instruction": "You are facing a door.  You are going to exit that door and make a left.  Once you exit that door on your left will be a door.  YOU are going to enter thru that door.  Continue forward and you will see a gold trellis on your right and on your left a dining room table.  Continue forward walking in between those 2.  You will see a doorway in front of you, go thru that doorway.  Once thru the doorway you will make a left.  You will see an entrance way to your left.  You are going to go thru that entrance way.  You have now entered a large room.  You will see in front of you 2 sink areas.  You are going to head towards the sink area that is on your right with no towels on the counter.  And you are going to stop right in the middle of the room.  You will be facing a bath tub area and to the left of you will be the 2 sinks.  You are done.   ",
+    "distance": 13.586041688919067
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 10587,
+    "path": [
+      "81c89eb6368341109260f88eb14a527e",
+      "16897e2c8dbd48c3a44997dad1c3801f",
+      "318bfec461484262a597cc8fedffecb7",
+      "5f04c594ab574a4b9f4535abdfab07e0",
+      "c66e1c0bbb6a4418bd97da9967ec435d",
+      "139cf2b84c594863a0e437a5ff3caa6e",
+      "a9842ed3d2064064a0c6a8c661916237",
+      "599f73b398ef4e738aae7f557c0b35c6",
+      "33a824661ad34d9391d80d87485b5356",
+      "45eac43ea9054cbbaa91863a5aa202fa",
+      "6b3e8eaf98a14207b9ec30d4105938ce",
+      "3c4a8eb4ef504942b6df1937932aa3f2",
+      "4e3ca18a1d6848529e1e97e841b3faa9"
+    ],
+    "instr_id": 111,
+    "heading": 4.260679302386249,
+    "instruction": "We are standing in a bathroom with a large oval bathtub behind us. We will exit, passing an orchid on our right. At the hallway we will make a left, then a right. Walk through the house past the stairway on our left, continuing down the hallway. We will see an open door where we will turn right into. Passing an empty closet on our left, we will step onto the carpet where we have reached our destination. Someone's bedroom with a silk grey comforter and pillows.",
+    "distance": 25.811949729919434
+  },
+  {
+    "scan": "jh4fc5c5qoQ",
+    "path_id": 5865,
+    "path": [
+      "0565dcc2a0d54d72b97f26a1a14cebe5",
+      "abbdc7ac89204f23a935fcb9ccae887c",
+      "8554983cf79243f6bfb0f6fa8950e8a5"
+    ],
+    "instr_id": 112,
+    "heading": 3.0771513989247543,
+    "instruction": "You're facing towards, towards the sink, walk a few steps forward, and now your are standing beside a white colour sofa, turn around and walk straight towards the washing machine on to your left side, now you can see a white colour door open in front of you, enter the door which is the washroom, and in between that door is your final destination.",
+    "distance": 3.44332218170166
+  },
+  {
+    "scan": "e9zR4mvMWw7",
+    "path_id": 3831,
+    "path": [
+      "bd4e11be09984e629481101dcbb90fb1",
+      "93ae7faedd9d4f7e84e6e0321ad87abf",
+      "1d316dfbe35f41dd9203eaf88be5aae8",
+      "2224be23a70a475ea6daa55d4c90a91b",
+      "c29b4f1d36ec4692958225cac3a70ba5",
+      "f6c327acf9884d988714467217d67dcd",
+      "6a856f5cb71645558f9f9ee069f37f1b",
+      "a3ee9fb71295423698f77a7979910baf"
+    ],
+    "instr_id": 113,
+    "heading": 3.307689728270981,
+    "instruction": "You will start by standing on the doorway. Turn left and continue inside. You will see a dining table on your right. Stand on the left side of this dining table. In front of you you will see a white counter walk towards that. Turn left and continue to walk down the kitchen area. Walk towards another dining table in front of you and turn right take a step towards the sliding doors. Stand in the corner of the railing on the left. Once you're standing in front of that corner and facing the pool then you're done.",
+    "distance": 14.307180106639862
+  },
+  {
+    "scan": "Uxmj2M2itWa",
+    "path_id": 11809,
+    "path": [
+      "6028b7e2036c448999b5bd48d16a4175",
+      "9bd2d2a2178a40f08b8681dfd996c7b7",
+      "9f1591971b10420eafc7424d68339d99",
+      "75901739e73f477a9d418f119dc0570e",
+      "9e3431d5d6414ca6bd3c159a25c30999",
+      "a6fea230be6d47bcbb520d23e8d55724",
+      "b11577607584497581c9433f5406c55b",
+      "67b8535df7ae45809c807744186d7a1f"
+    ],
+    "instr_id": 114,
+    "heading": 3.4868183368556274,
+    "instruction": "You are facing towards the stove. Slightly turn left and exit the kitchen. Turn right and move towards the wall. Now you are standing on the stairs. Turn around and move towards the red relaxing chairs by passing through the open door. Now slightly turn right and move towards the open door. Walk through the door and enter into the room. Now you are in a washroom. Walk straightly and stand on the commode. That will be the end point.",
+    "distance": 12.45642602443695
+  },
+  {
+    "scan": "8WUmhLawc2A",
+    "path_id": 10737,
+    "path": [
+      "7bb21e85f02a4d468cd1c7040e46c596",
+      "e33610a744554c9d9202fa95100304ff",
+      "c3f75cb415554a919dbc49eaaebc702e",
+      "276586d2d2e14dde82b112c03ccf2188",
+      "491b9b2d5e63400f9b448e5603dd05ae",
+      "814d9aba371640e5a70bcb7833bfe08f",
+      "1e951fdbfd9d45bbaf935da945f5425c",
+      "62e602fc5b85463dbd8f48ba625d05ef",
+      "e0d2a4e22abe44d7810d7e448fff6704",
+      "f553a3287fb2438b979f09b09448c7c0",
+      "9871b1fb068b495fa3e2ddac2f54cc16",
+      "5848b29e18924f5594fbec08340fb7a9",
+      "74a12d0675b54d6193ba63104a6a8e2e",
+      "34d76d6db3484d04a47482685c9ab420",
+      "b3cb0280416742fc9dcba0d2d9e5d2f7",
+      "264730e5fb744a3f800379ad7ac51c45",
+      "cd6357a188f041d09444f1ce273f5290"
+    ],
+    "instr_id": 115,
+    "heading": 5.798564757090957,
+    "instruction": "Now you are facing the table, turn around and move towards the fireplace. Turn right and move towards the glass window, turn right and walk behind the sofa towards the refrigerator. Slightly turn right and move forward towards the arch, slightly turn right, you can see the sink, move towards it. Turn around and exit the bathroom. Turn right and enter the room through an open brown colour door, turn left and climb up the stairs and slightly turn right and stop in between the sofas. This is the endpoint.   ",
+    "distance": 29.21590930223465
+  },
+  {
+    "scan": "Vvot9Ly1tCj",
+    "path_id": 6568,
+    "path": [
+      "68adef6d5c0e4ba9965de639ef994cfd",
+      "69bfe7e5f2ee4facbc130becf22ff496",
+      "3a04fad0c67f4d99b63b6e6f9ad56204",
+      "708250b7e83d455a9681a0d6b6de6a18",
+      "7634dd7ab18648abae6bb8bb1517cefe",
+      "3a20a0de02774a50b90d1b56e47409a8",
+      "b4bc7bfcda5b4c46aee88fcbb2688fae",
+      "ec1b5ed22ffb430883db75696a30061c",
+      "2b620a64437e43a187c18892ac8fc0e9",
+      "7ef912e7c11440429e9494cc71cb173f",
+      "dc37327c246a47a3835ced7261b8da46",
+      "b5de38fa174e49ccb91d7140b03a4da8"
+    ],
+    "instr_id": 116,
+    "heading": 5.003834445717691,
+    "instruction": "You are looking at a painting inside a washroom, turn around and exit the washroom, through the opening on your right then turn right once again, and now you should be standing outside near the two pillars, stand in between the two pillar on your right and the wall on your left, and proceed right and enter the home stepping through the two mats says pgi homes, and once you are facing the round table and the carpet stay on the right side in the living room, take a step on the beige carpet and walk in between the round table on your left and the beige sofa on your right, take few steps between them ,proceed straight ahead and again stand on the pgi homes mat and stand near the pillar on the wall on your left and right, you are done.",
+    "distance": 25.285723745822906
+  },
+  {
+    "scan": "XcA2TqTSSAj",
+    "path_id": 14065,
+    "path": [
+      "51303f65f927488da25d420f328ce63b",
+      "1ec7b02628964cedb052c29579e6d404",
+      "8e9f6d822fb04edd9c2217d223af3f9d",
+      "dc24c0e57e874e40a3ece84d23c012e2",
+      "00e1ca9383af4c7ba86241fdeeb73819",
+      "871249bea9924fdba9937759ff5a22f4",
+      "387707c22d4447f4b8ceff7a4ae26c46",
+      "4ab5217c7908473c807f873ebd3a5ff1"
+    ],
+    "instr_id": 117,
+    "heading": 2.26904359590777,
+    "instruction": "You are facing towards a wall, turn left exit the washroom, climb the stairs, turn right take a step ahead, turn right walk towards the bed, slightly turn left take a step ahead. You are now facing towards a curtain with a bed on your right and an open entrance on your left. You have reached your destination.",
+    "distance": 13.217845618724823
+  },
+  {
+    "scan": "QUCTc6BB5sX",
+    "path_id": 266,
+    "path": [
+      "e4aa820229c5437096e4f41abf33c452",
+      "cc0df704278a4f009b2239afd9a2ec9d",
+      "7e94b116c45043369954c6691acaeacd"
+    ],
+    "instr_id": 118,
+    "heading": 3.953773441670683,
+    "instruction": "Right now you are facing to the corner of the cupboards. Now turn left. You will find an open door. Now exit from the room. You will find another room in front of you. Now enter into the room. That will be your final destination.",
+    "distance": 3.0894501209259033
+  },
+  {
+    "scan": "1LXtFkjw3qL",
+    "path_id": 2821,
+    "path": [
+      "5908a457f37a470aa0e8cd389f31d438",
+      "f3d9a22621e14992b8b3fb9776f0395b",
+      "751a95287d8e487eac608776f5e3a546",
+      "15791b161c944d269ae3727bf19fc1a6",
+      "d7ec37565be24b1ca1d4f99c34fc1632",
+      "99fa48d974fa43988f369b0e5766b36e",
+      "ef2bbeeb20aa4059bc79a9c3b7a45a1f"
+    ],
+    "instr_id": 119,
+    "heading": 2.906257328240188,
+    "instruction": "You are facing towards the wall and the mirror. Turn right and exit the room. Now walk straightly in the hallway till you find two steps in front of you. Get down the steps. Now walk straightly till you find a washroom on your left side. Turn right and move towards the open room. Enter into the room. Now you are facing towards the glass window. There is a bed and the cupboard on your left side and a mirror on your right side. That will be the end point.",
+    "distance": 12.012391567230225
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 11239,
+    "path": [
+      "890c5356b4da4a418e223fc9e366bf89",
+      "9977d41540f44813becd1f319db571ef",
+      "700e564b1a6f4ae2a7a230639c9f2b7f",
+      "9b0ea58d8244411592f46e0c560d8595",
+      "2e532d8410fd4761b8166eedc0470347",
+      "2db303a83ba541d78aa9ac23df3c4c7c"
+    ],
+    "instr_id": 120,
+    "heading": 1.7953864535987343,
+    "instruction": "We're facing towards an empty portion of a closet, on the left there are three shirts, four shirts rather... Turn around and walk past the sink area that's in front of you, and walk past the doorway that's in front of you... We're now facing towards a shower area, on your right there's a white bathtub, on your left there are many glass doors, take a few steps further... You're now facing towards a sink and there's a pot with flowers on top, walk past the sink and walk towards the door that's in the opposite side of the bathtub... Once you walk into that door, you'll find yourself inside this closet... In front of you there's a window, on your right there's an S shape shelf, walk towards the right side of the cabinet that's right below the S shape shelf, and once you're facing the S shape shelf, you have reached your destination.  ",
+    "distance": 9.562902867794037
+  },
+  {
+    "scan": "VFuaQ6m2Qom",
+    "path_id": 4859,
+    "path": [
+      "e9660b3808844e42983bfe348a6c1916",
+      "722c4e53817f48e2aff7099315376b15",
+      "23b907de91124aa2893d467659eac406",
+      "6d9e2419fb8e40d0b158e33798e134f5",
+      "e2191119aba24d3d9326ff49c302f1f8",
+      "a2a92d9d779a4539b927d97cee67bcb2",
+      "74857ed8508348a18917f251a5a93cb5",
+      "d7269019e09949d6a1299cfe92e3bcbd"
+    ],
+    "instr_id": 121,
+    "heading": 1.2950415918032334,
+    "instruction": "You are facing towards the glass doors. Walk straightly through the glass door and enter into the house. Now you are in the living room. Walk straightly towards the tea-poi which is on your right side. Walk straightly towards the open arch. Now slightly turn right and move towards the grey couch. Turn right and move towards the small round table. Slightly turn left and move towards the mirror. Stand near the mirror and that will be the end point.",
+    "distance": 16.657258987426758
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 11911,
+    "path": [
+      "57180afbe3c341b18a9483752afb6f9a",
+      "1880ed0a5e3144739cd5fcaacf3b4dfd",
+      "40bd5db3c01e445d903b58f86beaf72a",
+      "10e1ff604f364dedaa146d4f387399be",
+      "14f795852b794fd79f8867eb631fb873",
+      "547c469228044c6999ce9384bd83a1b7",
+      "3103ac3f8af84b21baa815a539ef2d1f",
+      "e34627d6e1e740b88b2fcb25d08e4029",
+      "c66a3e6ef48143f5a86d202e62515386",
+      "8a114fb97390409e9f438a77f8fe913f",
+      "d547331b610244018371be43294f36c1",
+      "b02ebc952fcf4ff0942c56b2b3251b44",
+      "72f2dbee67884e7d9bd70158fe8e66c9"
+    ],
+    "instr_id": 122,
+    "heading": 2.4064182260227596,
+    "instruction": "You are standing outside near a balcony, look straight ahead their are two glass doors opened in front of you and a blue couch, move towards that and look straight ahead, their is a bed with satin bed cover and so move towards that not to much close that, once you are near the foot rest and the foot of the bed, look at left towards the another foot rest and the chair crossing the blue carpet on the floor. once you are near the chair and the foot rest again look straight ahead towards the close glass door in the balcony, so the door just magically opens and you are stepping outside in the balcony, once you are near that, outside in the balcony turn right and enter a room which has fire place,TV and a cactus plant on your right and on your left their is office place like with desk and chairs, so proceed straight ahead towards the opening near the cactus plant once you are near that turn right and you are facing a hall way straight ahead on your right their is a planter and on your left their is a glass railing so continue straight ahead staying in middle of them, passing the paintings on your left and approaching the staircase on your left and a black figure  of a black figure status of a women, so once you are near that you are done.",
+    "distance": 26.268603920936584
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 8720,
+    "path": [
+      "8a12480e7006496ca01c288e8b90e471",
+      "6811d52593b740cb9047202ce1e8a1e4",
+      "92b354c34ef04db58d7df4a754253ac4",
+      "736a864f92174a1facfc05a0eb246091",
+      "6fb42054fdfb4b6bbf3831589a8c56e5",
+      "f5d15314913f4453aca1219437398794",
+      "87298f50ef9140d891e1a06b4f1fab8a"
+    ],
+    "instr_id": 123,
+    "heading": 6.0253465981618435,
+    "instruction": "You are facing a brown wall and some closets, turn on your left, and now you should be facing a wall, walk towards that and turn left, once you turn left, you should be facing a kitchen in front of you, so walk towards the kitchen. Now position your self in between the counter with the sink on your left and the counters and the oven on your right. Once you are near the counters and in between them, you should be facing down towards the door of the patio, walk towards that, once you are the door at the threshold of the patio door, turn around and walk towards the grey sofa in the lounge, once you are at the grey sofa, you should be facing straight ahead that their is a another light grey sofa with a foot rest so walk towards that, towards the left side of the sofa and you should be  standing next to the foot rest and you are done.",
+    "distance": 17.691743910312653
+  },
+  {
+    "scan": "1pXnuDYAj8r",
+    "path_id": 137,
+    "path": [
+      "f7ef3082a05c40659421f0a21731ae1b",
+      "20f6b7fcb5254024aacdd907da2eb315",
+      "64fdd371adc042558d30fa9bd00a00f5",
+      "3a457e1e32504249a561c9d259e0835a",
+      "8e63389afc02448a9d0dd695bc50253a",
+      "7d1e000e54d942168b24155d12cd265b",
+      "deb99671679648e28ccf7d622051ab46",
+      "d0df0bc30e9a4f13a6fdbebb9cdd1964",
+      "a3b6871652f240f583142a78463d5665"
+    ],
+    "instr_id": 124,
+    "heading": 4.646348919047919,
+    "instruction": "Slide right towards the pillar and walk straight towards the white color chair, now slide left and walk straight along the path between the brown color table and the ash color sofa, now slide right and walk straight towards the glass window, now slide right and move straight along the path between the fire place and the brown table, move straight towards the potted plant, now slide left and walk into the open entrance and move straight towards the brown color table and chair, now slide left towards the blue color couch and move straight, now slide left and walk along the path between the white color couch and the chocolate color table and walk straight towards the potted plant near the lamp and you have reached your destination. ",
+    "distance": 27.03360915184021
+  },
+  {
+    "scan": "2n8kARJN3HM",
+    "path_id": 6805,
+    "path": [
+      "a92ada1b9db2420ca7e1b55d372f8ffa",
+      "4ad533e309ca4c61856c953afb7876b6",
+      "a78621aa1fa24b99bc2752ee584416c8",
+      "191a72d3b89e49e0a7d12bcc79afd08e",
+      "ec4ed8858a1046e58d03a7f2c2058716",
+      "d70a4ce871ad4d738eb7f3f44bd30a1e",
+      "a2d715cae8434b6fb1f98d393964d633",
+      "2fc43c5dbfd64de19b6b720a6e67babb",
+      "92c3195e612e4fc49fe5b5c687dd5ce5",
+      "35202b9ad8d64ce3ad53193ee0ca1f73",
+      "36e6935d948843a8a292782b2919291b",
+      "acafa24b747d432bb80c1d045b7177ed",
+      "b01bbec805a345ee8e1ab9df2af011fe",
+      "98fd22dab4974af1bc2d351d7532dcaa",
+      "031cc54b957148d3b419d1e4c0f917c7",
+      "73cae217994f43b787d1c5ca2f120fb8",
+      "a339aba7f1734e4abfd2694289d53904"
+    ],
+    "instr_id": 125,
+    "heading": 5.419012172878754,
+    "instruction": "You are facing towards the white small platform which is next to the mirror. Turn right and move forward. Slightly turn left and move towards the steps. Turn right and get down the steps. Now you can see a pole in between the steps. Turn slight left and move towards the open door. Now you are towards an open door, turn left and move forward. Now you can see bathtub to your left and also opposite to you. Move towards the bathtub which is opposite to you. Now you are facing towards the steps and the bathtub. Turn right and move towards the open door. Turn right and move forward. Walk straight towards the wall. Now you are facing towards the wall. The position you are standing is your final destination.",
+    "distance": 32.13566505908966
+  },
+  {
+    "scan": "QUCTc6BB5sX",
+    "path_id": 3207,
+    "path": [
+      "232e797493674e19a8016e626665b8b0",
+      "b2a808be7a684e2d9e36517c5036d6be",
+      "44c1bb13d8df4ee0aec67f1ac63521d4"
+    ],
+    "instr_id": 126,
+    "heading": 2.992376927963861,
+    "instruction": "You are facing towards the door, turn slight right and take few steps ahead. You are facing towards the wall, turn left and move forward. Now you are standing next to the second chair, which is your final destination.",
+    "distance": 5.53667140007019
+  },
+  {
+    "scan": "VFuaQ6m2Qom",
+    "path_id": 6910,
+    "path": [
+      "bdbc2be86e1644fd97f2a2dc9b5585d1",
+      "6e0f8f8ec9b8437b8998d34ef142cc62",
+      "ff4f6e50c40147aebdcf0b7c485d6924",
+      "e2191119aba24d3d9326ff49c302f1f8",
+      "ad6d632f2967414abfcc9aedbc12c1cb",
+      "fa60177899f4443c920a4f7c86f25643",
+      "82aa04ad31f640f09a9d7aa4a6fd224e",
+      "505e4b7e84284f5da963ff84b8bac44c",
+      "52d0bc7591a34dae8557db931cfabca6",
+      "2440860450f140fe93cac6c281f89af8"
+    ],
+    "instr_id": 127,
+    "heading": 2.392116538856046,
+    "instruction": "Right now you are standing in front of a table, take a right from that table. There is a sofa in front of you. From that sofa take a left and pass that sofa. After passing that sofa, turn to your rightwards. There is an entrance, walk straight through that entrance till you reach a table on which there is a vase. After reaching the table, take a left and continue straight. After that you will take a left where stairs are present. You need to climb the stairs, approximately 15 stairs. After climbing you will reach your end point. This is your destination.",
+    "distance": 19.53243637084961
+  },
+  {
+    "scan": "Z6MFQCViBuw",
+    "path_id": 3274,
+    "path": [
+      "b68bedaea16f407cae5544858d63e086",
+      "bc4ec1f735f3446aa4b56165d9508b45",
+      "bc9bd723cae547c290bb24692fd1b8ce",
+      "9ba1bda76e7f4ee680326cbbc8ab147d",
+      "7fd32fb4686b47a29b435aa6564245d3",
+      "a38fc71b78d24fd2b80cfaaa8140a0de",
+      "087236543c9a4043a0a3d824b7eef95f",
+      "22fff6c74efb476592569c18718feb41"
+    ],
+    "instr_id": 128,
+    "heading": 3.1755949533821344,
+    "instruction": "You are facing towards a window with a curtain, turn to your right and move forward towards the open door and exit through it. Turn slightly to your left and move forward. Now turn slightly right and you can see an open door, move forward, turn slightly right and enter through it. Move forward and stop just before the entrance of another open door and this is your destination.",
+    "distance": 14.67070609331131
+  },
+  {
+    "scan": "B6ByNegPMKs",
+    "path_id": 2152,
+    "path": [
+      "247e406769914b56a627b039639a03a1",
+      "235da87c4719411a88cf0f003e62f207",
+      "3ed4b41c29004cdc97e02ab7716d83e5",
+      "429c82fd297749ebb8d09f95ef888b3c",
+      "d7b24d1e4dfd45b389c40f2f743f7eec"
+    ],
+    "instr_id": 129,
+    "heading": 2.4731817321860454,
+    "instruction": "You will start by facing a pillar. Turn right and walk towards the doorway right across from you. Now turn around and take a step on the hallway. Turn left and take two steps forward and you're done.",
+    "distance": 5.7056538462638855
+  },
+  {
+    "scan": "gTV8FGcVJC9",
+    "path_id": 3231,
+    "path": [
+      "7b4ab60d14a345dd913de4b54796f145",
+      "3c06ad3810dc4078a111201589abf5e1",
+      "86d4b0bdb2304121aafe821042262f27",
+      "58cdef27c7d74befb1a6c8048a182ee6",
+      "74fab598f7d94d878f9d6fbe6a6e8eff",
+      "494d1e9dd7d24db78ecbf6b455ac7817",
+      "86746af81a6d40be9393a8ed6810598a",
+      "3ddd59f85e8a46c5a47518ec06945482"
+    ],
+    "instr_id": 130,
+    "heading": 4.531390422096874,
+    "instruction": "You're in a bedroom, look left and walk toward the reclining chair. Turn right and hop to the door leading out of the room, hang a right in the hallway. Take the first left in the hallway going to the stairs. Walk to the third window by the stairwell the one on the far left. There will be a clock in front of you, stop.",
+    "distance": 18.21676206588745
+  },
+  {
+    "scan": "7y3sRwLe3Va",
+    "path_id": 13555,
+    "path": [
+      "8bb3222421334f02a07273f14a9b2d32",
+      "a775c7668ca9419daaf506e76851821e"
+    ],
+    "instr_id": 131,
+    "heading": 0.6564570578493276,
+    "instruction": "Now your facing towards the cupboards, slightly turn left towards the dining table, go straight near the white color chair, this would be your end point.",
+    "distance": 1.7059361934661865
+  },
+  {
+    "scan": "B6ByNegPMKs",
+    "path_id": 16124,
+    "path": [
+      "d2dcbd73533446dcaf50e6be98c30386",
+      "7b827ba320974abe92356d1794a5b53e",
+      "80c114a61294430d948ddfebe5f375cf"
+    ],
+    "instr_id": 132,
+    "heading": 0.055348187763335055,
+    "instruction": "You are at the entrance of the room, facing towards the glass walls, turn right, walk few steps forward, take immediate right and walk straight in to the room, towards your right there is a table and towards your left there is a desktop, now you are in front of the glass window, this would be your final destination.",
+    "distance": 4.000076055526733
+  },
+  {
+    "scan": "e9zR4mvMWw7",
+    "path_id": 8732,
+    "path": [
+      "5117df51d5b64847980813ed0519f031",
+      "5d5aa3fb8039496b9930c0ca09d277c2",
+      "710da9a279be4fa8bff8997607fde63d"
+    ],
+    "instr_id": 133,
+    "heading": 6.125478938523295,
+    "instruction": "You are now facing the wall which is between the two doors, from there take an about turn. Enter into the room and stand at the entrance, now from there slightly take a left turn, go near to the brown color cupboard and stand there facing towards the blue color wall.  ",
+    "distance": 3.1727943420410156
+  },
+  {
+    "scan": "ac26ZMwG7aT",
+    "path_id": 3171,
+    "path": [
+      "24a5c4d4de2e47fba4cd35a2cf63bafe",
+      "96b25d845ff447cc989dfd87c88ff8b8",
+      "7fb0cc6c0754461ca29084c1d793b600",
+      "c370bbcbfbf649e38524754b668bb1b2",
+      "a7c9d5a193dd450fb2d2f04f71935ca4",
+      "312c145aacbd4014909e033462abdd9e",
+      "61c6596ffc2a4d788d93acf6541c7d95",
+      "0d258e8698254e6db674bd4bb11ed8d2",
+      "5a958f240c5e420488d1129208451602"
+    ],
+    "instr_id": 134,
+    "heading": 3.7412123786861073,
+    "instruction": "Okay, heading towards the left there is dinning table and one of the corner of that dinning table in that room there is an entrance from the door which will lead you to the space where there is small room for the electricity and for the motor generation.Take right from that corner you will enter in to the room wherein you will find some stores,it is kind of store room ,where you find some hardware things in that room.",
+    "distance": 20.075784981250763
+  },
+  {
+    "scan": "gTV8FGcVJC9",
+    "path_id": 11114,
+    "path": [
+      "fef0fea795a8402a96ce72fda02a04bd",
+      "a70ec724684a431f9465d00e8d310f14",
+      "c0c06b1d56614f24afd65e83f3abe691",
+      "377abab23e7f4e7f8f357496577ea5e8",
+      "494d1e9dd7d24db78ecbf6b455ac7817",
+      "74fab598f7d94d878f9d6fbe6a6e8eff",
+      "58cdef27c7d74befb1a6c8048a182ee6",
+      "86d4b0bdb2304121aafe821042262f27",
+      "9bee0f9fbe1b4ea2b7913f4cf71e195b"
+    ],
+    "instr_id": 135,
+    "heading": 4.456810097429,
+    "instruction": "Now you are facing to the sink. Turn to your left and exit the washroom, on your left there is a open door, move forward, move forward by passing the couch on your left towards the railing, if you look forward there is a small entrance, move towards the entrance and enter into the bed room, move forward towards the bed, on your right there is a lamp beside that a window move towards it and you can stop.",
+    "distance": 18.468478441238403
+  },
+  {
+    "scan": "8WUmhLawc2A",
+    "path_id": 15625,
+    "path": [
+      "0b2466cdbed84bdaa8524a4eb90669d7",
+      "c7cee9420a28477593293777b783e174",
+      "68fac2c327914533a1e698467c0b22cb",
+      "52be196a34fd415fa984b16aa270481c",
+      "cf1ab29600a546cf8c82484c06b60425",
+      "7921c216294d43c0b7be2ca634bbf6a9",
+      "8f1936c546cb4b4d9a1f6a6ad8949e5a",
+      "32c24c4472f346bc9b292f8997b9f82e",
+      "5848b29e18924f5594fbec08340fb7a9",
+      "6c4ef6ac616042bc9fe4adc5f6d21b10"
+    ],
+    "instr_id": 136,
+    "heading": 2.0883837095028683,
+    "instruction": "Okay,turn around move forward on the right there is a bedroom and moving further from the bedroom ,there is a path which will lead you outside the bedroom,at the end take left which will lead you to the another path,where you find a kitchen on the left and on the right there is a small room.   ",
+    "distance": 14.833952784538269
+  },
+  {
+    "scan": "kEZ7cmS4wCh",
+    "path_id": 7141,
+    "path": [
+      "78851de517464ff6aaced75d7850b5a8",
+      "f7c349c52d7544ddb06ebaeb47ffaac9",
+      "d7627e3c55914593a2d14f1a9512ebce",
+      "5a17727c63bb4c64bd10875f8d652009",
+      "1bd459f9e678429b95ffbda52efa657b",
+      "e908015113524e25a0fe06c0f88d6bb2",
+      "a9842ed3d2064064a0c6a8c661916237",
+      "599f73b398ef4e738aae7f557c0b35c6",
+      "33a824661ad34d9391d80d87485b5356",
+      "45eac43ea9054cbbaa91863a5aa202fa"
+    ],
+    "instr_id": 137,
+    "heading": 0.2575963186734418,
+    "instruction": "We're facing towards a walkway, on the left and on the right there are small trees, and we;re in the middle of this rounded area, turn around... In front of you there's an entrance to the house, walk towards it... Before you enter you 'll come across a small staircase, walk down the stairs and enter the house, you'll come across a glass handrail and you'll be facing towards a swimming pool area, turn towards the left, on your right there's a grey wall and on your left there's a staircase going up, walk past the staircase, take a few steps forward, on your left there'll be three separated walls, actually, there'll be four separated walls and there'll be windows in between, actually, there'll be four separated walls and there are windows in between, walk towards the third window, you'll be facing towards a tall decoration item and behind it there's a long window, on your right there's an entrance to a room, and on your left there's a tiny window that displays the exterior part of the house, and that's your destination.",
+    "distance": 21.603290677070618
+  },
+  {
+    "scan": "V2XKFyX4ASd",
+    "path_id": 7849,
+    "path": [
+      "3476f43d65074af68ea42dfb3c350f6d",
+      "3685e73cf3c74a39a49d6818900e306f",
+      "ff14bec47e17474dbdbfeccfe40e5d39",
+      "aeccd4a96d1e4d819bc5f59bff1d156d",
+      "f7bfe15839b94a548dec94d2875b9cc3",
+      "98b08d62cf5b42d8b6c22eb40774eb97",
+      "6902e2e6503e43c0b5810d4cb229ad16",
+      "757807d9031a4c17a4675d7b19e220a5",
+      "3d8bc9f4323a47ef99f8210711ca1b60",
+      "73c4028b050e4fc98125415d9cb5d194"
+    ],
+    "instr_id": 138,
+    "heading": 4.831900215554721,
+    "instruction": "You begin in a very wooden room with a bed on your left and a bathroom on your right. Move into the bathroom on your right and then make an immediate left and step out into the carpeted movie area. Turn left and step in front of the first row of seating, and then across towards the two windows. Move to the right of those two windows and continue along the railing, keeping it on your right until you see the first door on the left hand wall. Go into that door, you should be in another bedroom. Move past the foot of the bed and then turn left and move between the bed and the gray-green couch on the right. As soon as you're between the bed and the gray-green crouch... Couch... You are done.",
+    "distance": 21.587948203086853
+  },
+  {
+    "scan": "V2XKFyX4ASd",
+    "path_id": 2281,
+    "path": [
+      "54f491ad92e347c892e35a0d48d497d2",
+      "9fb720a0582945cc81a6e6d2b63b6b30",
+      "65b7fe76c12f44f1b67c5ad7b03ba63b",
+      "30d053d37e614dd999a93cb5c5f41533",
+      "a70ce41dd9094145bb4e73eeb6fe67b5",
+      "466bd9b20f7940fd96f766b51641e3fb",
+      "0c77699c304d4126a7553456bda9da91",
+      "73bf0888b74542d5bea2da959773ae09",
+      "b1eaadc1fb0b4bb7b5f4e7afeb0fc9da",
+      "c06443aebf13409da70a8184e17663dd",
+      "2112dc2d19404cbdbc41dae916377e19",
+      "6a289d9b67cd43f4b59aab2037af221b",
+      "50e5eb51e92446a78ccfb851123e801d",
+      "6902e2e6503e43c0b5810d4cb229ad16",
+      "98b08d62cf5b42d8b6c22eb40774eb97",
+      "47ae806901ad459885b264f9475072d3",
+      "4946e84098f44469adc73166ed3bc4fa"
+    ],
+    "instr_id": 139,
+    "heading": 6.195393852302665,
+    "instruction": "You are in a bedroom beside a bed, turn towards your right and keep moving forward. After few steps, turn towards your left, beside a bathtub and walk in front of the bed. Towards your slight right, you can find a brown door of a bedroom. Go near that door and turn towards your right again. You enter into a living area and in front, you can find a white dining table, walk beside the white dining table and go near the brown door in front of you. You can find some stairs on the left side neat the door. Get down few stairs and turn towards your left again. You find some more stairs, get down those stairs also, all the way to the ground floor and in front, you can find a white window, which is made of glass. Go near that window and turn towards your left, walk beside the wall, which has some painting, which is on your right side and turn towards your left. You enter into a mini home theater, you can find two rows of sofa. Go to the sofa which is on the back row, on the left corner of the hall, near the support and you reached your destination. ",
+    "distance": 31.4747297167778
+  },
+  {
+    "scan": "Vvot9Ly1tCj",
+    "path_id": 15194,
+    "path": [
+      "3ad48835147745f7bbb166693187f1a4",
+      "6a3b0557f3824a6eae22a03c406a62e5",
+      "05160d4d0f094a5f8c907b1e44c62877",
+      "24dedd4622f941c3b086dee7ab6f5fee",
+      "5033ba00e49f449098b6a70f0542cb98",
+      "c79c815cde6449708acda28b7cb54d48",
+      "0cc50a72a6f045ea99f0f6e15e80e7eb",
+      "708250b7e83d455a9681a0d6b6de6a18",
+      "3a04fad0c67f4d99b63b6e6f9ad56204",
+      "59fe136fc3e141c2b9c55378d1b39f1e",
+      "47987e2ccb6c45d497c7b5619d9194a0",
+      "dc37327c246a47a3835ced7261b8da46",
+      "7d12c880e74b4aaca567cd3a1b2805b7"
+    ],
+    "instr_id": 140,
+    "heading": 3.481649840077272,
+    "instruction": "You are facing towards a dining table, move towards the dining table, move towards the pool which is infront of you, now you are facing towards the pool, slightly turn right and move a bit forward, slightly turn left and move forward, now you are facing towards two windows, slightly turn left and move forward towards the opened door which is on your right, enter into the house through the opened door, slightly turn left, move towards the opened door which is on your left, move a bit forward towards the couch, move towards the opened door which is infront of you and step out of the door, now you are facing towards a pillar, that would be your end point.",
+    "distance": 35.60556244850159
+  },
+  {
+    "scan": "JeFG25nYj2p",
+    "path_id": 1030,
+    "path": [
+      "1892385477bd4362b8a1d03861169db0",
+      "f29cfc331fc44746a060813f1e9ef52c",
+      "fa2cbbb20350430bb00b7039031111a7",
+      "3a0f734a7b4e46c4bcee77b78c5e3f6a",
+      "cffa1c807d2c4a708aa1e5f42aeba106",
+      "39136812de7e41b3a5e9fd431feca2c3"
+    ],
+    "instr_id": 141,
+    "heading": 5.780713939174904,
+    "instruction": "You are standing at the entrance of a room, turn slightly left and exit the room. Now turn to your left and move forward. Move forward, turn slightly left and enter through the open door which is right in front of you. Now turn slightly right and walk onto the carpet. You are now facing towards a small table and on your left side you can see two chairs and this is your end point.",
+    "distance": 7.160445809364319
+  },
+  {
+    "scan": "VVfe2KiqLaN",
+    "path_id": 3493,
+    "path": [
+      "9a896fadb819490089bf51005088f464",
+      "35b41dcbfcf84f96878f6ca28c70e5af",
+      "6b0783db762e4593ab5ff5fa7caf57ce",
+      "49e6c905a81c486baa8fec5e6e436ca9",
+      "501671cb342e44198f8867b37af987b2",
+      "5791bf29c55c4664b970a4d1adcddf06",
+      "591d52de25f64bbbb3bc6365669c5a0f",
+      "b8b37a15b628463d9cfacb168332912b",
+      "b39b9c929eab4dd3816ba5a6affb738c",
+      "9b7fc1f2ab4f4ffe9039d2742f4c7c37",
+      "cc8aaf0543a44f9fb067340d7b4d2d7e",
+      "3d5547ed57e2466bb12264e530574179",
+      "6a397fdd327d4bfa918a0d9586e4d25d",
+      "fca61d936fac41c29ef4cd060765822d",
+      "cab30cd8524348de8aa89b2c9e10167d",
+      "de5a1f3ff9b24744b104e2e796b5cb29"
+    ],
+    "instr_id": 142,
+    "heading": 1.504302042994543,
+    "instruction": "Okay, turn around you will find the bedroom a bedroom with the two large windows and a view and at the corner there is a TV.ON moving forward from the left ,you will find the door which will lead you to the out side space completely filled with a pool and a garden, where you find some plants on the two sides of the path.Moving forward from the path towards the main gate, from the left you will find the stairs ,going from the stairs on to the top, take left you will find the roof of the building ,where it is completely filled with some sofas and there is a view of the complete open sky from that roof top.",
+    "distance": 25.135093867778778
+  },
+  {
+    "scan": "QUCTc6BB5sX",
+    "path_id": 1417,
+    "path": [
+      "2c339e46d4b643bcaa41d6ab2b90f158",
+      "747f76b8196d4de28339e240992a0ee1",
+      "91aabf29b8ec4aecabb6875841240704",
+      "e8b0f0c7fa3f4f79b6a7f16144c545fc",
+      "b2a808be7a684e2d9e36517c5036d6be",
+      "3060872e2eea4052825cc19b97892378"
+    ],
+    "instr_id": 143,
+    "heading": 0.6120117453941982,
+    "instruction": "Right now you are facing towards a portrait, turn left and you have a pillar on your left beside the lam shed, move towards the pillar and turn right. You have a wooden box with a plant on it in front of you in the kitchen area. Move towards it, right now you are in the kitchen and you have a window in front of you, move towards it and turn right. Enter into the arch in front of you, you have a dinning table in front of you and a cup board with a window in it. Move forward towards it and this is your final destination.",
+    "distance": 14.244370222091675
+  }
+]
