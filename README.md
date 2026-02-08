@@ -171,10 +171,9 @@ Exec_code/
       ...
 ```
 
-If you already have your own rendered observations, you can instead point `--img_root` in the Execution scripts
-to your own image directory.
+If you already have your own rendered observations, you can instead point `--img_root` in the Execution scripts to your own image directory.
 
-### 2.3 Image data for Comprehension
+### 2.3 Image data for Comprehension (UNDO)
 
 The Comprehension part expects preprocessed image data under:
 
@@ -188,8 +187,7 @@ In this release, we **do not** include Matterport3D images in the repository due
 We will later provide an official preprocessing script that converts raw Matterport3D data
 into the full image library expected under `Comp_code/Data/`.
 
-For now, if you want to run Comprehension on your own data or larger subsets,  
-you will need to prepare the images yourself to match the expected directory structure.
+For now, if you want to run Comprehension on your own data or larger subsets,  you will need to prepare the images yourself to match the expected directory structure.
 
 ---
 
